@@ -1,0 +1,1186 @@
+- question: Winding road, right turn ahead
+  question_image: 9450067915968d4e.png
+  answer: O
+  number: 1
+  difficulty: easy
+- question: Winding road, left turn ahead
+  question_image: 9450067915968d4e.png
+  answer: X
+  number: 2
+  difficulty: easy
+- question: Crossroads ahead
+  question_image: 487d6b055de7519f.png
+  answer: O
+  number: 3
+  difficulty: medium
+- question: First-aid station
+  question_image: 487d6b055de7519f.png
+  answer: X
+  number: 4
+  difficulty: medium
+- question: Road narrows
+  question_image: 13091d81c6869405.png
+  answer: O
+  number: 5
+  difficulty: hard
+- question: Narrow bridge
+  question_image: 13091d81c6869405.png
+  answer: X
+  number: 6
+  difficulty: hard
+- question: Steep uphill ahead
+  question_image: 3e410e1440dd96a6.png
+  answer: O
+  number: 7
+  difficulty: easy
+- question: Steep downgrade ahead
+  question_image: 3e410e1440dd96a6.png
+  answer: X
+  number: 8
+  difficulty: easy
+- question: Narrow bridge
+  question_image: d8b7f5679746ba68.png
+  answer: O
+  number: 9
+  difficulty: hard
+- question: Narrow road
+  question_image: d8b7f5679746ba68.png
+  answer: X
+  number: 10
+  difficulty: hard
+- question: Circular intersection
+  question_image: a22514347049e967.png
+  answer: O
+  number: 11
+  difficulty: easy
+- question: Circular intersection, follow directions
+  question_image: a22514347049e967.png
+  answer: X
+  number: 12
+  difficulty: impossible
+- question: Two-way
+  question_image: c18d8ed94108ea6d.png
+  answer: O
+  number: 13
+  difficulty: easy
+- question: Narrow road
+  question_image: c18d8ed94108ea6d.png
+  answer: X
+  number: 14
+  difficulty: easy
+- question: Railroad crossing without gate
+  question_image: b45cedfbbd03f92b.png
+  answer: O
+  number: 15
+  difficulty: medium
+- question: Railroad crossing with gate
+  question_image: b45cedfbbd03f92b.png
+  answer: X
+  number: 16
+  difficulty: easy
+- question: Watch out for pedestrians
+  question_image: 421b719f7611b5af.png
+  answer: O
+  number: 17
+  difficulty: easy
+- question: Watch out for children
+  question_image: 421b719f7611b5af.png
+  answer: X
+  number: 18
+  difficulty: medium
+- question: Watch out for heavy wind
+  question_image: e0de5bc4b16658e4.png
+  answer: O
+  number: 19
+  difficulty: easy
+- question: Watch for signs
+  question_image: e0de5bc4b16658e4.png
+  answer: X
+  number: 20
+  difficulty: easy
+- question: Watch out for children
+  question_image: 26239d20f1fddd0c.png
+  answer: O
+  number: 21
+  difficulty: easy
+- question: Watch out for pedestrians
+  question_image: 26239d20f1fddd0c.png
+  answer: X
+  number: 22
+  difficulty: hard
+- question: Steep drop-off on the left
+  question_image: 5ba98a936ee35ce3.png
+  answer: O
+  number: 23
+  difficulty: easy
+- question: Watch out for falling rocks
+  question_image: 5ba98a936ee35ce3.png
+  answer: X
+  number: 24
+  difficulty: easy
+- question: Danger
+  question_image: b0e5827f2fd8eb40.png
+  answer: O
+  number: 25
+  difficulty: medium
+- question: Watch out for traffic signals
+  question_image: b0e5827f2fd8eb40.png
+  answer: X
+  number: 26
+  difficulty: medium
+- question: Stop and go
+  question_image: c52c44f1c1043b46.png
+  answer: O
+  number: 27
+  difficulty: hard
+- question: No parking
+  question_image: c52c44f1c1043b46.png
+  answer: X
+  number: 28
+  difficulty: easy
+- question: Yield
+  question_image: 3df7438f1832ff46.png
+  answer: O
+  number: 29
+  difficulty: medium
+- question: Slow
+  question_image: 3df7438f1832ff46.png
+  answer: X
+  number: 30
+  difficulty: easy
+- question: No parking
+  question_image: 026fe37bfee2d417.png
+  answer: O
+  number: 31
+  difficulty: medium
+- question: Stop and go
+  question_image: 026fe37bfee2d417.png
+  answer: X
+  number: 32
+  difficulty: medium
+- question: No motor vehicles with 4 or more wheels
+  question_image: cc185f4cb2589eb2.png
+  answer: O
+  number: 33
+  difficulty: easy
+- question: No entry
+  question_image: cc185f4cb2589eb2.png
+  answer: X
+  number: 34
+  difficulty: medium
+- question: No U-turn
+  question_image: 88f533ac735b54ef.png
+  answer: O
+  number: 35
+  difficulty: easy
+- question: No left turn
+  question_image: 88f533ac735b54ef.png
+  answer: X
+  number: 36
+  difficulty: easy
+- question: Motor vehicles with four or more wheels and motorcycles prohibited
+  question_image: 74d23c14f93f7832.png
+  answer: O
+  number: 37
+  difficulty: medium
+- question: Motor vehicles with four or more wheels prohibited
+  question_image: 74d23c14f93f7832.png
+  answer: X
+  number: 38
+  difficulty: medium
+- question: Vehicle height limit
+  question_image: 0880631f6430f71f.png
+  answer: O
+  number: 39
+  difficulty: medium
+- question: Vehicle width limit
+  question_image: 0880631f6430f71f.png
+  answer: X
+  number: 40
+  difficulty: medium
+- question: Stop for inspection
+  question_image: 963ffc018b09c19f.png
+  answer: O
+  number: 41
+  difficulty: hard
+- question: No parking
+  question_image: 963ffc018b09c19f.png
+  answer: X
+  number: 42
+  difficulty: hard
+- question: Maximum speed
+  question_image: a2e002af08428d37.png
+  answer: O
+  number: 43
+  difficulty: medium
+- question: Minimum speed
+  question_image: a2e002af08428d37.png
+  answer: X
+  number: 44
+  difficulty: easy
+- question: Checkpoint! Stop for inspection
+  question_image: 4d541677fc237528.png
+  answer: O
+  number: 45
+  difficulty: impossible
+- question: Stop and go
+  question_image: 4d541677fc237528.png
+  answer: X
+  number: 46
+  difficulty: easy
+- question: No passing
+  question_image: 795dd79de17a19d0.png
+  answer: O
+  number: 47
+  difficulty: easy
+- question: Single lane road
+  question_image: 795dd79de17a19d0.png
+  answer: X
+  number: 48
+  difficulty: medium
+- question: Minimum speed limit
+  question_image: b6743a2eee847e70.png
+  answer: O
+  number: 49
+  difficulty: medium
+- question: Maximum speed limit
+  question_image: b6743a2eee847e70.png
+  answer: X
+  number: 50
+  difficulty: easy
+- question: Watch out for the disabled
+  question_image: 8d739d62a456cf56.png
+  answer: O
+  number: 51
+  difficulty: easy
+- question: Watch out for children
+  question_image: 8d739d62a456cf56.png
+  answer: X
+  number: 52
+  difficulty: easy
+- question: No temporary parking
+  question_image: af79adce31caeaaa.png
+  answer: O
+  number: 53
+  difficulty: hard
+- question: No parking
+  question_image: af79adce31caeaaa.png
+  answer: X
+  number: 54
+  difficulty: easy
+- question: Bus only
+  question_image: 3e22bacf8d171796.png
+  answer: O
+  number: 55
+  difficulty: medium
+- question: Vehicle length limit
+  question_image: 3e22bacf8d171796.png
+  answer: X
+  number: 56
+  difficulty: easy
+- question: Vehicle width limit
+  question_image: 269627847565d9fd.png
+  answer: O
+  number: 57
+  difficulty: hard
+- question: Vehicle length limit
+  question_image: 269627847565d9fd.png
+  answer: X
+  number: 58
+  difficulty: easy
+- question: Stop for weighing
+  question_image: e35c055b88f8a4f7.png
+  answer: O
+  number: 59
+  difficulty: impossible
+- question: Vehicle gross weight limit
+  question_image: e35c055b88f8a4f7.png
+  answer: X
+  number: 60
+  difficulty: impossible
+- question: Taxis with no passengers prohibited
+  question_image: 5a178854af975798.png
+  answer: O
+  number: 61
+  difficulty: impossible
+- question: Vehicles prohibited
+  question_image: 5a178854af975798.png
+  answer: X
+  number: 62
+  difficulty: easy
+- question: Do not enter
+  question_image: 76a58e90ab03c5a1.png
+  answer: O
+  number: 63
+  difficulty: medium
+- question: Dead end
+  question_image: 76a58e90ab03c5a1.png
+  answer: X
+  number: 64
+  difficulty: medium
+- question: Dip ahead
+  question_image: 194c862da1542fef.png
+  answer: O
+  number: 65
+  difficulty: easy
+- question: Bumpy road
+  question_image: 194c862da1542fef.png
+  answer: X
+  number: 66
+  difficulty: hard
+- question: Watch out for traffic signals
+  question_image: bf4636ae12be6e86.png
+  answer: O
+  number: 67
+  difficulty: medium
+- question: Traffic control signal
+  question_image: bf4636ae12be6e86.png
+  answer: X
+  number: 68
+  difficulty: medium
+- question: Bump ahead
+  question_image: c5b8b5325116b37a.png
+  answer: O
+  number: 69
+  difficulty: medium
+- question: Bumpy road ahead
+  question_image: c5b8b5325116b37a.png
+  answer: X
+  number: 70
+  difficulty: medium
+- question: Follow the traffic flow
+  question_image: 90d13ce777204c6e.png
+  answer: O
+  number: 71
+  difficulty: hard
+- question: One-way road
+  question_image: 90d13ce777204c6e.png
+  answer: X
+  number: 72
+  difficulty: hard
+- question: Follow the signs for left and right turns
+  question_image: edff498a82bf20bc.png
+  answer: O
+  number: 73
+  difficulty: medium
+- question: Road forks ahead
+  question_image: edff498a82bf20bc.png
+  answer: X
+  number: 74
+  difficulty: medium
+- question: First-aid station
+  question_image: f76bd0a586811f16.png
+  answer: O
+  number: 75
+  difficulty: medium
+- question: Hospital
+  question_image: f76bd0a586811f16.png
+  answer: X
+  number: 76
+  difficulty: medium
+- question: Winding road veers left ahead
+  question_image: 15fcf3b1b6b3da9f.png
+  answer: O
+  number: 77
+  difficulty: easy
+- question: Winding road veers right ahead
+  question_image: 15fcf3b1b6b3da9f.png
+  answer: X
+  number: 78
+  difficulty: easy
+- question: T Intersection
+  question_image: 26476932c3573676.png
+  answer: O
+  number: 79
+  difficulty: medium
+- question: Dead end
+  question_image: 26476932c3573676.png
+  answer: X
+  number: 80
+  difficulty: medium
+- question: Traffic flow direction
+  question_image: bd0b99fcd38b766f.png
+  answer: O
+  number: 81
+  difficulty: medium
+- question: One way
+  question_image: bd0b99fcd38b766f.png
+  answer: X
+  number: 82
+  difficulty: impossible
+- question: Right turn
+  question_image: 5e4ff7320095896c.png
+  answer: O
+  number: 83
+  difficulty: medium
+- question: Traffic flow direction
+  question_image: 5e4ff7320095896c.png
+  answer: X
+  number: 84
+  difficulty: medium
+- question: Passing bay
+  question_image: d82f5af3bf929608.png
+  answer: O
+  number: 85
+  difficulty: hard
+- question: Narrow road
+  question_image: d82f5af3bf929608.png
+  answer: X
+  number: 86
+  difficulty: hard
+- question: Keep right
+  question_image: 2dcbcf1adf35ace8.png
+  answer: O
+  number: 87
+  difficulty: medium
+- question: Keep left
+  question_image: 2dcbcf1adf35ace8.png
+  answer: X
+  number: 88
+  difficulty: easy
+- question: One way
+  question_image: a74979c98b6fa990.png
+  answer: O
+  number: 89
+  difficulty: impossible
+- question: Traffic flow direction
+  question_image: a74979c98b6fa990.png
+  answer: X
+  number: 90
+  difficulty: impossible
+- question: Provincial road
+  question_image: 923db8032ea630c2.png
+  answer: O
+  number: 91
+  difficulty: hard
+- question: National road
+  question_image: 923db8032ea630c2.png
+  answer: X
+  number: 92
+  difficulty: hard
+- question: County road
+  question_image: d750389f5e5f2269.png
+  answer: O
+  number: 93
+  difficulty: hard
+- question: Provincial road
+  question_image: d750389f5e5f2269.png
+  answer: X
+  number: 94
+  difficulty: hard
+- question: National road
+  question_image: 15c1764013988c00.png
+  answer: O
+  number: 95
+  difficulty: hard
+- question: Provincial road
+  question_image: 15c1764013988c00.png
+  answer: X
+  number: 96
+  difficulty: hard
+- question: Road forks ahead
+  question_image: b099581511ad99a6.png
+  answer: O
+  number: 97
+  difficulty: impossible
+- question: Crossroads
+  question_image: b099581511ad99a6.png
+  answer: X
+  number: 98
+  difficulty: impossible
+- question: Single lane road
+  question_image: 9bb5620527d1c2a5.png
+  answer: O
+  number: 99
+  difficulty: impossible
+- question: Two-way road
+  question_image: 9bb5620527d1c2a5.png
+  answer: X
+  number: 100
+  difficulty: impossible
+- question: Right lane narrows ahead
+  question_image: 5670678112e26c8d.png
+  answer: O
+  number: 101
+  difficulty: medium
+- question: Left lane narrows ahead
+  question_image: 5670678112e26c8d.png
+  answer: X
+  number: 102
+  difficulty: medium
+- question: Left lane narrows ahead
+  question_image: 3fdf7d35475c5ae7.png
+  answer: O
+  number: 103
+  difficulty: easy
+- question: Right lane narrows ahead
+  question_image: 3fdf7d35475c5ae7.png
+  answer: X
+  number: 104
+  difficulty: easy
+- question: Special flashing yellow light
+  question_image: 1be828eb40a77575.png
+  answer: O
+  number: 105
+  difficulty: hard
+- question: Traffic control signal
+  question_image: 1be828eb40a77575.png
+  answer: X
+  number: 106
+  difficulty: hard
+- question: Pedestrian crossing signal
+  question_image: c101fc8eccb696dc.png
+  answer: O
+  number: 107
+  difficulty: medium
+- question: Watch out for pedestrians
+  question_image: c101fc8eccb696dc.png
+  answer: X
+  number: 108
+  difficulty: medium
+- question: Pedestrian crossing signal
+  question_image: 9959177107f518f7.png
+  answer: O
+  number: 109
+  difficulty: hard
+- question: Traffic control signal
+  question_image: 9959177107f518f7.png
+  answer: X
+  number: 110
+  difficulty: hard
+- question: Multi-track electronic railroad crossing.
+  question_image: ec83babe7c612c05.png
+  answer: O
+  number: 111
+  difficulty: impossible
+- question: Multi-track railroad crossing.
+  question_image: ec83babe7c612c05.png
+  answer: X
+  number: 112
+  difficulty: impossible
+- question: Special flashing red light
+  question_image: a209772e442a4ac7.png
+  answer: O
+  number: 113
+  difficulty: hard
+- question: Traffic control signal
+  question_image: a209772e442a4ac7.png
+  answer: X
+  number: 114
+  difficulty: hard
+- question: Traffic control signal
+  question_image: db68d3b5a7241f12.png
+  answer: O
+  number: 115
+  difficulty: easy
+- question: Pedestrian crossing signal
+  question_image: db68d3b5a7241f12.png
+  answer: X
+  number: 116
+  difficulty: easy
+- question: Pedestrian overpass
+  question_image: d06476b5821e83e0.png
+  answer: O
+  number: 117
+  difficulty: easy
+- question: Pedestrian underpass
+  question_image: d06476b5821e83e0.png
+  answer: X
+  number: 118
+  difficulty: easy
+- question: Public phone
+  question_image: 961729823c01941e.png
+  answer: O
+  number: 119
+  difficulty: easy
+- question: Auto repair
+  question_image: 961729823c01941e.png
+  answer: X
+  number: 120
+  difficulty: easy
+- question: Ferry terminal
+  question_image: bab915c4b7f1f89c.png
+  answer: O
+  number: 121
+  difficulty: easy
+- question: Vehicles only
+  question_image: bab915c4b7f1f89c.png
+  answer: X
+  number: 122
+  difficulty: easy
+- question: Right turn only
+  question_image: 028afa2bb7f6e640.png
+  answer: O
+  number: 123
+  difficulty: hard
+- question: Left turn only
+  question_image: 028afa2bb7f6e640.png
+  answer: X
+  number: 124
+  difficulty: easy
+- question: Left and right turns allowed
+  question_image: aab5bb01e07d1a2e.png
+  answer: O
+  number: 125
+  difficulty: hard
+- question: Two-way road
+  question_image: aab5bb01e07d1a2e.png
+  answer: X
+  number: 126
+  difficulty: hard
+- question: Restaurant
+  question_image: 2261dd11504790dd.png
+  answer: O
+  number: 127
+  difficulty: easy
+- question: Gas station
+  question_image: 2261dd11504790dd.png
+  answer: X
+  number: 128
+  difficulty: easy
+- question: Pedestrian underpass
+  question_image: b02a1bf2c318dd40.png
+  answer: O
+  number: 129
+  difficulty: easy
+- question: Pedestrian overpass
+  question_image: b02a1bf2c318dd40.png
+  answer: X
+  number: 130
+  difficulty: easy
+- question: Gas station
+  question_image: 0e245620f0dffeaf.png
+  answer: O
+  number: 131
+  difficulty: easy
+- question: Restaurant
+  question_image: 0e245620f0dffeaf.png
+  answer: X
+  number: 132
+  difficulty: easy
+- question: Left lane closed
+  question_image: d6bcc12def6b74b7.png
+  answer: O
+  number: 133
+  difficulty: medium
+- question: Right lane closed
+  question_image: d6bcc12def6b74b7.png
+  answer: X
+  number: 134
+  difficulty: easy
+- question: Right lane closed
+  question_image: 41b0c141c20da4bc.png
+  answer: O
+  number: 135
+  difficulty: easy
+- question: Left lane closed
+  question_image: 41b0c141c20da4bc.png
+  answer: X
+  number: 136
+  difficulty: easy
+- question: Road construction ahead
+  question_image: 43e0baf320b5ebdc.png
+  answer: O
+  number: 137
+  difficulty: easy
+- question: Watch out for pedestrians
+  question_image: 43e0baf320b5ebdc.png
+  answer: X
+  number: 138
+  difficulty: easy
+- question: Detour ahead
+  question_image: 89c757dd30785ec1.png
+  answer: O
+  number: 139
+  difficulty: medium
+- question: Crossroads
+  question_image: 89c757dd30785ec1.png
+  answer: X
+  number: 140
+  difficulty: easy
+- question: Follow the detour signs
+  question_image: cc9eda6144f99557.png
+  answer: O
+  number: 141
+  difficulty: hard
+- question: One-way road
+  question_image: cc9eda6144f99557.png
+  answer: X
+  number: 142
+  difficulty: hard
+- question: Road closed
+  question_image: f218081364e445e9.png
+  answer: O
+  number: 143
+  difficulty: hard
+- question: Road under construction
+  question_image: f218081364e445e9.png
+  answer: X
+  number: 144
+  difficulty: hard
+- question: Solid yellow double lines represent passing prohibited in both directions
+  question_image: a8a4b1979cd20ef5.png
+  answer: O
+  number: 145
+  difficulty: easy
+- question: Solid yellow double lines represent passing prohibited in one direction
+  question_image: a8a4b1979cd20ef5.png
+  answer: X
+  number: 146
+  difficulty: easy
+- question: Solid yellow double lines and broken yellow line represent passing prohibited
+    in one direction
+  question_image: 0425421a073a2fc3.png
+  answer: O
+  number: 147
+  difficulty: impossible
+- question: Solid yellow single line represents passing prohibited in both directions
+  question_image: 0425421a073a2fc3.png
+  answer: X
+  number: 148
+  difficulty: easy
+- question: Solid white double lines represent changing lanes prohibited
+  question_image: 218cbc1aab680e1d.png
+  answer: O
+  number: 149
+  difficulty: easy
+- question: Solid white double lines are direction separation lines
+  question_image: 218cbc1aab680e1d.png
+  answer: X
+  number: 150
+  difficulty: easy
+- question: Solid yellow line means parking prohibited
+  question_image: 1c2a8cb286fce9de.png
+  answer: O
+  number: 151
+  difficulty: hard
+- question: Solid Yellow line means temporary parking prohibited
+  question_image: 1c2a8cb286fce9de.png
+  answer: X
+  number: 152
+  difficulty: hard
+- question: Solid red line means temporary parking prohibited
+  question_image: 36405e8b6cd4bd70.png
+  answer: O
+  number: 153
+  difficulty: hard
+- question: Solid red line means parking prohibited
+  question_image: 36405e8b6cd4bd70.png
+  answer: X
+  number: 154
+  difficulty: hard
+- question: Broken yellow line is a direction separation line
+  question_image: 1bac098bf061e346.png
+  answer: O
+  number: 155
+  difficulty: hard
+- question: Broken yellow line separates oncoming traffic lanes
+  question_image: 1bac098bf061e346.png
+  answer: X
+  number: 156
+  difficulty: hard
+- question: Broken white line marks vehicle lane
+  question_image: 4e1ee67c56d982a9.png
+  answer: O
+  number: 157
+  difficulty: medium
+- question: Broken white line is a direction separation line
+  question_image: 4e1ee67c56d982a9.png
+  answer: X
+  number: 158
+  difficulty: easy
+- question: Solid white horizontal line means stop line
+  question_image: 1b4ae065d593296a.png
+  answer: O
+  number: 159
+  difficulty: easy
+- question: Solid white horizontal line means yield
+  question_image: 1b4ae065d593296a.png
+  answer: X
+  number: 160
+  difficulty: medium
+- question: Diagonal white lines mean zebra crossing
+  question_image: cba22e09544a1bfa.png
+  answer: O
+  number: 161
+  difficulty: hard
+- question: Diagonal White line is a longitudinal crosswalk line
+  question_image: cba22e09544a1bfa.png
+  answer: X
+  number: 162
+  difficulty: hard
+- question: Directional arrow
+  question_image: 9883a4e9c16fa074.png
+  answer: O
+  number: 163
+  difficulty: medium
+- question: Direction separation line
+  question_image: 9883a4e9c16fa074.png
+  answer: X
+  number: 164
+  difficulty: medium
+- question: Vertical white line is a longitudinal crosswalk line
+  question_image: 40c7b8122fbf7f5b.png
+  answer: O
+  number: 165
+  difficulty: hard
+- question: Vertical white line is a zebra crossing
+  question_image: 40c7b8122fbf7f5b.png
+  answer: X
+  number: 166
+  difficulty: hard
+- question: Solid yellow double lines indicate passing in oncoming lanes is prohibited
+  question_image: 4e1ee67c56d982a9.png
+  answer: O
+  number: 167
+  difficulty: impossible
+- question: Solid yellow double lines serve to separate the traffic only
+  question_image: 4e1ee67c56d982a9.png
+  answer: X
+  number: 168
+  difficulty: impossible
+- question: Road width changes
+  question_image: 6749be3d9fb0b93f.png
+  answer: O
+  number: 169
+  difficulty: hard
+- question: Narrow road widens
+  question_image: 6749be3d9fb0b93f.png
+  answer: X
+  number: 170
+  difficulty: hard
+- question: Barrier
+  question_image: 12819a7a87471d29.png
+  answer: O
+  number: 171
+  difficulty: hard
+- question: Yellow line indicates passing prohibited in one direction
+  question_image: 12819a7a87471d29.png
+  answer: X
+  number: 172
+  difficulty: easy
+- question: Railroad crossing ahead
+  question_image: 2eae828e468c46ae.png
+  answer: O
+  number: 173
+  difficulty: easy
+- question: Yield
+  question_image: 2eae828e468c46ae.png
+  answer: X
+  number: 174
+  difficulty: easy
+- question: Inverted white triangle means yield
+  question_image: f7076441e36effb0.png
+  answer: O
+  number: 175
+  difficulty: medium
+- question: Inverted white triangle is a warning sign
+  question_image: f7076441e36effb0.png
+  answer: X
+  number: 176
+  difficulty: medium
+- question: Checkered area indicates no standing in that area
+  question_image: 04d58ef5955742cc.png
+  answer: O
+  number: 177
+  difficulty: medium
+- question: Checkered area indicates standing allowed in that area
+  question_image: 04d58ef5955742cc.png
+  answer: X
+  number: 178
+  difficulty: easy
+- question: Parking line
+  question_image: 85a3f1dbc8189c5d.png
+  answer: O
+  number: 179
+  difficulty: medium
+- question: Stop line
+  question_image: 85a3f1dbc8189c5d.png
+  answer: X
+  number: 180
+  difficulty: medium
+- question: Broken white line is a turn line
+  question_image: ace71be9f0d4c3d2.png
+  answer: O
+  number: 181
+  difficulty: easy
+- question: Broken white line marks a prohibited area
+  question_image: ace71be9f0d4c3d2.png
+  answer: X
+  number: 182
+  difficulty: easy
+- question: All vehicles must stop
+  question_image: 0d169c986524c596.png
+  answer: O
+  number: 183
+  difficulty: impossible
+- question: Front vehicles must stop
+  question_image: 0d169c986524c596.png
+  answer: X
+  number: 184
+  difficulty: impossible
+- question: Vehicles on the right must turn left
+  question_image: 419b6e6989ee0a57.png
+  answer: O
+  number: 185
+  difficulty: impossible
+- question: Vehicles on the left must turn right
+  question_image: 419b6e6989ee0a57.png
+  answer: X
+  number: 186
+  difficulty: impossible
+- question: Vehicles on right must stop
+  question_image: d4639eb5d1071fd7.png
+  answer: O
+  number: 187
+  difficulty: impossible
+- question: Vehicles on left must stop
+  question_image: d4639eb5d1071fd7.png
+  answer: X
+  number: 188
+  difficulty: impossible
+- question: Vehicles on the left must turn left
+  question_image: 8303973ea5586bc7.png
+  answer: O
+  number: 189
+  difficulty: impossible
+- question: Vehicles on right must turn left
+  question_image: 8303973ea5586bc7.png
+  answer: X
+  number: 190
+  difficulty: impossible
+- question: Vehicles on left must stop
+  question_image: 3069513fe238609d.png
+  answer: O
+  number: 191
+  difficulty: impossible
+- question: Vehicles on right must stop
+  question_image: 3069513fe238609d.png
+  answer: X
+  number: 192
+  difficulty: impossible
+- question: Vehicles in the front and rear must stop; vehicles approaching from the
+    right and left may pass through
+  question_image: da7016d87f7695e9.png
+  answer: O
+  number: 193
+  difficulty: impossible
+- question: All vehicles must stop
+  question_image: da7016d87f7695e9.png
+  answer: X
+  number: 194
+  difficulty: impossible
+- question: Vehicles on the right pass through quickly
+  question_image: 8060ce7b447db079.png
+  answer: O
+  number: 195
+  difficulty: impossible
+- question: Vehicles on the left must pass through quickly
+  question_image: 8060ce7b447db079.png
+  answer: X
+  number: 196
+  difficulty: impossible
+- question: Vehicles in front must stop
+  question_image: 036ca309524252ff.png
+  answer: O
+  number: 197
+  difficulty: impossible
+- question: All vehicles must stop
+  question_image: 036ca309524252ff.png
+  answer: X
+  number: 198
+  difficulty: impossible
+- question: Vehicles on the left must pass through quickly
+  question_image: ed1543cbac221106.png
+  answer: O
+  number: 199
+  difficulty: impossible
+- question: Vehicles on the right must pass through quickly
+  question_image: ed1543cbac221106.png
+  answer: X
+  number: 200
+  difficulty: impossible
+- question: 'Speed limit: 110 km/h'
+  question_image: 417e4688c6952517.png
+  answer: O
+  number: 201
+  difficulty: easy
+- question: Left lane ends ahead. All vehicles in left lane move to right.
+  question_image: 5670678112e26c8d.png
+  answer: X
+  number: 202
+  difficulty: easy
+- question: Freeway exit and off-ramp sign.
+  question_image: 138311b69d274586.png
+  answer: O
+  number: 203
+  difficulty: easy
+- question: An obstacle or traffic island divides the traffic. Drivers must go in
+    the direction shown on the sign.
+  question_image: b099581511ad99a6.png
+  answer: O
+  number: 204
+  difficulty: impossible
+- question: 'Two exits ahead: 5 km for Yangmei and 30 km for Hsinchu'
+  question_image: 376eca37ffa720e6.png
+  answer: O
+  number: 205
+  difficulty: easy
+- question: 'Service area: 2 km'
+  question_image: 65de9a4e7faf7778.png
+  answer: O
+  number: 206
+  difficulty: easy
+- question: Designated climbing lane for slow moving vehicles on the right, 150 meters
+    ahead.
+  question_image: 8429944eca24c37c.png
+  answer: O
+  number: 207
+  difficulty: medium
+- question: Vehicles for freeway (southbound) or Tounan must follow the directional
+    arrows to enter ramp.
+  question_image: 04406233a33eed3a.png
+  answer: O
+  number: 208
+  difficulty: easy
+- question: Lane control sign.
+  question_image: 9d11b31c413af3a4.png
+  answer: O
+  number: 209
+  difficulty: easy
+- question: Toll station ahead in 3 kilometers. Prepare to stop and pay.
+  question_image: b611860237554b3e.png
+  answer: O
+  number: 210
+  difficulty: easy
+- question: Northbound
+  question_image: 45d9443ad6989457.png
+  answer: O
+  number: 211
+  difficulty: medium
+- question: This warning sign indicates that the road ahead is closed.
+  question_image: 2aa05f827d925c18.png
+  answer: X
+  number: 212
+  difficulty: impossible
+- question: This cone serves as an auxiliary barricade to block or separate traffic.
+  question_image: 87b271d72c716cc3.png
+  answer: O
+  number: 213
+  difficulty: easy
+- question: This sign advises motorists that there are two exits to the freeway from
+    Jhongli.
+  question_image: 7b5ae9f24a64ad16.png
+  answer: X
+  number: 214
+  difficulty: impossible
+- question: This sign indicates the route to a specific destination.
+  question_image: 21478c2b6c56b20b.png
+  answer: X
+  number: 215
+  difficulty: impossible
+- question: This sign indicates it's 2,000 meters to the interchange exit.
+  question_image: 6b1526a64a5cbef2.png
+  answer: O
+  number: 216
+  difficulty: medium
+- question: Brake system indicator
+  question_image: 6e8a0f3a67b98e29.png
+  answer: O
+  number: 217
+  difficulty: impossible
+- question: ABS brake indicator
+  question_image: 6e8a0f3a67b98e29.png
+  answer: X
+  number: 218
+  difficulty: impossible
+- question: Charging indicator
+  question_image: 573270d06823122c.png
+  answer: O
+  number: 219
+  difficulty: easy
+- question: Engine breakdown indicator
+  question_image: 573270d06823122c.png
+  answer: X
+  number: 220
+  difficulty: easy
+- question: Low oil pressure indicator
+  question_image: c8f9f10f8b06c1ad.png
+  answer: O
+  number: 221
+  difficulty: hard
+- question: Low fuel indicator
+  question_image: c8f9f10f8b06c1ad.png
+  answer: X
+  number: 222
+  difficulty: hard
+- question: Engine breakdown indicator
+  question_image: 250a7b361c5e2a26.png
+  answer: O
+  number: 223
+  difficulty: medium
+- question: Charging indicator
+  question_image: 250a7b361c5e2a26.png
+  answer: X
+  number: 224
+  difficulty: medium
+- question: Low fuel indicator
+  question_image: ef9071f831e26765.png
+  answer: O
+  number: 225
+  difficulty: medium
+- question: Low oil pressure indicator
+  question_image: ef9071f831e26765.png
+  answer: X
+  number: 226
+  difficulty: medium
+- question: Door-open indicator
+  question_image: 4a3e55a2f883add9.png
+  answer: O
+  number: 227
+  difficulty: easy
+- question: Turn signals
+  question_image: 4a3e55a2f883add9.png
+  answer: X
+  number: 228
+  difficulty: easy
+- question: Turn signals
+  question_image: 0e5d885d68734d1b.png
+  answer: O
+  number: 229
+  difficulty: medium
+- question: Vehicle width indicator
+  question_image: 0e5d885d68734d1b.png
+  answer: X
+  number: 230
+  difficulty: medium
+- question: Fog indicator
+  question_image: ee3840804df6d29b.png
+  answer: O
+  number: 231
+  difficulty: impossible
+- question: Fog-lamp indicator
+  question_image: ee3840804df6d29b.png
+  answer: X
+  number: 232
+  difficulty: impossible
+- question: Safety belt indicator
+  question_image: 430f25596464441e.png
+  answer: O
+  number: 233
+  difficulty: medium
+- question: Air bag indicator
+  question_image: 430f25596464441e.png
+  answer: X
+  number: 234
+  difficulty: medium
+- question: Emergency lights button
+  question_image: 051e0632e71e5882.png
+  answer: O
+  number: 235
+  difficulty: medium
+- question: Triangle sign
+  question_image: 051e0632e71e5882.png
+  answer: X
+  number: 236
+  difficulty: medium

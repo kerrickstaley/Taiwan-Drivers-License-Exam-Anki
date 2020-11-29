@@ -1,0 +1,4795 @@
+- question: Speeding causes the great majority of accidents.
+  answer: O
+  number: 1
+  category: '11'
+  difficulty: unknown_difficulty
+- question: Even if you are sleepy and cannot concentrate on driving, it's okay to
+    continue to drive, as long as you drive very carefully.
+  answer: X
+  number: 2
+  category: '11'
+  difficulty: unknown_difficulty
+- question: Unfamiliarity with the operation of your vehicle has nothing to do with
+    traffic safety.
+  answer: X
+  number: 3
+  category: '11'
+  difficulty: unknown_difficulty
+- question: If you comply with all traffic rules, you will reduce the chance of being
+    in an accident.
+  answer: O
+  number: 4
+  category: '11'
+  difficulty: unknown_difficulty
+- question: Taking all reasonable precautions to prevent accidents from happening
+    is called defensive driving.
+  answer: O
+  number: 5
+  category: '11'
+  difficulty: unknown_difficulty
+- question: No matter how much you familiarize yourself with the road conditions and
+    traffic situation before you drive, it won't help increase your safety.
+  answer: X
+  number: 6
+  category: '11'
+  difficulty: unknown_difficulty
+- question: You may speed late at night and early in the morning when there are few
+    vehicles and pedestrians.
+  answer: X
+  number: 7
+  category: '11'
+  difficulty: unknown_difficulty
+- question: For safety reasons, you must slow down when you drive at night and when
+    the roads are slippery because of rain.
+  answer: O
+  number: 8
+  category: '11'
+  difficulty: unknown_difficulty
+- question: If approaching oncoming vehicles do not switch to their low-beams at night,
+    you may retaliate by using your high-beams.
+  answer: X
+  number: 9
+  category: '11'
+  difficulty: easy
+- question: Drivers must slow down when they are driving on flooded roads.
+  answer: O
+  number: 10
+  category: '11'
+  difficulty: unknown_difficulty
+- question: We can prevent accidents by always looking far ahead down the road and
+    maintaining a safe driving distance.
+  answer: O
+  number: 11
+  category: '11'
+  difficulty: unknown_difficulty
+- question: When an accident occurs, the parties involved must take all possible measures
+    to give first-aid to any injured victims immediately, rather than arguing over
+    who is liable for the accident.
+  answer: O
+  number: 12
+  category: '11'
+  difficulty: unknown_difficulty
+- question: If you are involved in a bad accident that is blocking traffic, you may
+    go ahead and move your vehicle and any debris off the road without waiting for
+    the authorities or police to arrive in order to help restore the smooth flow of
+    traffic.
+  answer: X
+  number: 13
+  category: '11'
+  difficulty: unknown_difficulty
+- question: Agreement regarding liability and financial compensation for an accident
+    should be decided by all parties involved in the accident or their legal representative,
+    guardian or heirs.
+  answer: O
+  number: 14
+  category: '11'
+  difficulty: unknown_difficulty
+- question: If the person who caused the accident is injured, you are not required
+    to offer first-aid or have that person taken to the hospital. You can simply leave
+    the scene to avoid trouble.
+  answer: X
+  number: 15
+  category: '11'
+  difficulty: unknown_difficulty
+- question: When navigating curves, motorcyclists should utilize the roadside mirrors,
+    and pay attention to the oncoming traffic to increase traffic safety.
+  answer: O
+  number: 16
+  category: '11'
+  difficulty: unknown_difficulty
+- question: When motorcycles are traveling on roads, a smaller turn radius creates
+    greater centrifugal force, so it is better to avoid sharp turns.
+  answer: O
+  number: 17
+  category: '11'
+  difficulty: unknown_difficulty
+- question: When approaching intersections, motorcycles need not slow down, but rather
+    should speed up and drive through.
+  answer: X
+  number: 18
+  category: '11'
+  difficulty: unknown_difficulty
+- question: In order for motorcycles to navigate curves successfully, motorcyclists
+    should increase speed when entering into curves.
+  answer: X
+  number: 19
+  category: '11'
+  difficulty: unknown_difficulty
+- question: "Motorcyclists are only required to follow the traffic regulations, and\
+    \ do not need to have the concept of \u201Cdefensive driving.\u201D"
+  answer: X
+  number: 20
+  category: '11'
+  difficulty: unknown_difficulty
+- question: Braking and stopping suddenly while riding a motorcycle can test the performance
+    of the motorcycle and its brakes.
+  answer: X
+  number: 21
+  category: '11'
+  difficulty: unknown_difficulty
+- question: When riding a motorcycle, the more careful, the less damage there will
+    be. The motorist should prepare for sudden occurrences.
+  answer: O
+  number: 22
+  category: '11'
+  difficulty: unknown_difficulty
+- question: Because of the centrifugal force, when turning on a motorcycle, the motorist
+    must tilt the body with the motorcycle simultaneously to make the turn easier.
+  answer: O
+  number: 23
+  category: '11'
+  difficulty: unknown_difficulty
+- question: When a motorcycle is braking, the driver should use the front and back
+    wheel brakes together. If the rider uses single brake only, the motorcycle might
+    slip and lose its balance.
+  answer: O
+  number: 24
+  category: '11'
+  difficulty: unknown_difficulty
+- question: If a motorcycle rider pulls or steps on the brakes suddenly, the rider's
+    body will remain upright and the brake will remain steady, which help the rider
+    respond in emergency.
+  answer: X
+  number: 25
+  category: '11'
+  difficulty: unknown_difficulty
+- question: When riding a motorcycle, do not pull or step on the brakes suddenly.
+    It might lock up the wheels and cause danger.
+  answer: O
+  number: 26
+  category: '11'
+  difficulty: unknown_difficulty
+- question: The front and back wheel brakes should be used at the same time. The tires
+    may slip when only one of the brakes is used.
+  answer: O
+  number: 27
+  category: '11'
+  difficulty: unknown_difficulty
+- question: Avoid unnecessary emergency brakes when riding a motorcycle.
+  answer: O
+  number: 28
+  category: '11'
+  difficulty: unknown_difficulty
+- question: Motorcycle riders should reduce the speed on rainy days and prepare to
+    brake.
+  answer: O
+  number: 29
+  category: '11'
+  difficulty: unknown_difficulty
+- question: When riding over bumpy roads and roads with poor conditions, hold on firmly
+    to the handles and speed through as fast as possible.
+  answer: X
+  number: 30
+  category: '11'
+  difficulty: unknown_difficulty
+- question: Do not place too many objects or heavy items in the front basket of the
+    motorcycle. They might affect how the rider maneuvers the handles and risk road
+    traffic safety.
+  answer: O
+  number: 31
+  category: '11'
+  difficulty: unknown_difficulty
+- question: Before turning or changing lane, the motorist should first switch on turn
+    signal to warn vehicle ahead and behind and then switch off turn signal right
+    after completing the turn or the lane change.
+  answer: O
+  number: 32
+  category: '11'
+  difficulty: unknown_difficulty
+- question: It is hazardous for a motorcycle to cut in front of other vehicles on
+    the road.
+  answer: O
+  number: 33
+  category: '11'
+  difficulty: unknown_difficulty
+- question: The longer the wheelbase, the bigger the turning radius. Keep the motorcycle
+    outside the turning radius of other vehicles to prevent collisions.
+  answer: O
+  number: 34
+  category: '11'
+  difficulty: unknown_difficulty
+- question: The side and rear view mirrors can not provide a full view of the surrounding.
+    A motorcycle should avoid of being at the blind spot of a vehicle to prevent accidents.
+  answer: O
+  number: 35
+  category: '11'
+  difficulty: unknown_difficulty
+- question: A motorist who understands "defensive driving" will take precautions to
+    defend against individuals and vehicles that violate traffic regulations and threaten
+    traffic safety.
+  answer: O
+  number: 36
+  category: '11'
+  difficulty: unknown_difficulty
+- question: A motorcycle rider who causes death or injuries due to negligence is liable
+    for the criminal charge, which involves sentencing, civil charge, which involves
+    compensation, and administrative charge such as revocation of driving license.
+  answer: O
+  number: 37
+  category: '11'
+  difficulty: unknown_difficulty
+- question: If a motorist runs through the red light because of being in a hurry,
+    the motorist will be fined, but will not receive 3 demerit points on the driving
+    license.
+  answer: X
+  number: 38
+  category: '11'
+  difficulty: unknown_difficulty
+- question: When a motorist runs through a red light and causes serious injuries to
+    others, it is not necessary to suspend the driving license.
+  answer: X
+  number: 39
+  category: '11'
+  difficulty: unknown_difficulty
+- question: When a motorist makes a right turn at an intersection on a red light,
+    the driver will be fined for NT $600 to NT $1,800.
+  answer: O
+  number: 40
+  category: '11'
+  difficulty: unknown_difficulty
+- question: A motorcycle rider shall follow the directional signs. Violators will
+    pay a fine and receive demerit points on the driving license.
+  answer: O
+  number: 41
+  category: '11'
+  difficulty: unknown_difficulty
+- question: When the traffic light at an intersection is turning yellow, the motorist
+    should speed through the yellow light to avoid wasting time on waiting for the
+    red light to turn green.
+  answer: X
+  number: 42
+  category: '11'
+  difficulty: unknown_difficulty
+- question: When coming near an intersection and the traffic light has changed to
+    the green left turn light, switch to the fast lane right away and turn left.
+  answer: X
+  number: 43
+  category: '11'
+  difficulty: unknown_difficulty
+- question: Maintaining proper driving speed and paying attention to the traffic condition
+    ahead may reduce pressure and risky behaviors for the motorist while improving
+    traffic safety.
+  answer: O
+  number: 44
+  category: '11'
+  difficulty: unknown_difficulty
+- question: Because of poor visibility and lighting condition, weak visual range and
+    uncertain road condition in the tunnel, vehicles shall turn on the headlight.
+  answer: O
+  number: 45
+  category: '11'
+  difficulty: unknown_difficulty
+- question: Two vehicles arrive at an intersection without traffic lights at the same
+    time and head toward different directions. If both vehicles are going straight,
+    the one on the left has the right-of-way.
+  answer: X
+  number: 46
+  category: '11'
+  difficulty: unknown_difficulty
+- question: Before leaving on a motorcycle, the rider should check the surrounding
+    traffic and the road condition first, and yield to the pedestrians and vehicles
+    on the road before accelerating.
+  answer: O
+  number: 47
+  category: '11'
+  difficulty: unknown_difficulty
+- question: Do not cut into other lanes recklessly or zigzag around other vehicles
+    just for fun. It will cause interference for vehicles behind.
+  answer: O
+  number: 48
+  category: '11'
+  difficulty: unknown_difficulty
+- question: Do not make sudden brakes while in high speed. It may cause rearend collisions.
+  answer: O
+  number: 49
+  category: '11'
+  difficulty: unknown_difficulty
+- question: Continuously speeding and braking while the vehicle is in high-speed can
+    demonstrate my driving skills.
+  answer: X
+  number: 50
+  category: '11'
+  difficulty: unknown_difficulty
+- question: Do not cut into another lane suddenly when the traffic is slowing down,
+    do not cut into another lane suddenly. Traffic from behind may not stop in time
+    and cause collisions.
+  answer: O
+  number: 51
+  category: '11'
+  difficulty: unknown_difficulty
+- question: When turning from an alley to the main road, the motorist should stop
+    completely, look around, and then proceed after making sure it is safe to go.
+  answer: O
+  number: 52
+  category: '11'
+  difficulty: unknown_difficulty
+- question: When changing the direction, the motorist should use the turn signal and
+    check the side and rear-view mirrors. Develop the habit of turning around to check
+    the surrounding and make sure the motorist is aware of the vehicles and pedestrians
+    around the vehicle.
+  answer: O
+  number: 53
+  category: '11'
+  difficulty: unknown_difficulty
+- question: Drivers don't need to have first-aid knowledge. All they need is good
+    driving skills.
+  answer: X
+  number: 54
+  category: '11'
+  difficulty: unknown_difficulty
+- question: If an accident victim is unconscious, you should shake and pat the victim
+    in order to help them regain consciousness.
+  answer: X
+  number: 55
+  category: '11'
+  difficulty: unknown_difficulty
+- question: Intentionally causing death or injuries while riding a motorcycle, the
+    rider could be charged with manslaughter or assault.
+  answer: O
+  number: 56
+  category: '11'
+  difficulty: unknown_difficulty
+- question: There is a traffic accident and someone is injured. Since no one is around,
+    it is ok to just leave the agonizing victim behind and keep going because you
+    are in a hurry.
+  answer: X
+  number: 57
+  category: '11'
+  difficulty: unknown_difficulty
+- question: Most traffic accidents are caused by the motorists' negligence, mistakes
+    and bad driving habits.
+  answer: O
+  number: 58
+  category: '11'
+  difficulty: unknown_difficulty
+- question: Consuming alcohol reduces a motorist's vision and reflexes, which will
+    increase accident rates.
+  answer: O
+  number: 59
+  category: '11'
+  difficulty: unknown_difficulty
+- question: When approaching a crosswalk without traffic lights on a motorcycle, the
+    rider should reduce the speed.
+  answer: O
+  number: 60
+  category: '11'
+  difficulty: unknown_difficulty
+- question: A motorcycle rider needs to pay attention to the traffic lights only and
+    not the instructions from the volunteer traffic police.
+  answer: X
+  number: 61
+  category: '11'
+  difficulty: unknown_difficulty
+- question: As long as a motorcycle functions well and the rider is skillful, the
+    rider can take the motorcycle on any road, including fast lanes and the freeway.
+  answer: X
+  number: 62
+  category: '11'
+  difficulty: unknown_difficulty
+- question: If I am vehiclerying a passenger on the motorcycle, I need to be even
+    more vehicleeful because I am responsible for the passenger's life.
+  answer: O
+  number: 63
+  category: '11'
+  difficulty: unknown_difficulty
+- question: Bad driving habits are accumulated from incorrect and inappropriate road
+    conducts, such as tailgating, cutting and changing lanes recklessly, cutting while
+    turning, speeding, or rushing through the road.
+  answer: O
+  number: 64
+  category: '11'
+  difficulty: unknown_difficulty
+- question: Drivers on the road must pay attention to safety at all times.
+  answer: O
+  number: 65
+  category: '11'
+  difficulty: unknown_difficulty
+- question: A motorcycle shall avoid of following large vehicles too closely from
+    behind or on the sides. It would be too difficult to respond to emergency situations.
+  answer: O
+  number: 66
+  category: '11'
+  difficulty: unknown_difficulty
+- question: When the brakes are making abnormal noises, it is a normal phenomenon.
+    There is no need for repair.
+  answer: X
+  number: 67
+  category: '11'
+  difficulty: unknown_difficulty
+- question: When the brakes are making abnormal noises, it is notabnormal. The brakes
+    should be checked and repaired.
+  answer: O
+  number: 68
+  category: '11'
+  difficulty: unknown_difficulty
+- question: Not causing traffic accidents and not violating traffic regulations are
+    the main conditions for safe driving.
+  answer: O
+  number: 69
+  category: '11'
+  difficulty: unknown_difficulty
+- question: A motorcycle rider make U-turns anywhere as long as there is enough room.
+  answer: X
+  number: 70
+  category: '11'
+  difficulty: unknown_difficulty
+- question: When a motorcycle is going through a crosswalk and there are people crossing
+    it, the motorcycle can still go through the empty space between pedestrians.
+  answer: X
+  number: 71
+  category: '11'
+  difficulty: unknown_difficulty
+- question: When passing through a crosswalk without traffic signals, the rider can
+    speed through without slowing down, in order to prevent traffic jam.
+  answer: X
+  number: 72
+  category: '11'
+  difficulty: easy
+- question: It is not necessary to replace a helmet if there is no obvious damage
+    after sustaining heavy impact.
+  answer: X
+  number: 73
+  category: '11'
+  difficulty: unknown_difficulty
+- question: The purpose for the brake signal on the back of the motorcycle is to let
+    motorists behind know your intention. A broken brake signal is often neglected.
+    Rushing off to the road with the broken light may confuse the drivers behind and
+    cause collisions.
+  answer: O
+  number: 74
+  category: '11'
+  difficulty: unknown_difficulty
+- question: If the throttle on the motorcycle is too loose or too tight, it is not
+    normal and should be repaired immediately.
+  answer: O
+  number: 75
+  category: '11'
+  difficulty: unknown_difficulty
+- question: Riders should check the brakes on the motorcycle before starting the trip.
+    If the brakes are not working normally, do not make emergency brakes and repair
+    them immediately.
+  answer: O
+  number: 76
+  category: '11'
+  difficulty: unknown_difficulty
+- question: Using hand held mobile devices while riding a motorcycle is dangerous.
+    It is a distraction that may throw the driver off balance which cause accidents.
+  answer: O
+  number: 77
+  category: '11'
+  difficulty: unknown_difficulty
+- question: Using mobile devices or computers to send messages while riding on a motorcycle
+    or waiting for the red light helps us save time and connect to the world.
+  answer: X
+  number: 78
+  category: '11'
+  difficulty: unknown_difficulty
+- question: Before braking a motorcycle, the throttle should be moved back to null
+    and zero output position from the engine.
+  answer: O
+  number: 79
+  category: '11'
+  difficulty: unknown_difficulty
+- question: Yielding to pedestrians is a display of good driving ethics.
+  answer: O
+  number: 80
+  category: '11'
+  difficulty: unknown_difficulty
+- question: Abiding by the traffic regulations has nothing to do with driving ehics.
+  answer: X
+  number: 81
+  category: '11'
+  difficulty: unknown_difficulty
+- question: Yielding and tolerance are indicators of good driving ethics.
+  answer: O
+  number: 82
+  category: '11'
+  difficulty: unknown_difficulty
+- question: Although drivers have the right of way when they have a greenlight, they
+    are still required to watch out for jaywalkers and vehicles that run through red
+    lights.
+  answer: O
+  number: 83
+  category: '11'
+  difficulty: unknown_difficulty
+- question: Inspecting our cars to make sure they are in good condition before we
+    drive and yielding to pedestrians and other vehicles when on the road displays
+    good driving ethics.
+  answer: O
+  number: 84
+  category: '11'
+  difficulty: unknown_difficulty
+- question: If a driver overtakes me to avoid getting dusty, I should pass them for
+    the same reason.
+  answer: X
+  number: 85
+  category: '11'
+  difficulty: unknown_difficulty
+- question: If a person doesn't use common courtesy when driving, it could cause a
+    tragedy, not only for him/herself but for everybody.
+  answer: O
+  number: 86
+  category: '11'
+  difficulty: unknown_difficulty
+- question: When you see the elderly and children walking slowly across the pedestrian
+    crosswalk, you should tap your horn to warn them to hurry up.
+  answer: X
+  number: 87
+  category: '11'
+  difficulty: unknown_difficulty
+- question: Drivers must slow down and follow the traffic signs and signals when they
+    approach factories, schools, hospitals, railroad stations, auditoriums, recreation
+    areas, exhibition halls, arenas, and all other public gathering areas.
+  answer: O
+  number: 88
+  category: '11'
+  difficulty: unknown_difficulty
+- question: If your vehicle hits a pedestrian by accident, but the pedestrian is not
+    injured, you can speed away to avoid trouble.
+  answer: X
+  number: 89
+  category: '11'
+  difficulty: unknown_difficulty
+- question: When driving at night, you should use the high-beam headlight and constantly
+    honk your horn to warn other vehicles get out of your way.
+  answer: X
+  number: 90
+  category: '11'
+  difficulty: unknown_difficulty
+- question: Police officers and traffic controllers, who enforce the traffic rules,
+    are trouble makers.
+  answer: X
+  number: 91
+  category: '11'
+  difficulty: unknown_difficulty
+- question: If the police catch you breaking the traffic rules, you should speed away
+    quickly to avoid being given a citation.
+  answer: X
+  number: 92
+  category: '11'
+  difficulty: unknown_difficulty
+- question: Even if there is no traffic cop around, drivers are still required to
+    follow traffic signs, signals, and pavement markings.
+  answer: O
+  number: 93
+  category: '11'
+  difficulty: unknown_difficulty
+- question: Although in today's society time is money, we should understand speeding
+    often causes tragedy and life is so precious.
+  answer: O
+  number: 94
+  category: '11'
+  difficulty: unknown_difficulty
+- question: When driving through a tunnel, you should turn on your lights, slow down,
+    and not change lanes.
+  answer: O
+  number: 95
+  category: '11'
+  difficulty: unknown_difficulty
+- question: Drivers must remain calm and concentrate on the traffic conditions when
+    they are on the road.
+  answer: O
+  number: 96
+  category: '11'
+  difficulty: unknown_difficulty
+- question: After drinking alcohol, vision, hearing, and judgment become slow and
+    impaired. Nevertheless, drinking alcohol is a good way to relax, so it is okay
+    to drive a motorcycle after drinking.
+  answer: X
+  number: 97
+  category: '11'
+  difficulty: unknown_difficulty
+- question: Drivers should not drive side-by-side and talk to each other because it
+    will dangerously affect their ability to concentrate on the road and their driving.
+  answer: O
+  number: 98
+  category: '11'
+  difficulty: unknown_difficulty
+- question: When driving a motorcycle, you should never speed or lose your concentration
+    on the road, not even for one second.
+  answer: O
+  number: 99
+  category: '11'
+  difficulty: unknown_difficulty
+- question: If your vehicle starts having mechanical problems, that may endanger the
+    safety of yourself or others, you can continue driving anyway.
+  answer: X
+  number: 100
+  category: '11'
+  difficulty: unknown_difficulty
+- question: Traffic rules are designed to maintain the smooth flow of traffic and
+    ensure safety. Therefore, all drivers must familiarize themselves with and abide
+    by the traffic rules.
+  answer: O
+  number: 101
+  category: '11'
+  difficulty: unknown_difficulty
+- question: Motorcycles are not permitted to drive along with a convoy of onduty police
+    or security vehicles.
+  answer: O
+  number: 102
+  category: '11'
+  difficulty: unknown_difficulty
+- question: Drivers need outstanding skills only. Following traffic rules is not really
+    that important.
+  answer: X
+  number: 103
+  category: '11'
+  difficulty: unknown_difficulty
+- question: When an accident occurs, drivers are required to cooperate with the police
+    throughout the accident investigation process.
+  answer: O
+  number: 104
+  category: '11'
+  difficulty: unknown_difficulty
+- question: Drivers must park their vehicle in accordance with regulations regarding
+    hours, spaces, and any other regulations stipulated by the local government.
+  answer: O
+  number: 105
+  category: '11'
+  difficulty: unknown_difficulty
+- question: Traffic police who enforce traffic rules are causing inconvenience for
+    drivers.
+  answer: X
+  number: 106
+  category: '11'
+  difficulty: unknown_difficulty
+- question: Drivers may not pass vehicles from the right or pass by driving in the
+    oncoming traffic lane if there is oncoming traffic.
+  answer: O
+  number: 107
+  category: '11'
+  difficulty: unknown_difficulty
+- question: Drivers have to be extremely cautious at intersections, when making turns,
+    or when there is oncoming traffic.
+  answer: O
+  number: 108
+  category: '11'
+  difficulty: unknown_difficulty
+- question: Traveling up or down a steep hill, drivers have to slow down and are not
+    allowed to stop, make a U-turn, or pass other vehicles.
+  answer: O
+  number: 109
+  category: '11'
+  difficulty: unknown_difficulty
+- question: Though motorcycles are smaller than automobiles and are easier to maneuver
+    in and out of traffic, motorcyclists may not drive recklessly.
+  answer: O
+  number: 110
+  category: '11'
+  difficulty: unknown_difficulty
+- question: The higher the motorcycle speed, the longer the braking distance.
+  answer: O
+  number: 111
+  category: '11'
+  difficulty: unknown_difficulty
+- question: Drivers are required to slow down prior to braking if the road is wet.
+  answer: O
+  number: 112
+  category: '11'
+  difficulty: unknown_difficulty
+- question: Drivers may cross the solid double yellow lines into the oncoming traffic
+    lane in order to pass another vehicle.
+  answer: X
+  number: 113
+  category: '11'
+  difficulty: unknown_difficulty
+- question: If drivers encounter an accident on the road, they must report it to the
+    police immediately and provide assistance to the victims, not just be a bystander.
+    If they see the vehicle that caused the accident, they must report it to the police
+    at once.
+  answer: O
+  number: 114
+  category: '11'
+  difficulty: unknown_difficulty
+- question: Motorcyclists may pass another vehicle when there is oncoming traffic.
+  answer: X
+  number: 115
+  category: '11'
+  difficulty: unknown_difficulty
+- question: If motorcycle causes an accident, the parties involved must report it
+    to the police immediately.
+  answer: O
+  number: 116
+  category: '11'
+  difficulty: unknown_difficulty
+- question: Motorcyclists may race side-by-side on the road because motorcycles are
+    small and easy to operate.
+  answer: X
+  number: 117
+  category: '11'
+  difficulty: unknown_difficulty
+- question: If the vehicle behind you passes you, for safety reasons, you should not
+    then pass that vehicle.
+  answer: O
+  number: 118
+  category: '11'
+  difficulty: unknown_difficulty
+- question: If a driver has to brake quickly, especially by using the emergency brake,
+    they have to take all possible measures to protect their passengers and their
+    vehicle from being rear-ended (hit from behind).
+  answer: O
+  number: 119
+  category: '11'
+  difficulty: unknown_difficulty
+- question: Drivers must park on the right side of the road to either load or unload
+    goods and may not under any circumstances obstruct traffic.
+  answer: O
+  number: 120
+  category: '11'
+  difficulty: unknown_difficulty
+- question: Being considerate, showing common courtesy, and having selfcontrol are
+    the minimum requirements for being a good motorcycle driver.
+  answer: O
+  number: 121
+  category: '11'
+  difficulty: unknown_difficulty
+- question: If you have regular maintenance done on your motorcycle, it's not necessary
+    to make sure your bike is mechanically sound before driving it each time.
+  answer: X
+  number: 122
+  category: '11'
+  difficulty: unknown_difficulty
+- question: It is easy to fall when making emergency brakes on a motorcycle. Therefore,
+    it is important to follow the speed limit.
+  answer: O
+  number: 123
+  category: '11'
+  difficulty: unknown_difficulty
+- question: You should never drive side-by-side with other vehicles to chat with other
+    drivers and never pass another vehicle when you are turning.
+  answer: O
+  number: 124
+  category: '11'
+  difficulty: unknown_difficulty
+- question: To avoid causing an accident or flipping over, drivers should not pass
+    another vehicle on a railroad crossing and not race other vehicles.
+  answer: O
+  number: 125
+  category: '11'
+  difficulty: unknown_difficulty
+- question: If your vehicle breaks down on a railroad crossing, you must push your
+    vehicle off the tracks before attempting to repair it.
+  answer: O
+  number: 126
+  category: '11'
+  difficulty: unknown_difficulty
+- question: For safety reasons, drivers have to look for pedestrians when they are
+    entering or leaving an alley or the driveway of a building.
+  answer: O
+  number: 127
+  category: '11'
+  difficulty: unknown_difficulty
+- question: If your vehicle breaks down on a bridge, in a tunnel, near a hydrant,
+    in front of a barrier, in a circular intersection, on a railroad crossing, in
+    an intersection, on a pedestrian crosswalk, or in a fast-vehicle lane, you must
+    push your vehicle out of the way or off the road in order to not obstruct traffic.
+  answer: O
+  number: 128
+  category: '11'
+  difficulty: unknown_difficulty
+- question: If the traffic light turns red or yellow just as a driver is approaching
+    an intersection or there is a police officer instructing them to stop, they must
+    stop single file behind the stop line.
+  answer: O
+  number: 129
+  category: '11'
+  difficulty: unknown_difficulty
+- question: Drivers may speed through an intersection if the light has just turned
+    yellow, even if they have not yet crossed the stop line.
+  answer: X
+  number: 130
+  category: '11'
+  difficulty: unknown_difficulty
+- question: Drivers must slow down when they are approaching an intersection without
+    traffic lights.
+  answer: O
+  number: 131
+  category: '11'
+  difficulty: unknown_difficulty
+- question: When drivers are approaching an intersection without traffic lights, they
+    should tap their horn and speed up to pass through the intersection more quickly.
+  answer: X
+  number: 132
+  category: '11'
+  difficulty: unknown_difficulty
+- question: Vehicles may not turn right on a red light, if the intersection does not
+    have a right-turn arrow.
+  answer: O
+  number: 133
+  category: '11'
+  difficulty: unknown_difficulty
+- question: Drivers may hold the steering wheel with one hand and a cigarette with
+    the other hand.
+  answer: X
+  number: 134
+  category: '11'
+  difficulty: unknown_difficulty
+- question: No matter how exhausted drivers are, they may continue to drive without
+    any concerns about safety as long as they drive slowly.
+  answer: X
+  number: 135
+  category: '11'
+  difficulty: unknown_difficulty
+- question: Driving cautiously is the best way for drivers to protect their safety.
+  answer: O
+  number: 136
+  category: '11'
+  difficulty: unknown_difficulty
+- question: Zebra crossing is a path across a busy street designated for pedestrians
+    to cross safely.
+  answer: O
+  number: 137
+  category: '11'
+  difficulty: unknown_difficulty
+- question: The flashing red lights at railroad crossings are the same as red lights
+    at an intersection. All vehicles and pedestrians are required to stop and wait
+    for the train to pass by before proceeding forward.
+  answer: O
+  number: 138
+  category: '11'
+  difficulty: unknown_difficulty
+- question: A slow vehicle driver or pedestrian who is cited and fails to attend traffic
+    safety classes will be fined NTD 600~1,200.
+  answer: O
+  number: 139
+  category: '11'
+  difficulty: unknown_difficulty
+- question: "The difference of radius between inner wheels of large vehicles depends\
+    \ on the \u201Cwheelbase\u201D and the \u201Cturning angle\u201D of each vehicle."
+  answer: O
+  number: 140
+  category: '11'
+  difficulty: hard
+- question: Alcohol increases the field of vision of motorcyclists.
+  answer: X
+  number: 141
+  category: '11'
+  difficulty: unknown_difficulty
+- question: "\u201CYield to pedestrians\u201D indicates that all other traffic should\
+    \ respect pedestrians\u2019 rights to cross the road first."
+  answer: O
+  number: 142
+  category: '11'
+  difficulty: easy
+- question: "Because the bodies of large vehicles are taller, the drivers\u2019 field\
+    \ of vision has smaller blind spots, and nearby motorcycles can be seen clearly."
+  answer: X
+  number: 143
+  category: '11'
+  difficulty: unknown_difficulty
+- question: Road markings do not increase the chance of motorcycles sliding during
+    rainy days.
+  answer: X
+  number: 144
+  category: '11'
+  difficulty: unknown_difficulty
+- question: When motorcycles encounter emergency vehicles that are on duty, according
+    to the regulations, motorcycles do not need to yield.
+  answer: X
+  number: 145
+  category: '11'
+  difficulty: unknown_difficulty
+- question: When riding motorcycles, motorcyclists only need to pay attention to the
+    fuel level; there is no need to do extra maintenance at a set time or after a
+    set mileage.
+  answer: X
+  number: 146
+  category: '11'
+  difficulty: unknown_difficulty
+- question: The best way to avoid collisions is to maintain a safe following distance
+    from the car ahead.
+  answer: O
+  number: 147
+  category: '11'
+  difficulty: unknown_difficulty
+- question: Reaction distance refers to the distance which allows time needed by the
+    driver to respond during sudden occurrences.
+  answer: O
+  number: 148
+  category: '11'
+  difficulty: unknown_difficulty
+- question: When followoing another vehicle, the smallest following distance should
+    be longer than the stopping distance.
+  answer: O
+  number: 149
+  category: '11'
+  difficulty: unknown_difficulty
+- question: Green light gives you the permission to pass but does not necessarily
+    ensure safety. Therefore, reduce the speed when approaching an intersection.
+  answer: O
+  number: 150
+  category: '11'
+  difficulty: unknown_difficulty
+- question: When the light is turning yellow at an intersection, it is the best to
+    brake lightly and reduce the speed to give advanced notice to the motorist behind
+    and allow time for the motorist to react to avoid collisions.
+  answer: O
+  number: 151
+  category: '11'
+  difficulty: easy
+- question: When passing a vehicle on the road without two double lanes with a broken
+    yellow line, the time and distance for passing should be noted, the longer you
+    are staying on the opposite lane, the more possibility for having an accident.
+  answer: O
+  number: 152
+  category: '11'
+  difficulty: unknown_difficulty
+- question: On a straight section of the road marked with double yellow solid lines,
+    it is acceptable to enter the lane on the opposite direction to pass the vehicles
+    ahead when there is no traffic traveling from the opposite direction.
+  answer: X
+  number: 153
+  category: '11'
+  difficulty: unknown_difficulty
+- question: Turn on the left turn signal when passing a vehicle and keep a minimum
+    of 50cm distance to the left of the vehicle ahead. After reaching a safe distance,
+    turn on the right turning signal and return to the original lane.
+  answer: O
+  number: 154
+  category: '11'
+  difficulty: unknown_difficulty
+- question: Leave ample time and space for changing directions or passing other vehicles.
+  answer: O
+  number: 155
+  category: '11'
+  difficulty: unknown_difficulty
+- question: Driving is a skill that requires the coordination between the hands and
+    the brain. It is stressful and tiring. Driver safety can only be ensured by keeping
+    a routine schedule.
+  answer: O
+  number: 156
+  category: '11'
+  difficulty: unknown_difficulty
+- question: Before riding a motorcycle, keep the mind clear and the body healthy.
+    Stay focused while riding the motorcycle to respond to any possible situations.
+  answer: O
+  number: 157
+  category: '11'
+  difficulty: unknown_difficulty
+- question: Taking a large dosage of cold medicine or sedative does not affect a motorist's
+    condition while operating a vehicle.
+  answer: X
+  number: 158
+  category: '11'
+  difficulty: unknown_difficulty
+- question: Field of vision is the limit of visibility that the motorist can perceive
+    of the surrounding when staring straight ahead.
+  answer: O
+  number: 159
+  category: '11'
+  difficulty: unknown_difficulty
+- question: Construction signs, white detour signs and construction vehicles indicate
+    road constuction ahead. The motorist should slow down and pass through with caution.
+  answer: O
+  number: 160
+  category: '11'
+  difficulty: unknown_difficulty
+- question: Zigzaging is not allowed while going uphill. Turning off the engine or
+    shifting to neutral gear while going downhill is prohibited.
+  answer: O
+  number: 161
+  category: '11'
+  difficulty: unknown_difficulty
+- question: When driving through a tunnel with good lighting and visibility, the motorist
+    does not need to turn on the headlights to save energy.
+  answer: X
+  number: 162
+  category: '11'
+  difficulty: unknown_difficulty
+- question: When accidents occur in the tunnel, though without casualties and with
+    the vehicles being in working condition, the vehicles shall not be moved and the
+    scene shall remain intact in order to clarify the liability.
+  answer: X
+  number: 163
+  category: '11'
+  difficulty: unknown_difficulty
+- question: If a motorist fails to drive safely and responsibly, it is unfortunate
+    for the motorist as well as the public.
+  answer: O
+  number: 164
+  category: '11'
+  difficulty: unknown_difficulty
+- question: Although a car breakdown on the fast lane during heavy traffic would cause
+    traffic jam and affect traffic safety, it is acceptable to fix the car first on
+    the spot without moving the car in order to save time.
+  answer: X
+  number: 165
+  category: '11'
+  difficulty: unknown_difficulty
+- question: It is not necessary to check the vehicle condition before driving, but
+    pay attention to the instruments on the dashboard to ensure safety while driving.
+  answer: X
+  number: 166
+  category: '11'
+  difficulty: unknown_difficulty
+- question: The best way for "safe driving" is to start off the car slowly, turn slowly
+    and keep a safe distance. Do not rush or speed, change lanes irresponsibly, brake
+    suddenly, cut into other lanes, force others to let you pass, or run through a
+    red light.
+  answer: O
+  number: 167
+  category: '11'
+  difficulty: unknown_difficulty
+- question: Most traffic accidents occurred because of tailgating, passing and changing
+    lanes recklessly, force turning, and speeding to save time.
+  answer: O
+  number: 168
+  category: '11'
+  difficulty: unknown_difficulty
+- question: Turning without using the turning signal and without paying attention
+    to incoming traffic from behind are the main causes of accidents during turning.
+  answer: O
+  number: 169
+  category: '11'
+  difficulty: unknown_difficulty
+- question: Drinking will delay the motorist's reaction time but improve the motorist's
+    vision.
+  answer: X
+  number: 170
+  category: '11'
+  difficulty: unknown_difficulty
+- question: A person with physical or mental disability can still ride a motorcycle.
+  answer: X
+  number: 171
+  category: '11'
+  difficulty: unknown_difficulty
+- question: When an injured person is lying on the road, call 110 or 119 to notify
+    the police or the paramedics immediately to deal with the situation.
+  answer: O
+  number: 172
+  category: '11'
+  difficulty: unknown_difficulty
+- question: The government provides rewards to individuals who report accidents, assist
+    with injured people and people who are good drivers.
+  answer: O
+  number: 173
+  category: '11'
+  difficulty: unknown_difficulty
+- question: Turn off the engine first when pushing the motorcycle forward or backward
+    to adjust the parking position. Hold on to both handles with both hands, watch
+    out for the surrounding traffic, and do not make the adjustments while sitting
+    on the seat and pushing with the feet.
+  answer: O
+  number: 174
+  category: '11'
+  difficulty: unknown_difficulty
+- question: When starting the motorcycle and before accelerating, turn on the turn
+    signal and use the side mirrors to check the surrounding traffic and make sure
+    no other vehicles or pedestrians are nearby. Turn around to check for safety and
+    then steadily accelerate into the designated lane.
+  answer: O
+  number: 175
+  category: '11'
+  difficulty: unknown_difficulty
+- question: A motorcycle should slow down when it approaches an intersection and watches
+    both sides for traffic. When there are lights, signs or markings at the intersection,
+    they shall be the basis of judgement for stopping or proceeding.
+  answer: O
+  number: 176
+  category: '11'
+  difficulty: unknown_difficulty
+- question: A motorcycle should stop in the area at the intersection marked as "motorcycle
+    waiting zone." The motorcycle should not cross the line or stop on the cross section
+    lane, but it can stop at the area marked as "left turn waiting zone."
+  answer: X
+  number: 177
+  category: '11'
+  difficulty: unknown_difficulty
+- question: At an intersection, a motorcycle should stop and wait before the stopline.
+    When the traffic light turns green, the driver should check the surrounding traffic
+    to prevent collision and accident with other traffic violators.
+  answer: O
+  number: 178
+  category: '11'
+  difficulty: unknown_difficulty
+- question: When a motorcycle reaches an intersection and the red light is switching
+    to the green light, the impulse to accelerate is dangerous for the rider. Therefore,
+    when the light is turning green, do not rush. Take it slow, turn to look behind
+    and then start steadily.
+  answer: O
+  number: 179
+  category: '11'
+  difficulty: unknown_difficulty
+- question: When a motorcycle approaches a bus stop with passengers boarding or alighting
+    the bus, the rider cannot pass the bus from the right regardless of how wide the
+    road is to avoid hitting any passenger who are getting on and off.
+  answer: O
+  number: 180
+  category: '11'
+  difficulty: unknown_difficulty
+- question: The motorcycle should not be in a race with other vehicles on the road.
+    Don't follow any truck and don't ride between two vehicles.
+  answer: O
+  number: 181
+  category: '11'
+  difficulty: unknown_difficulty
+- question: When being followed by a large vehicle behind, the motorcycle rider should
+    be alert, increase the safe distance or let it pass first.
+  answer: O
+  number: 182
+  category: '11'
+  difficulty: unknown_difficulty
+- question: Due to low balance, while traveling through bumpy roads, gravel roads,
+    muddy roads or dirt roads, the motorcycle rider should slow down and be prepared
+    to brake.
+  answer: O
+  number: 183
+  category: '11'
+  difficulty: unknown_difficulty
+- question: When encountering accidents, constructions, or traffic jam, the motorcycle
+    rider should speed up and pass through quickly.
+  answer: X
+  number: 184
+  category: '11'
+  difficulty: unknown_difficulty
+- question: When a motorcycle approaches a bus stop with passengers boarding or alighting
+    the bus, the rider shall not turn sharply to pass from the right of the bus. Nor
+    shall the rider pass the bus from the left by turning sharply to the fast lane
+    on the left to avoid collisions with the fast-moving traffic from behind.
+  answer: O
+  number: 185
+  category: '11'
+  difficulty: unknown_difficulty
+- question: A motorcycle should slow down while turning to prevent from slipping and
+    falling due to centrifugal force or gravel on the road.
+  answer: O
+  number: 186
+  category: '11'
+  difficulty: unknown_difficulty
+- question: Riding side by side with another vehicle is not allowed on the streets
+    in the city, but depending on traffic conditions, it could be allowed in the countryside
+    or on the mountain roads.
+  answer: X
+  number: 187
+  category: '11'
+  difficulty: unknown_difficulty
+- question: A motorcycle should turn slowly at the intersection and avoid turning
+    with another vehicle due to the difference in the turning radius to prevent from
+    colliding during the turn.
+  answer: O
+  number: 188
+  category: '11'
+  difficulty: unknown_difficulty
+- question: The motorcycle rider should be fully aware of the safety precautions.
+    Start early instead of rushing. Being safe is more important than being on time.
+  answer: O
+  number: 189
+  category: '11'
+  difficulty: unknown_difficulty
+- question: A motorcycle is both a convenient and dangerous form of transportation.
+    The best way to ensure safety is to follow traffic regulations, develop road etiquette
+    and be familiar with defensive driving techniques. Value life, respect life and
+    respect the right-ofway.
+  answer: O
+  number: 190
+  category: '11'
+  difficulty: unknown_difficulty
+- question: Maintaining a safe distance between the motorcycle and the vehicle ahead
+    is the most effective way to prevent rear-end collision.
+  answer: O
+  number: 191
+  category: '11'
+  difficulty: unknown_difficulty
+- question: Running through the red light is one of the most common causes of traffic
+    accidents at the intersections. It is also the most severe traffic violation.
+  answer: O
+  number: 192
+  category: '11'
+  difficulty: unknown_difficulty
+- question: A motorcycle should be parked at the designated parking space without
+    obstructing other vehicles or pedestrians. Failing to do so may result in collisions.
+  answer: O
+  number: 193
+  category: '11'
+  difficulty: unknown_difficulty
+- question: When going through a crosswalk, the motorcycle rider should follow the
+    traffic lights, markings, and signs to reduce the speed and yield to the pedestrians.
+    However, it is not necessary to yield to a pedestrian running through the crosswalk
+    during red light.
+  answer: X
+  number: 194
+  category: '11'
+  difficulty: unknown_difficulty
+- question: The motorcycle rider should be aware of the traffic on both sides of the
+    road ahead. In the cities, the rider should pay attention to cars parked on the
+    roadside, which may be started suddenly and cause collision.
+  answer: O
+  number: 195
+  category: '11'
+  difficulty: unknown_difficulty
+- question: The motorcycle rider should focus on driving even when carrying a passenger.
+    The passenger should hold on to the rider firmly. Both shall avoid chatting and
+    not focusing on the traffic. The rider could be distracted and fail to operate
+    the motorcycle defensively.
+  answer: O
+  number: 196
+  category: '11'
+  difficulty: unknown_difficulty
+- question: The motorcycle rider and the passenger should both wear a helmet and wear
+    brightly colored clothing. Anyone who wears a jacket should zip up properly to
+    keep the coat from being caught by other cars.
+  answer: O
+  number: 197
+  category: '11'
+  difficulty: unknown_difficulty
+- question: Before operating a motorcycle, the motorcycle rider should first determine
+    the route and destination, and establish a suitable path and direction. Stay focused
+    while operating the motorcycle. Do not make sudden stops or slow down suddenly
+    to look for directions during the ride, which may result in rear-end collision.
+  answer: O
+  number: 198
+  category: '11'
+  difficulty: unknown_difficulty
+- question: A motorcycle operator should develop the habit of defensive driving. Pay
+    attention to the traffic condition at all times and check the side mirrors every
+    5 seconds for the traffic condition behind to ensure safety. Avoid focusing on
+    one target for over 2 seconds and neglecting the surrounding traffic.
+  answer: O
+  number: 199
+  category: '11'
+  difficulty: unknown_difficulty
+- question: A motorcycle should be operated within the designated lane as stipulated
+    in the regulations. Avoid operating the motorcycle on the markings on a rainy
+    day to prevent falling due to slippery surface.
+  answer: O
+  number: 200
+  category: '11'
+  difficulty: unknown_difficulty
+- question: Accidents on highways are handled by the National Highway Police Bureau,
+    while accidents on expressways are handled by police offices in the county or
+    city government where accidents occur, or other police offices designated by the
+    National Police Agency, Ministry of Interior.
+  answer: O
+  number: 201
+  category: '12'
+  difficulty: unknown_difficulty
+- question: If anyone acquires their driver's license by unethical or illegal means,
+    their driver's license will be cancelled and they will be prohibited from possessing
+    a driver's license in the R.O.C. for 5 years.
+  answer: O
+  number: 202
+  category: '12'
+  difficulty: unknown_difficulty
+- question: If a driver knowingly allows another person without a driver's license
+    to drive their vehicle, their driver's license will be suspended for 3 months.
+  answer: O
+  number: 203
+  category: '12'
+  difficulty: unknown_difficulty
+- question: If a driver runs a red light, their driver's license will be cancelled.
+  answer: X
+  number: 204
+  category: '12'
+  difficulty: unknown_difficulty
+- question: If motorcyclists fail to stay in the designated motorcycle lane, they
+    will be fined and receive traffic violation points on their driving record.
+  answer: O
+  number: 205
+  category: '12'
+  difficulty: unknown_difficulty
+- question: If a drunk driver causes an accident resulting in serious injury or death,
+    they will be fined, their driver's license cancelled, and they may not possess
+    a driver's license in the R.O.C. again. (except for those who meet certain criteria
+    and whose suspension has expired in accordance with the requirements stipulated
+    by the government).
+  answer: O
+  number: 206
+  category: '12'
+  difficulty: unknown_difficulty
+- question: If a motorcyclist is caught using a hand-held cell phone, computer, or
+    other similar device to call, talk, digitally communicate, or do other actions
+    that might hinder driving safety, the motorcyclist will be fined NTD 1,000.
+  answer: O
+  number: 207
+  category: '12'
+  difficulty: unknown_difficulty
+- question: Drivers who do not follow directional signs will be fined and receive
+    1 traffic violation point on their driving record.
+  answer: O
+  number: 208
+  category: '12'
+  difficulty: easy
+- question: Driving side-by-side in one lane is extremely dangerous. Therefore, violators
+    will be fined and receive 1 traffic violation point on their driving record.
+  answer: O
+  number: 209
+  category: '12'
+  difficulty: unknown_difficulty
+- question: Motorcyclists who drive on the sidewalk will be fined and receive 1 traffic
+    violation point on their driving record.
+  answer: O
+  number: 210
+  category: '12'
+  difficulty: unknown_difficulty
+- question: Motorists who run through the red light will only pay a fine and not receive
+    the 3 demerit points.
+  answer: X
+  number: 211
+  category: '12'
+  difficulty: unknown_difficulty
+- question: If you make a U-turn at a place where left turns are prohibited, you will
+    be fined and receive 1 traffic violation point on your driving record.
+  answer: O
+  number: 212
+  category: '12'
+  difficulty: unknown_difficulty
+- question: When coming to a roundabout, it is ok to enter and make an U-turn immediately.
+  answer: X
+  number: 213
+  category: '12'
+  difficulty: unknown_difficulty
+- question: If you go ahead and pass another vehicle without that vehicle first moving
+    over to allow you to pass and signaling that it is okay to do so, you will be
+    fined and receive 1 traffic violation point on your driving record.
+  answer: X
+  number: 214
+  category: '12'
+  difficulty: unknown_difficulty
+- question: The driving license of a motorist receiving over 6 demerit points within
+    1 year will be suspended for 1 month.
+  answer: X
+  number: 215
+  category: '12'
+  difficulty: unknown_difficulty
+- question: According to the Road Traffic Management and Penalty Act, a motorcycle
+    rider who is found drunk driving a second time within five years will be fined
+    up to NT$90,000.
+  answer: O
+  number: 216
+  category: '12'
+  difficulty: unknown_difficulty
+- question: A motorcycle rider using a cell phone or other consumer electronics products
+    while riding shall be fined for NT $3,000.
+  answer: X
+  number: 217
+  category: '12'
+  difficulty: unknown_difficulty
+- question: If a motorcycle owner removes the exhaust muffler on purpose, or the exhaust
+    muffler is broken and no repair is done, it is a violation of traffic regulations.
+    The former shall result in a tougher punishment.
+  answer: O
+  number: 218
+  category: '12'
+  difficulty: unknown_difficulty
+- question: If you drive drunk and cause either serious injury or death, your driver's
+    license will be cancelled and you will be prohibited from possessing a driver's
+    license for 3 years.
+  answer: X
+  number: 219
+  category: '12'
+  difficulty: unknown_difficulty
+- question: If a driver is caught driving drunk because their blood alcohol level
+    exceeds the maximum allowed by law when driving, they will receive 2 traffic violation
+    points on their driving record, but no other penalty.
+  answer: X
+  number: 220
+  category: '12'
+  difficulty: unknown_difficulty
+- question: If a minor less than 14 years old violates the Statute Governing the Punishment
+    for Violation of Road Traffic Rules, their legal representative or guardian will
+    be penalized instead.
+  answer: O
+  number: 221
+  category: '12'
+  difficulty: unknown_difficulty
+- question: Motorcycles with displacement of 50cc to 250cc are considered ordinary
+    heavy motorcycles.
+  answer: O
+  number: 222
+  category: '12'
+  difficulty: unknown_difficulty
+- question: Motorcycles with displacement of 50cc or less are considered light motorcycles.
+  answer: O
+  number: 223
+  category: '12'
+  difficulty: unknown_difficulty
+- question: It is unlawful to counterfeit, alter, or obtain a motorcycle license plate
+    number.
+  answer: O
+  number: 224
+  category: '12'
+  difficulty: unknown_difficulty
+- question: If you intend to scrap your motorcycle, you don't have to notify the Motor
+    Vehicle Registration Department, and you may keep the license plate.
+  answer: X
+  number: 225
+  category: '12'
+  difficulty: unknown_difficulty
+- question: When canceling or revoking a motorcycle license plate, it should be done
+    at a motor vehicle department and the license plate shall be submitted.
+  answer: O
+  number: 226
+  category: '12'
+  difficulty: unknown_difficulty
+- question: If you intend to suspend the use of your motorcycle, resume using an old
+    motorcycle, or amend a vehicle registration, you have to register at the Motor
+    Vehicle Registration Department.
+  answer: O
+  number: 227
+  category: '12'
+  difficulty: unknown_difficulty
+- question: Motorcycle owners who register vehicles at the Motor Vehicle Registration
+    Department are required to fill out an application and submit their ID card, military
+    ID card, or alien resident certificate.
+  answer: O
+  number: 228
+  category: '12'
+  difficulty: unknown_difficulty
+- question: The mentally challenged, blind, or those with epilepsy are not eligible
+    to possess a motorcycle driver's license.
+  answer: O
+  number: 229
+  category: '12'
+  difficulty: unknown_difficulty
+- question: The goods loaded on a motorcycle may not extend beyond the back seat.
+  answer: O
+  number: 230
+  category: '12'
+  difficulty: unknown_difficulty
+- question: The goods loaded on a motorcycle may not extend more than 0.5 meters beyond
+    the rear axle.
+  answer: O
+  number: 231
+  category: '12'
+  difficulty: unknown_difficulty
+- question: If a motorcycle driver's license is either suspended or cancelled, drivers
+    may not apply for another driver's license before the suspension or cancellation
+    expires.
+  answer: O
+  number: 232
+  category: '12'
+  difficulty: unknown_difficulty
+- question: If a driver illegally hits a pedestrian in the crosswalk and causes either
+    injury or death, the driver will be subject to a 50% increase in the normal criminal
+    liability.
+  answer: O
+  number: 233
+  category: '12'
+  difficulty: unknown_difficulty
+- question: The Statute Governing the Punishment for Violation of Road Traffic Rules
+    was enacted in an effort to upgrade traffic administration and maintain an orderly
+    flow of traffic thereby ensuring traffic safety.
+  answer: O
+  number: 234
+  category: '12'
+  difficulty: unknown_difficulty
+- question: If a driver dies, the party responsible for the affairs of the deceased
+    driver is required to turn in the driver's license at the Motor Vehicle Registration
+    Department.
+  answer: O
+  number: 235
+  category: '12'
+  difficulty: unknown_difficulty
+- question: Drivers may drive in oncoming lanes on roads with a double yellow line
+    separating the traffic.
+  answer: O
+  number: 236
+  category: '12'
+  difficulty: unknown_difficulty
+- question: If a driver hits a person on the sidewalk and causes either injury or
+    death, the driver will be subject to a 50% increase in the normal criminal liability.
+  answer: O
+  number: 237
+  category: '12'
+  difficulty: unknown_difficulty
+- question: The passengers on a motorcycle can sit sideways.
+  answer: X
+  number: 238
+  category: '12'
+  difficulty: unknown_difficulty
+- question: If a driver recklessly cuts off other drivers by forcing their way into
+    a line of moving vehicles, they will be fined and receive traffic violation points
+    on their driving record.
+  answer: O
+  number: 239
+  category: '12'
+  difficulty: unknown_difficulty
+- question: When a motorcycle is on the road that is not separated into fast lanes
+    and curb lanes, remains on the two lanes on the right. However, on a one-way street,
+    remains on the farthest left and right lanes.
+  answer: O
+  number: 240
+  category: '12'
+  difficulty: unknown_difficulty
+- question: When a motorcycle is on a road divided into fast lanes and curb lanes,
+    stay on the fast lane and curb lane that are the closest to the side of the road.
+  answer: O
+  number: 241
+  category: '12'
+  difficulty: unknown_difficulty
+- question: Prior to taking off on their motorcycle, the driver does not have to check
+    to see if there are any other vehicles or pedestrians nearby.
+  answer: X
+  number: 242
+  category: '12'
+  difficulty: unknown_difficulty
+- question: When taking off on their motorcycle, drivers have to yield to traffic
+    and pedestrians on the road.
+  answer: O
+  number: 243
+  category: '12'
+  difficulty: unknown_difficulty
+- question: Motorcyclists may remove their muffler to increase their engine power
+    (Hp).
+  answer: X
+  number: 244
+  category: '12'
+  difficulty: unknown_difficulty
+- question: No stopping is allowed on pedestrian crosswalks.
+  answer: O
+  number: 245
+  category: '12'
+  difficulty: unknown_difficulty
+- question: Although light motorcycles have room for a passenger to sit on the back
+    of the seat, drivers are not allowed to carry passengers.
+  answer: X
+  number: 246
+  category: '12'
+  difficulty: unknown_difficulty
+- question: On a two-way road with lane lines separating the fast and slow lanes,
+    motorcyclists may use either the outer fast lane or the slow lane. On multi-lane
+    one-way roads, motorcyclists may use either the slow lane or the fast lane adjacent
+    to the slow lane if there is more than one fast lane.
+  answer: O
+  number: 247
+  category: '12'
+  difficulty: hard
+- question: On a road with 3 lanes going in the same direction, motorcyclists are
+    required to use a two-step turning process when turning left. On oneway roads,
+    motorcyclists traveling in the right lane or the slow lane are required to use
+    a two-step process when turning left. Motorcyclists in either the left lane or
+    left slow lane are required to use a two-step process when turning right.
+  answer: O
+  number: 248
+  category: '12'
+  difficulty: unknown_difficulty
+- question: Light motorcycles are permitted to drive on the sidewalk provided they
+    maintain a speed of less than 20km per hour.
+  answer: X
+  number: 249
+  category: '12'
+  difficulty: unknown_difficulty
+- question: Prior to riding their motorcycle, drivers should check to make sure they
+    have their driver's license and vehicle registration with them.
+  answer: O
+  number: 250
+  category: '12'
+  difficulty: unknown_difficulty
+- question: Drivers must abide by the instructions shown on the signs and pavement
+    markings. If they are on a road with no signs or pavement markings, or a road
+    without a line separating the fast and slow lanes, they should use the outside
+    lane.
+  answer: O
+  number: 251
+  category: '12'
+  difficulty: medium
+- question: When a vehicle is coming to a curve, slope, narrow bridge, intersection,
+    level crossing, or road construction, passing another vehicle is prohibited.
+  answer: O
+  number: 252
+  category: '12'
+  difficulty: unknown_difficulty
+- question: Motorcyclists may not drive on the sidewalk.
+  answer: O
+  number: 253
+  category: '12'
+  difficulty: unknown_difficulty
+- question: Drivers are required to slow down on roads with no lane lines separating
+    oncoming traffic, poor condition roads, and when oncoming traffic is approaching.
+  answer: O
+  number: 254
+  category: '12'
+  difficulty: unknown_difficulty
+- question: Passing is not permitted in congested areas and on roads that are under
+    construction.
+  answer: O
+  number: 255
+  category: '12'
+  difficulty: unknown_difficulty
+- question: When coming to an intersection without any traffic sign, the vehicle on
+    the main road has the right-of-way.
+  answer: O
+  number: 256
+  category: '12'
+  difficulty: unknown_difficulty
+- question: When a motorcycle comes to an intersection that is not divided into side
+    roads and main roads, and if both roads contain the same number of lanes that
+    are both straight or curved, the vehicle on the right has the right-of-way.
+  answer: O
+  number: 257
+  category: '12'
+  difficulty: unknown_difficulty
+- question: When a motorcycle comes to an intersection without traffic signals that
+    is not separated into side roads and main roads, the vehicle going straight should
+    have the right-of-way.
+  answer: O
+  number: 258
+  category: '12'
+  difficulty: unknown_difficulty
+- question: Motorcyclists entering a circular intersection are required to yield to
+    vehicles already traveling around the intersection.
+  answer: O
+  number: 259
+  category: '12'
+  difficulty: unknown_difficulty
+- question: Motorcycle drivers are required to turn on their headlight when they are
+    driving in foggy, rainy, snowy, or dimly-lit areas.
+  answer: O
+  number: 260
+  category: '12'
+  difficulty: unknown_difficulty
+- question: Motorcyclists may not park in front of the entrance to an airport, train
+    or bus station, wharf, school, recreation area, exhibition hall, sports center,
+    market or any other public facility, including fire hydrants.
+  answer: O
+  number: 261
+  category: '12'
+  difficulty: unknown_difficulty
+- question: On-duty Fire engines, security vehicles, ambulances, emergency rescue
+    vehicles, garbage trucks, and mail delivery vehicles are not subject to restrictions
+    on temporary parking and parking locations.
+  answer: O
+  number: 262
+  category: '12'
+  difficulty: unknown_difficulty
+- question: When a motorcycle rider is ill or drinking alcohol beverages, traffic
+    safety is compromised and the rider shall not ride a motorcycle.
+  answer: O
+  number: 263
+  category: '12'
+  difficulty: unknown_difficulty
+- question: Trains may approach from both directions. No matter which direction a
+    train is approaching from, for safety reasons you still have to look both directions
+    to confirm no train is coming before you drive across the railroad tracks.
+  answer: O
+  number: 264
+  category: '12'
+  difficulty: unknown_difficulty
+- question: No matter if it is during daytime hours, drivers are required to turn
+    on their headlights when driving in the heavy fog.
+  answer: O
+  number: 265
+  category: '12'
+  difficulty: unknown_difficulty
+- question: On a road with more than 3 lanes, an ordinary heavy-duty motorcycle is
+    allowed on the lane that is the closest to the center.
+  answer: X
+  number: 266
+  category: '12'
+  difficulty: unknown_difficulty
+- question: As oncoming vehicles pass by each other, they should maintain a distance
+    of at least 0.5 meters apart.
+  answer: O
+  number: 267
+  category: '12'
+  difficulty: unknown_difficulty
+- question: A two-wheeled 250cc or larger motorcycle is considered an ordinary heavy
+    motorcycle.
+  answer: X
+  number: 268
+  category: '12'
+  difficulty: unknown_difficulty
+- question: Motorcyclists may park their motorcycle on either a pedestrian crosswalk
+    or an intersection.
+  answer: X
+  number: 269
+  category: '12'
+  difficulty: unknown_difficulty
+- question: You may pass another vehicle on the right.
+  answer: X
+  number: 270
+  category: '12'
+  difficulty: unknown_difficulty
+- question: Drivers are required to slow down when they pass by public facilities,
+    such as a hospital or a school.
+  answer: O
+  number: 271
+  category: '12'
+  difficulty: unknown_difficulty
+- question: Drivers may not honk their horn when approaching a pedestrian crossing.
+  answer: O
+  number: 272
+  category: '12'
+  difficulty: unknown_difficulty
+- question: Drivers are required to maintain a safe driving distance behind other
+    vehicles.
+  answer: O
+  number: 273
+  category: '12'
+  difficulty: unknown_difficulty
+- question: To keep other motorists from being blinded by the glare, low beam light
+    should be used when there is incoming traffic from the opposite direction.
+  answer: O
+  number: 274
+  category: '12'
+  difficulty: unknown_difficulty
+- question: Since motorcycles are small and easy to operate, it is quite safe to drive
+    a motorcycle even if you feel tired or sick.
+  answer: X
+  number: 275
+  category: '12'
+  difficulty: unknown_difficulty
+- question: Drivers must abide by all special traffic signals at intersections.
+  answer: O
+  number: 276
+  category: '12'
+  difficulty: unknown_difficulty
+- question: Heavy motorcycles may carry one passenger on the back of the motorcycle
+    only.
+  answer: O
+  number: 277
+  category: '12'
+  difficulty: unknown_difficulty
+- question: The purpose of turn signals is to indicate a change in vehicle direction
+    in advance.
+  answer: O
+  number: 278
+  category: '12'
+  difficulty: unknown_difficulty
+- question: Only the motorcycle rider needs to wear a helmet. The passengers are not
+    required to wear a helmet.
+  answer: X
+  number: 279
+  category: '12'
+  difficulty: unknown_difficulty
+- question: The motorcycle speed shall be based on the speed limit stated on the road
+    signs or markings. In an area without signs or markings, the speed limit shall
+    be 50km per hour.
+  answer: O
+  number: 280
+  category: '12'
+  difficulty: unknown_difficulty
+- question: If your motorcycle license plate is lost, stolen, or damaged, you are
+    required to apply for a replacement.
+  answer: O
+  number: 281
+  category: '12'
+  difficulty: unknown_difficulty
+- question: Those who drive either a passenger car or motorcycle without a driver's
+    license will be fined and be barred from driving immediately.
+  answer: O
+  number: 282
+  category: '12'
+  difficulty: unknown_difficulty
+- question: If left turns are prohibited, drivers can still make a U-turn.
+  answer: X
+  number: 283
+  category: '12'
+  difficulty: unknown_difficulty
+- question: Intersections with a flashing red light require vehicles and pedestrians
+    to stop and look both ways carefully before proceeding forward.
+  answer: O
+  number: 284
+  category: '12'
+  difficulty: unknown_difficulty
+- question: It is legal to lend or borrow a motorcycle license plate for installation
+    on a motorcycle for which that plate is not registered.
+  answer: X
+  number: 285
+  category: '12'
+  difficulty: unknown_difficulty
+- question: The items carried on a motorcycle may extend up to one meter beyond the
+    front of the motorcycle.
+  answer: X
+  number: 286
+  category: '12'
+  difficulty: unknown_difficulty
+- question: The items carried on a motorcycle may not extend more than 1 meter beyond
+    the rear-wheel axle.
+  answer: X
+  number: 287
+  category: '12'
+  difficulty: unknown_difficulty
+- question: If your motorcycle's license plate is missing or stolen, you should submit
+    a police certified document to the Motor Vehicle Registration Department and apply
+    for a replacement plate.
+  answer: O
+  number: 288
+  category: '12'
+  difficulty: unknown_difficulty
+- question: The speed limit shall be 40km per hour on roads without markings to divide
+    the lane and directions, or on roads where the lanes are divided but without speed
+    limit signs.
+  answer: O
+  number: 289
+  category: '12'
+  difficulty: unknown_difficulty
+- question: Since traffic violation points do not go on your driver's license, it's
+    okay to just disregard them and go ahead and break the traffic rules.
+  answer: X
+  number: 290
+  category: '12'
+  difficulty: unknown_difficulty
+- question: Upon seeing repair technicians closing down a road or bridge ahead, drivers
+    should ignore this and speed up in order to pass through, so that their trip is
+    not delayed.
+  answer: X
+  number: 291
+  category: '12'
+  difficulty: unknown_difficulty
+- question: When driving near parks, hospitals, and schools, motorcyclists must increase
+    situational awareness, decrease speed, and appropriately yield to pedestrians.
+  answer: O
+  number: 292
+  category: '12'
+  difficulty: unknown_difficulty
+- question: It is not necessary for motorcycles to yield to fire engines, ambulances,
+    police patrol vehicles and rescue vehicles on duty.
+  answer: X
+  number: 293
+  category: '12'
+  difficulty: unknown_difficulty
+- question: If an intersection has both traffic lights and a police officer instructing
+    traffic, drivers are required to comply with the instructions given by the police
+    officer first.
+  answer: O
+  number: 294
+  category: '12'
+  difficulty: unknown_difficulty
+- question: If a driver's license is suspended, the driver may apply for another license.
+  answer: X
+  number: 295
+  category: '12'
+  difficulty: unknown_difficulty
+- question: Goods loaded on a motorcycle may not extend more than 2 meters beyond
+    the tail end of the motorcycle.
+  answer: X
+  number: 296
+  category: '12'
+  difficulty: unknown_difficulty
+- question: It is ok to carry a passenger and other cargos on a motorcycle at the
+    same time.
+  answer: X
+  number: 297
+  category: '12'
+  difficulty: unknown_difficulty
+- question: Motorcycle drivers are required to drive under 50km per hour when they
+    are on a road without lane lines separating the fast and slow lanes or separating
+    oncoming traffic.
+  answer: X
+  number: 298
+  category: '12'
+  difficulty: hard
+- question: Motorcycle drivers are required to carry their driver's license and vehicle
+    registration with them at all times when they are driving in case a traffic control
+    officer or the police ask to see them.
+  answer: O
+  number: 299
+  category: '12'
+  difficulty: unknown_difficulty
+- question: If a planned route is closed down, drivers should follow the instructions
+    of repair technicians, and exit that section quickly and without lingering.
+  answer: O
+  number: 300
+  category: '12'
+  difficulty: unknown_difficulty
+- question: Roads are absolutely safe, and so there is no need to check the traffic
+    report before driving even in stormy weather there is no danger on the road.
+  answer: X
+  number: 301
+  category: '12'
+  difficulty: unknown_difficulty
+- question: During a period of torrential rain noted as by the Central Weather Bureau,
+    rock-falls, landslides, or swollen rivers under bridges in low rivers, caused
+    by torrential rain in the upper rivers, are all signs of road disasters. When
+    seeing these situations, drivers should avoid them and report to the departments
+    of Directorate General of Highways or the Police Broadcasting Service as a warning
+    to other drivers.
+  answer: O
+  number: 302
+  category: '12'
+  difficulty: unknown_difficulty
+- question: An automobile refers to motor vehicles that travel on the road running
+    instead of being powered by the rail or electric cable, including motorcycle.
+  answer: O
+  number: 303
+  category: '12'
+  difficulty: unknown_difficulty
+- question: Heavy duty motorcycles include ordinary heavy-duty motorcycles and large
+    heavy-duty motorcycles
+  answer: O
+  number: 304
+  category: '12'
+  difficulty: unknown_difficulty
+- question: Before a license plate can be issued, the motocycle owner shall provide
+    documents showing the manufacture, dealer or importer, and the proof of completion
+    anti-theft identification numbers applied to the auto parts with approval from
+    the Ministry of the Interior.
+  answer: O
+  number: 305
+  category: '12'
+  difficulty: unknown_difficulty
+- question: The engine specification of a motorcycle may not be modified.
+  answer: O
+  number: 306
+  category: '12'
+  difficulty: unknown_difficulty
+- question: The lights on a motorcycle can be spray painted or covered with tapes.
+  answer: X
+  number: 307
+  category: '12'
+  difficulty: unknown_difficulty
+- question: The number of exhaust pipes on a motorcycle can not be modified, but the
+    owner can relocate the exhaust pipes from one side to the other.
+  answer: X
+  number: 308
+  category: '12'
+  difficulty: hard
+- question: The minimum age for a person taking the driving license exam for light-duty
+    motorcycles is 16. There is no maximum age limit.
+  answer: X
+  number: 309
+  category: '12'
+  difficulty: hard
+- question: A person taking the driving license exam for light-duty motorcycle or
+    ordinary heavy-duty motorcycle must have had learned riding a motorcycle previously.
+  answer: X
+  number: 310
+  category: '12'
+  difficulty: hard
+- question: A person who already possesses the driving license for container truck,
+    large passenger vehicle, truck, and light vehicle may operate a heavy-duty motorcycle.
+  answer: X
+  number: 311
+  category: '12'
+  difficulty: unknown_difficulty
+- question: A person who already possesses the driving license for heavy-duty motorcycle
+    may operate a large heavy-duty motorcycle.
+  answer: X
+  number: 312
+  category: '12'
+  difficulty: unknown_difficulty
+- question: Physical exam is required for a person applying for the driving license
+    for light-duty or ordinary heavy-duty motorcycle.
+  answer: X
+  number: 313
+  category: '12'
+  difficulty: unknown_difficulty
+- question: The results of the physical exam and written exam are valid for 1 year.
+  answer: O
+  number: 314
+  category: '12'
+  difficulty: unknown_difficulty
+- question: When vehicles carrying a passenger on a motorcycle, the rider can carry
+    small extra items if they don't pose safety threats to the rider and the passenger.
+  answer: O
+  number: 315
+  category: '12'
+  difficulty: unknown_difficulty
+- question: When a motorcycle carries items that may leak, scatter, and spread stench,
+    they should be placed in a tightly sealed container.
+  answer: O
+  number: 316
+  category: '12'
+  difficulty: unknown_difficulty
+- question: When a motorcycle carries goods, they should be fastened and leveled.
+  answer: O
+  number: 317
+  category: '12'
+  difficulty: unknown_difficulty
+- question: Helmets for motorcycle riders must be made specifically for motorcycles
+    and certified by the Bureau of Standards Metrology and Inspection (BSMI). However,
+    it is not necessary to have the certification label on the helmet.
+  answer: X
+  number: 318
+  category: '12'
+  difficulty: unknown_difficulty
+- question: The front of the helmet should align with the front of the face. Fasten
+    the helmet on the head so that it does not wobble. The helmet may not obstruct
+    the vision, and the buckle should be tightly hooked under the chin.
+  answer: O
+  number: 319
+  category: '12'
+  difficulty: unknown_difficulty
+- question: When a motorcycle is making a right turn, the turn signal on the right
+    should be flashing.
+  answer: O
+  number: 320
+  category: '12'
+  difficulty: unknown_difficulty
+- question: When two vehicles from two different lanes are joining into one lane,
+    the one traveling in a straight line should have the right-of-way. If neither
+    is traveling on a straight lane, the vehicle on the fast lane should yield to
+    the one on the curb lane.
+  answer: X
+  number: 321
+  category: '12'
+  difficulty: unknown_difficulty
+- question: During a traffic jam, vehicles in the fast lane and the curb lane should
+    yield to each other, alternate through the traffic and keep a safe distance between
+    vehicles.
+  answer: O
+  number: 322
+  category: '12'
+  difficulty: unknown_difficulty
+- question: Except for vehicles that are starting, preparing to park, or parking temporarily,
+    driving off the shoulder is prohibited.
+  answer: O
+  number: 323
+  category: '12'
+  difficulty: unknown_difficulty
+- question: For motorcycles turning at an intersection, follow the instructions on
+    the traffic lights, road signs or markings on the road.
+  answer: O
+  number: 324
+  category: '12'
+  difficulty: unknown_difficulty
+- question: For motorcycles turning at an intersection, follow the instructions on
+    the road signs or markings on the road. When there are no signs or markings, and
+    the fast lane displays no motorcycles allowed, the motorcycle should make a hook-turn
+    and not turn left using the fast lane or other lanes.
+  answer: O
+  number: 325
+  category: '12'
+  difficulty: unknown_difficulty
+- question: On a one way street with more than 3 fast lanes, the vehicle on the left
+    lane or the curb lane should make a hook-turn to turn left.
+  answer: X
+  number: 326
+  category: '12'
+  difficulty: unknown_difficulty
+- question: On a one way street with more than 3 fast lanes, the vehicle on the right
+    lane or the curb lane should make a hook-turn to turn right.
+  answer: X
+  number: 327
+  category: '12'
+  difficulty: unknown_difficulty
+- question: On the road with a divider between the fast lane and the curb lane, when
+    the motorist wishes to make a right turn from the fast lane, switch into the curb
+    lane 30 to 60 meters before the intersection to make the right turn.
+  answer: O
+  number: 328
+  category: '12'
+  difficulty: unknown_difficulty
+- question: When a motorcycle approaches a green light at the intersection and the
+    pedestrians are still crossing the road in front of the motorcycle, the rider
+    should slow down to let the pedestrians pass, because they have the right-of-way.
+  answer: O
+  number: 329
+  category: '12'
+  difficulty: unknown_difficulty
+- question: In an area without assigned bicycle parking, bicycles should not park
+    in the parking space designated for motorcycles, excluding large heavy-duty motorcycles.
+  answer: X
+  number: 330
+  category: '12'
+  difficulty: unknown_difficulty
+- question: The motorcycle lane is paved in blue and bicycle lane is paved in brick
+    red.
+  answer: O
+  number: 331
+  category: '12'
+  difficulty: unknown_difficulty
+- question: Motorcycle waiting zone is for all motorcycles except large heavyduty
+    motorcycles to stop during red light, other vehicles may not stop within the waiting
+    zone.
+  answer: O
+  number: 332
+  category: '12'
+  difficulty: unknown_difficulty
+- question: I'm riding an ordinary heavy-duty motorcycle and approaching an intersection
+    which requires a hook-turn. Since there is not much traffic and I am in a hurry,
+    I can just turn left directly to avoid spending time waiting in the motorcycle
+    waiting zone.
+  answer: X
+  number: 333
+  category: '12'
+  difficulty: unknown_difficulty
+- question: A vehicle owner who is required to purchase mandatory automobile insurance,
+    if he/she did not sign up or renew the insurance, he/she shall be fined.
+  answer: O
+  number: 334
+  category: '12'
+  difficulty: unknown_difficulty
+- question: If a vehicle is involved in an accident and the owner did not purchase
+    the mandatory automobile insurance, the owner is subject to a finebetween NT $6,000
+    and NT $30,000 by the Motor Vehicle Supervision Office. The license plate shall
+    be suspended until the owner purchases the insurance.
+  answer: O
+  number: 335
+  category: '12'
+  difficulty: unknown_difficulty
+- question: Individuals operate a light vehicle with a motorcycle driving license
+    shall receive a fine between NT$6,000 to NT $12,000. The right to operate a vehicle
+    shall be revoked immediately.
+  answer: O
+  number: 336
+  category: '12'
+  difficulty: unknown_difficulty
+- question: Anyone using counterfeit, altered or another person's driving license
+    to operate a motorcycle shall be fined between NT $6,000 to NT $12,000. The right
+    to operate a vehicle shall be revoked immediately. The license should be destroyed
+    by the bearer.
+  answer: X
+  number: 337
+  category: '12'
+  difficulty: unknown_difficulty
+- question: For anyone operating a container truck, large passenger vehicle, or large
+    truck with the motorcycle driving license , both the owner and the driver shall
+    be fined between NT $40,000 to NT $80,000. The right to operate a vehicle shall
+    be revoked immediately.
+  answer: O
+  number: 338
+  category: '12'
+  difficulty: unknown_difficulty
+- question: For anyone operating a large heavy-duty motorcycle with the driving license
+    for ordinary heavy-duty motorcycle, both the owner and the rider shall be fined
+    between NT $1,800 to NT $3,600. The right to operate a vehicle shall be revoked
+    immediately.
+  answer: O
+  number: 339
+  category: '12'
+  difficulty: unknown_difficulty
+- question: For anyone riding a heavy-duty motorcycle with a driving license for light-duty
+    motorcycle, the right to operate the vehicle shall be revoked immediately. However,
+    the driver will not be fined.
+  answer: X
+  number: 340
+  category: '12'
+  difficulty: unknown_difficulty
+- question: If a motorcycle rider is carrying passengers or cargo in violation of
+    the regulations, the rider shall be fined.
+  answer: O
+  number: 341
+  category: '12'
+  difficulty: unknown_difficulty
+- question: Anyone driving under the influence of drugs, LSD, narcotics, similar controlled
+    substance or alcohol and involved in a fatal accident shall be sentenced to 3
+    to 10 years in prison. The driver will be sentenced to 1 to 7 years in prison
+    for causing serious injuries.
+  answer: O
+  number: 342
+  category: '12'
+  difficulty: unknown_difficulty
+- question: A motorcycle rider who receives the ticket for traffic violation and would
+    like to file an appeal may do so with the local authority which issued the ticket
+    within 30 days.
+  answer: O
+  number: 343
+  category: '12'
+  difficulty: unknown_difficulty
+- question: When a rider is caught riding a motorcycle that is registered as the scrapped,
+    the vehicle shall be impounded and the owner will be notified to retrieve the
+    motorcycle within a time limit.
+  answer: X
+  number: 344
+  category: '12'
+  difficulty: unknown_difficulty
+- question: If a person continues to ride a motorcycle while the driving license is
+    suspended, the person's license shall be revoked.
+  answer: O
+  number: 345
+  category: '12'
+  difficulty: unknown_difficulty
+- question: Anyone using counterfeit, altered or another person's license to ride
+    a motorcycle shall be fined between NT $6,000 to NT $12,000. The right to operate
+    a vehicle shall be revoked immediately.
+  answer: O
+  number: 346
+  category: '12'
+  difficulty: unknown_difficulty
+- question: When a person rides a motorcycle under the influence of alcohol and exceeds
+    the legal limit and does not cause any traffic accident, the rider will be fined
+    but the driving license will not be suspended.
+  answer: X
+  number: 347
+  category: '12'
+  difficulty: unknown_difficulty
+- question: Any motorcycle rider who refuses to take an alcohol sobriety test will
+    be fined NT$180,000 for the first violation, the motorcycle will be impounded,
+    the driver's license will be suspended, and the driver must participate in driver
+    safety courses.
+  answer: O
+  number: 348
+  category: '12'
+  difficulty: unknown_difficulty
+- question: If a motorcycle rider has 3 violations within 3 months, the license plate
+    for the motorcycle shall be suspended for a month.
+  answer: O
+  number: 349
+  category: '12'
+  difficulty: unknown_difficulty
+- question: Since January 1st, 2013, vehicle registration does not need to be renewed.
+  answer: O
+  number: 350
+  category: '12'
+  difficulty: unknown_difficulty
+- question: Registration changes are required for motorcycles with transfer of ownership,
+    or with alteration, suspension, resuming the registration, scrapped vehicle, or
+    revocation of its license.
+  answer: O
+  number: 351
+  category: '12'
+  difficulty: unknown_difficulty
+- question: If anyone lends the driving license for motorcycle to another individual,
+    the lender's driving license shall be suspended for 3 months.
+  answer: O
+  number: 352
+  category: '12'
+  difficulty: unknown_difficulty
+- question: When a motorcycle rider rides through a crosswalk with pedestrians crossing,
+    it is not necessary to yield to the pedestrians unless there is a traffic conductor
+    directing the traffic.
+  answer: X
+  number: 353
+  category: '12'
+  difficulty: unknown_difficulty
+- question: When a motorcycle is scrapped, the owner should fill out the documents
+    for registration change, registering the vehicle as the scrapped with the motor
+    vehicle department and returning the license plate.
+  answer: O
+  number: 354
+  category: '12'
+  difficulty: unknown_difficulty
+- question: An ordinary light-duty motorcycle or a heavy-duty motorcycle produced
+    less than 5 years ago should be inspected at least once a year.
+  answer: X
+  number: 355
+  category: '12'
+  difficulty: unknown_difficulty
+- question: A person under the age of 18 may not take the driver's exam. Therefore,
+    this person must obtain the approval from the legal guardian in order to ride
+    a motorcycle.
+  answer: X
+  number: 356
+  category: '12'
+  difficulty: unknown_difficulty
+- question: The physical exam is not required for individuals who are taking the driver's
+    test for light-duty or ordinary heavy-duty motorcycles.
+  answer: O
+  number: 357
+  category: '12'
+  difficulty: unknown_difficulty
+- question: If a person cheats at the driver's exam by finding a substitute to take
+    the exam, both individuals may not take the exam again within 5 years from the
+    day they are caught.
+  answer: O
+  number: 358
+  category: '12'
+  difficulty: unknown_difficulty
+- question: Before crossing a level crossing without a guard, a motorist should stop,
+    look, listen and then pass after making sure there are no incoming trains.
+  answer: O
+  number: 359
+  category: '12'
+  difficulty: unknown_difficulty
+- question: A motorcycle rider who has been riding for over 8 hours may continue as
+    long as the rider is not tired.
+  answer: X
+  number: 360
+  category: '12'
+  difficulty: unknown_difficulty
+- question: When the motorcycle passenger does not wear a helmet, the police will
+    only issue tickets to the rider. Therefore, the passenger does not have to wear
+    a helmet.
+  answer: X
+  number: 361
+  category: '12'
+  difficulty: unknown_difficulty
+- question: According to the Road Traffic Management and Penalty Act, if a motorcycle
+    rider is found riding under the influence of alcohol, the rider can be fined up
+    to NT $60,000.
+  answer: X
+  number: 362
+  category: '12'
+  difficulty: unknown_difficulty
+- question: If a person under 14 years old violates regulations in Road Traffic Management
+    and Penalty Act, the person's legal guardians will be punished.
+  answer: O
+  number: 363
+  category: '12'
+  difficulty: unknown_difficulty
+- question: When turning at an intersection, it is acceptable to use the turning signal
+    right before turning to remind the vehicles behind and prevent accidents.
+  answer: X
+  number: 364
+  category: '12'
+  difficulty: unknown_difficulty
+- question: Although a motorcycle is small and it is easy to maneuver, riders still
+    need to abide by the regulations during traffic jam, it will still need to follow
+    regulations and does not change lanes constantly.
+  answer: O
+  number: 365
+  category: '12'
+  difficulty: unknown_difficulty
+- question: Prior to the license plate obtainment, the motorcycle rider must apply
+    for a temporary license plate in order to ride the motorcycle to a local motor
+    vehicle department for the license plate exam.
+  answer: O
+  number: 366
+  category: '12'
+  difficulty: unknown_difficulty
+- question: A person with the driving license for motor vehicle may operate an ordinary
+    heavy-duty motorcycle without the driving license for motorcycles.
+  answer: X
+  number: 367
+  category: '12'
+  difficulty: unknown_difficulty
+- question: If there is an additional permanent seat behind the rider on the small
+    light-duty, heavy-duty and ordinary light-duty motorcycles, the rider may carry
+    one passenger.
+  answer: X
+  number: 368
+  category: '12'
+  difficulty: unknown_difficulty
+- question: A motorcycle rider should check the brakes, tires, lights, horn, and side
+    mirrors before riding a motorcycle.
+  answer: O
+  number: 369
+  category: '12'
+  difficulty: unknown_difficulty
+- question: When the wait for the red light is long, it is acceptable for a driver
+    to check text messages on the cell phone in case of missing important messages.
+  answer: X
+  number: 370
+  category: '12'
+  difficulty: unknown_difficulty
+- question: When making a sharp turn on a motorcycle on the mountain road, due to
+    poor visual range, the rider on the upper hill may honk once as a notification
+    for the incoming traffic.
+  answer: O
+  number: 371
+  category: '12'
+  difficulty: unknown_difficulty
+- question: When visibility is diminished due to heavy rain, reducing the speed and
+    being prepared to stop at any time.
+  answer: O
+  number: 372
+  category: '12'
+  difficulty: unknown_difficulty
+- question: To yield to emergency vehicles on a one-way street, vehicles should move
+    to the right and prepare to stop.
+  answer: O
+  number: 373
+  category: '12'
+  difficulty: unknown_difficulty
+- question: When a driver evaluates him or herself as unsuitable for driving due to
+    health conditions or age, the driver may give up the driving license by returning
+    it to the motor vehicle department.
+  answer: O
+  number: 374
+  category: '12'
+  difficulty: unknown_difficulty
+- question: A vehicle should keep a safe distance from the vehicles ahead in case
+    of sudden brakes and keep at minimum of 50cm on the side with other vehicles.
+  answer: O
+  number: 375
+  category: '12'
+  difficulty: unknown_difficulty
+- question: In order to avoid being hit by a car door that opens suddenly, maintain
+    a minimum of 1 meter of safety distance, which is about the length of a car door,
+    when riding on the road to ensure safety.
+  answer: O
+  number: 376
+  category: '12'
+  difficulty: unknown_difficulty
+- question: Any form of parking is prohibited within 10 meters of any fire hydrants
+    or access for fire trucks to keep avoid obstructing the traffic.
+  answer: X
+  number: 377
+  category: '12'
+  difficulty: unknown_difficulty
+- question: Although the motorcycle registration does not need to be renewed, the
+    owner still needs to check the date for mandatory vehicle insurance and exhaust
+    inspection.
+  answer: O
+  number: 378
+  category: '12'
+  difficulty: unknown_difficulty
+- question: "The cargo on a motorcycle can\u2019t exceed outer edge of handles by\
+    \ 15cm."
+  answer: X
+  number: 379
+  category: '12'
+  difficulty: unknown_difficulty
+- question: When approaching level crossing, the alarm is going off, light signal
+    is flashing, and gate is closing down, speed up to pass.
+  answer: X
+  number: 380
+  category: '12'
+  difficulty: unknown_difficulty
+- question: If a vehicle is stolen, fuel tax is collected up to the day before it
+    was stolen.
+  answer: O
+  number: 381
+  category: '12'
+  difficulty: unknown_difficulty
+- question: Mandatory vehicle insurance can only offer basic coverage for bodily damages
+    or the loss of lives of the people involved in an accident. Vehicle owners who
+    wish to increase the insurance coverage can sign up for additional coverage.
+  answer: O
+  number: 382
+  category: '12'
+  difficulty: unknown_difficulty
+- question: If a vehicle is about to turn or change lane, the vehicle should use the
+    turn signal or hand signal 10 meters before turning. Check the traffic behind
+    with the side or rear-view mirrors before making the turn.
+  answer: X
+  number: 383
+  category: '12'
+  difficulty: unknown_difficulty
+- question: When a motorcycle comes to an intersection that requires hook-turn to
+    turn left, the driver needs to follow such regulations.
+  answer: O
+  number: 384
+  category: '12'
+  difficulty: unknown_difficulty
+- question: In order to save time at the traffic light, get off the motorcycle and
+    push it through the stop line in order to make an U-turn, or make a hook turn
+    to turn left.
+  answer: X
+  number: 385
+  category: '12'
+  difficulty: unknown_difficulty
+- question: Any driver who does not yield to a fire engine, ambulance, police vehicle,
+    and rescue vehicle when hearing the siren shall be punished with 3-month driving
+    license suspension.
+  answer: X
+  number: 386
+  category: '12'
+  difficulty: unknown_difficulty
+- question: Pedestrians on the crosswalk area have the right-of-way, anyone who is
+    driving a vehicle or motorcycle that doesn't let them go first will get fines.
+  answer: O
+  number: 387
+  category: '12'
+  difficulty: unknown_difficulty
+- question: Changes made to the color or the design of the vehicle shall be inspected
+    and registered at a motor vehicle's office.
+  answer: O
+  number: 388
+  category: '12'
+  difficulty: unknown_difficulty
+- question: After a person's driving license for motorcycles is revoked, the person
+    can still use a motor vehicle driving license to ride a light-duty motorcycle.
+  answer: X
+  number: 389
+  category: '12'
+  difficulty: unknown_difficulty
+- question: Fatigue will reduce a motorist's attention span and judgment. If a person
+    needs to ride a motorcycle for a long time, it is better not to ride over 4 hours
+    at a time.
+  answer: X
+  number: 390
+  category: '12'
+  difficulty: unknown_difficulty
+- question: When encountering yellow flashing light the motorist should reduce speed
+    and approach. Come to a full stop in front of the intersection and proceed after
+    yielding to vehicles with the right-of-way and ensuring safety.
+  answer: X
+  number: 391
+  category: '12'
+  difficulty: unknown_difficulty
+- question: The red flashing light indicates "warning". Any approaching vehicles should
+    reduce speed, and pass through carefully
+  answer: X
+  number: 392
+  category: '12'
+  difficulty: unknown_difficulty
+- question: Since the driving license and registration no longer need to be renewed,
+    it is not necessary to carry them when operating a vehicle.
+  answer: X
+  number: 393
+  category: '12'
+  difficulty: unknown_difficulty
+- question: When brake lights on the vehicle ahead are on, reduce speed and prepare
+    to brake.
+  answer: O
+  number: 394
+  category: '12'
+  difficulty: unknown_difficulty
+- question: If a motorcycle is produced for over five years, it needs to pass temporary
+    inspection before the transfer of ownership.
+  answer: O
+  number: 395
+  category: '12'
+  difficulty: unknown_difficulty
+- question: A person holding a valid driving license can bring the license to the
+    motor vehicle office to apply for international driver's license, which allows
+    the driver to drive the same type of vehicle.
+  answer: O
+  number: 396
+  category: '12'
+  difficulty: unknown_difficulty
+- question: There is no requirement on prior driving experience for a person taking
+    the driver exam for light-duty or ordinary heavy-duty motorcycles.
+  answer: O
+  number: 397
+  category: '12'
+  difficulty: unknown_difficulty
+- question: When there is an emergency or danger, a driver needs to honk, subject
+    to honk once as principal. However, the driver can continue to honk until the
+    emergency is cleared.
+  answer: X
+  number: 398
+  category: '12'
+  difficulty: unknown_difficulty
+- question: It is legal to hold competitions, party, shoot films, act, exercise or
+    to conduct similar activities on the streets without the approval from the police
+    agencies.
+  answer: X
+  number: 399
+  category: '12'
+  difficulty: unknown_difficulty
+- question: When illegal parking is reported to the police and the driver is not present
+    to move the vehicle away, the illegality may not be reported again.
+  answer: X
+  number: 400
+  category: '12'
+  difficulty: unknown_difficulty
+- question: Before lending a motorcycle to another person, examine the person's driving
+    license as well as the physical and mental conditions. The owner should also inform
+    the borrower of the conditions of the motorcycle.
+  answer: O
+  number: 401
+  category: '12'
+  difficulty: easy
+- question: When approaching the crosswalk, yield to the pedestrians regardless of
+    whether a traffic conductor or traffic signal is present.
+  answer: O
+  number: 402
+  category: '12'
+  difficulty: unknown_difficulty
+- question: Vehicles can pass through slowly when pedestrians are passing through
+    the crosswalk.
+  answer: X
+  number: 403
+  category: '12'
+  difficulty: unknown_difficulty
+- question: When both the traffic conductor and the traffic signal are present at
+    an intersection, the motorist should obey the traffic signals only.
+  answer: X
+  number: 404
+  category: '12'
+  difficulty: unknown_difficulty
+- question: For safety purposes, when passing an intersection without lights or traffic
+    conductor, a motorist should check the left first, then to the right and left
+    again before passing through.
+  answer: O
+  number: 405
+  category: '12'
+  difficulty: unknown_difficulty
+- question: A person who has obtained a driving license for ordinary heavy-duty motorcycle
+    may not ride a light-duty motorcycle.
+  answer: X
+  number: 406
+  category: '12'
+  difficulty: unknown_difficulty
+- question: While passing the car ahead on the section painted with broken yellow
+    line, pass from the left side.
+  answer: O
+  number: 407
+  category: '12'
+  difficulty: unknown_difficulty
+- question: Temporarily stopping at the roadside means the stopping time for getting
+    on or off the vehicle, picking up passengers, and loading goods should be within
+    3 minutes. Keep the vehicle ready to move at all times and the engine can be either
+    shut off or idle.
+  answer: O
+  number: 408
+  category: '12'
+  difficulty: unknown_difficulty
+- question: A vehicle refers to an automobile or a slow car that does not run on electric
+    rail system or other vehicles that run on roads. A prime motor vehicle does not
+    include motorcycle.
+  answer: X
+  number: 409
+  category: '12'
+  difficulty: unknown_difficulty
+- question: A highway can mean either a national highway, provincial Highway, urban
+    road, county highway, district road, country road, accommodate highway, and other
+    highway related facilities.
+  answer: O
+  number: 410
+  category: '12'
+  difficulty: unknown_difficulty
+- question: If a driver drunk drives and carries a passenger under the age of 12,
+    the drive should be fined and the vehicle towed and impounded, and the driver's
+    license should be revoked.
+  answer: X
+  number: 411
+  category: '12'
+  difficulty: unknown_difficulty
+- question: When a vehicle is towed and impounded due to the vehicle or the driver's
+    violations on the traffic regulations, the driver can retrieve the vehicle with
+    impound receipt and vehicle registration document after the penalty period is
+    cleared. As for violation of drunk driving, receipt of ticket payment should also
+    be provided.
+  answer: O
+  number: 412
+  category: '12'
+  difficulty: unknown_difficulty
+- question: The total length of a motorcycle with cylinder engine capacity of 550cc
+    should be no more than 3 meters in length.
+  answer: X
+  number: 413
+  category: '12'
+  difficulty: unknown_difficulty
+- question: The total length of a motorcycle with cylinder engine capacity of 550cc
+    should be no more than 2 meters in length.
+  answer: X
+  number: 414
+  category: '12'
+  difficulty: unknown_difficulty
+- question: Except handicapped motorcycles, the length of heavy-duty motorcycle and
+    ordinary light-duty motorcycles should be no more than 1.3 meters in length, and
+    small light-duty motorcycles should be no more than 1 meter in length.
+  answer: O
+  number: 415
+  category: '12'
+  difficulty: unknown_difficulty
+- question: Scooters cannot carry hazardous materials, heavy-duty motorcycle cannot
+    carry liquefied petroleum gas that weigh over 60kg.
+  answer: O
+  number: 416
+  category: '12'
+  difficulty: unknown_difficulty
+- question: Since First January,2014, inspection of tire thread wear was included
+    when applying for the license plate inspection and regular inspection.
+  answer: O
+  number: 417
+  category: '12'
+  difficulty: unknown_difficulty
+- question: For motorcycles turning left at an intersection that does not require
+    a hook turn, the turn signal should be turned on 30 meters before the intersection.
+    Change to the fast lane or the left turn lane and turn left from the center of
+    the intersection instead of occupying the traffic lane on the opposite direction.
+  answer: O
+  number: 418
+  category: '12'
+  difficulty: unknown_difficulty
+- question: During red lights, all motorcycles except for the large heavy-duty motorcycles
+    should stop within the motorcycle waiting area. When an intersection does not
+    have a motorcycle waiting area, stop before the stop-line.
+  answer: O
+  number: 419
+  category: '12'
+  difficulty: unknown_difficulty
+- question: A vehicle with cancelled license plate can be used again after applying
+    for a new license plate.
+  answer: O
+  number: 420
+  category: '12'
+  difficulty: unknown_difficulty
+- question: A person who violates any traffic violations prior to receiving a driving
+    license shall be penalized by suspension of the driving license and shall not
+    be permitted to take any driving test during the maximum suspension period.
+  answer: O
+  number: 421
+  category: '12'
+  difficulty: unknown_difficulty
+- question: A person whose driving license is permanently revoked or suspended may
+    take the driver's test again after attending re-education classes for a month.
+  answer: X
+  number: 422
+  category: '12'
+  difficulty: unknown_difficulty
+- question: A driver's license is issued when a driver applies at the motor vehicle
+    office and passes the driver's exams.
+  answer: O
+  number: 423
+  category: '12'
+  difficulty: unknown_difficulty
+- question: Before passing the driver's exams and receiving a driving license, riding
+    a motorcycle is prohibited.
+  answer: O
+  number: 424
+  category: '12'
+  difficulty: unknown_difficulty
+- question: Fire engines, ambulances, police patrol cars or rescue vehicles are restricted
+    by the speed limit while on duty.
+  answer: O
+  number: 425
+  category: '12'
+  difficulty: unknown_difficulty
+- question: A crosswalk refers to markings on the road with either longitudinal lines
+    or zebra lines that allow pedestrians to cross the road.
+  answer: O
+  number: 426
+  category: '12'
+  difficulty: unknown_difficulty
+- question: Pedestrian crossing bridges, underpasses and crosswalks are for emergency
+    use only.
+  answer: X
+  number: 427
+  category: '12'
+  difficulty: unknown_difficulty
+- question: When a fire engine, ambulance, police patrol car or a rescue vehicle is
+    on duty on a minimum of two-lane road, the vehicle may travel on either the fast
+    lane or the curb lane.
+  answer: O
+  number: 428
+  category: '12'
+  difficulty: easy
+- question: When driving on a two-way four lane road, on the section with double yellow
+    solid line, you can drive onto the lane for the opposite traffic.
+  answer: X
+  number: 429
+  category: '12'
+  difficulty: easy
+- question: While driving on two-way four lane road, the vehicle should stay within
+    designated lane.
+  answer: O
+  number: 430
+  category: '12'
+  difficulty: unknown_difficulty
+- question: When changing lane or turning, in order to save time, it is not necessary
+    to use the turn signal. Simply change the lane or turn directly.
+  answer: X
+  number: 431
+  category: '12'
+  difficulty: unknown_difficulty
+- question: When two vehicles meet on a narrow mountain road, the vehicle on the mountain
+    side should yield to the one on the outer edge.
+  answer: O
+  number: 432
+  category: '12'
+  difficulty: unknown_difficulty
+- question: Before passing a vehicle on the same lane, first honk twice or flash the
+    headlight once. Pass the vehicle after it slows down and moves to the side, or
+    after the motorist gestures for the vehicle behind to pass.
+  answer: O
+  number: 433
+  category: '12'
+  difficulty: unknown_difficulty
+- question: A motorcycle may not cross, pass another vehicle, or make a U-turn on
+    the railroad crossing or section of the road marked with single yellow solid line,
+    double yellow solid line, or double white solid line.
+  answer: O
+  number: 434
+  category: '12'
+  difficulty: unknown_difficulty
+- question: It is not necessary to yield to an ambulance on duty and it is ok to pass
+    it.
+  answer: X
+  number: 435
+  category: '12'
+  difficulty: unknown_difficulty
+- question: U-turns are prohibited on sections of the road marked with the single
+    yellow solid line, double yellow solid line, or double white solid line.
+  answer: O
+  number: 436
+  category: '12'
+  difficulty: unknown_difficulty
+- question: When the Department of Transportation or Police Department has special
+    parking regulations specifying the time, location, method and the type of vehicle,
+    such regulations shall be followed.
+  answer: O
+  number: 437
+  category: '12'
+  difficulty: unknown_difficulty
+- question: Parking is not permitted at an area that apparently obstructs the traffic
+    flow.
+  answer: O
+  number: 438
+  category: '12'
+  difficulty: unknown_difficulty
+- question: Parking is not permitted on a curve, slope, narrow road, channelizing
+    line or on a road section that is under construction.
+  answer: O
+  number: 439
+  category: '12'
+  difficulty: unknown_difficulty
+- question: Parking is prohibited 24 hours a day at a no parking zone unless otherwise
+    specified.
+  answer: X
+  number: 440
+  category: '12'
+  difficulty: hard
+- question: When traveling through the section of the road under traffic control,
+    the motorist should comply with the regulations specified for the particular section.
+  answer: O
+  number: 441
+  category: '12'
+  difficulty: easy
+- question: It is acceptable to install special horns with different tunes on a motorcycle.
+  answer: X
+  number: 442
+  category: '12'
+  difficulty: unknown_difficulty
+- question: While parking a vehicle in an area without lighting equipment or with
+    insufficient lighting, the parking lights should be turned on.
+  answer: O
+  number: 443
+  category: '12'
+  difficulty: unknown_difficulty
+- question: Avoid turning on the parking lights when parking on the roadside at night
+    during fog, rain, snow, sandstorm and hazy sky.
+  answer: X
+  number: 444
+  category: '12'
+  difficulty: unknown_difficulty
+- question: A driver should turn on the headlights while driving at night or passing
+    through tunnels, culverts, and underpasses or when driving through fog, heavy
+    rain and gloomy areas with low visibility.
+  answer: O
+  number: 445
+  category: '12'
+  difficulty: unknown_difficulty
+- question: Turn on the high beam lights when vehicles approach from the opposite
+    direction at night.
+  answer: X
+  number: 446
+  category: '12'
+  difficulty: unknown_difficulty
+- question: Before driving the car from road side parking, it is not necessary to
+    use the turn signal but the motorist should take notice of the surrounding traffic.
+  answer: X
+  number: 447
+  category: '12'
+  difficulty: easy
+- question: When driving on the same lane, if the vehicle ahead must slow down or
+    come to a stop, the motorist should first use the lights to signal the car behind.
+  answer: O
+  number: 448
+  category: '12'
+  difficulty: unknown_difficulty
+- question: Parking, stopping, or passing other vehicles in a tunnel is prohibited.
+  answer: O
+  number: 449
+  category: '12'
+  difficulty: unknown_difficulty
+- question: When a motorist is in an accident causing injury or death, the motorist
+    should follow proper procedures by calling the police and ambulance. Moving vehicles
+    or compromising evidence is not allowed. However, when all party involved in the
+    accident agree, the vehicles may be moved away from the traffic after the original
+    positions are marked.
+  answer: O
+  number: 450
+  category: '12'
+  difficulty: unknown_difficulty
+- question: A road may refer to a highway, street, alley, plaza, arcade, corridor
+    or any other public walkway.
+  answer: O
+  number: 451
+  category: '12'
+  difficulty: unknown_difficulty
+- question: While on a steep and narrow road, vehicles shall be fined for going downhill
+    but not yielding to the vehicles going uphill, for going uphill but not yielding
+    to the vehicles half way down the hill, or for traveling on the mountain side
+    of a mountain road ut not yielding to vehicles on the cliff side.
+  answer: O
+  number: 452
+  category: '12'
+  difficulty: unknown_difficulty
+- question: A motorcycle rider shall be fined for not using the proper headlights
+    or signal lights according to the regulation.
+  answer: O
+  number: 453
+  category: '12'
+  difficulty: unknown_difficulty
+- question: In order to reduce greenhouse gas emissions, vehicle engines shall not
+    idle for more than 3 minutes to prevent exhaust gas from polluting the environment.
+    Violators shall be fined in accordance with the Air Pollution Control Act.
+  answer: O
+  number: 454
+  category: '12'
+  difficulty: unknown_difficulty
+- question: A motorist whose license is suspended due to violations should enroll
+    in traffic safety lessons.
+  answer: O
+  number: 455
+  category: '12'
+  difficulty: unknown_difficulty
+- question: Motorists involved in an accident without casualties shall be subject
+    to the applicable regulations. Motorists who run away from the crime scene shall
+    be fined and the driving license shall be suspended.
+  answer: O
+  number: 456
+  category: '12'
+  difficulty: unknown_difficulty
+- question: Motorists involved in an accident without casualties shall be subject
+    to the applicable regulations. Motorists who run away from the crime scene shall
+    be fined and the driving license shall be revoked.
+  answer: X
+  number: 457
+  category: '12'
+  difficulty: unknown_difficulty
+- question: Motorists who resist law enforcement officers or traffic patrol officers
+    on duty and cause injuries or death are subject to a fine and license revocation.
+    In addition, the motorists are ineligible for obtaining the driving license for
+    life. However, motorists who meet certain conditions may not be subjec to this
+    requirement when the duration for the penalties has expired.
+  answer: O
+  number: 458
+  category: '12'
+  difficulty: unknown_difficulty
+- question: If the owner of the motorcycle is aware that the driver has consumed alcohol
+    that exceeds the standard limitation, has taken drugs or LSD and does not stop
+    the person from driving, the owner of the motorcycle will be fined and the motorcycle's
+    license plate will also be suspended for 3 months.
+  answer: O
+  number: 459
+  category: '12'
+  difficulty: unknown_difficulty
+- question: Motorists who refuse to take the breath test for drunk driving shall be
+    fined for NT $30,000.
+  answer: X
+  number: 460
+  category: '12'
+  difficulty: unknown_difficulty
+- question: When a motorist's breath test result exceeds the legal alcohol limit,
+    and the motorist causes serious injury or death, the driving license shall be
+    revoked and the motorist shall not retake the driver's exam within a year.
+  answer: X
+  number: 461
+  category: '12'
+  difficulty: unknown_difficulty
+- question: Motorists who is unable to operate a motor vehicle safely due to the influence
+    of drugs, LSD, narcotics, controlled substance or alcohol shall be sentenced to
+    2 years of imprisonment, and fined for an amount no more than NT $200,000.
+  answer: O
+  number: 462
+  category: '12'
+  difficulty: unknown_difficulty
+- question: When a law enforcement officer pulls a driver off the road for using a
+    cellphone, computer, or other similar devices to call, receive call, transfer
+    data, or conduct in ways that affect traffic safety, the officer shall act under
+    the principle of maintaining traffic and motorist driving. The law enforcement
+    officer may document the scene with videos or pictures.
+  answer: O
+  number: 463
+  category: '12'
+  difficulty: unknown_difficulty
+- question: When a motorist who wishes to dispute the traffic citation shall file
+    a lawsuit at the administrative litigation division of the district court with
+    the jurisdiction. The precinct issuing the citation shall be the defendant.
+  answer: O
+  number: 464
+  category: '12'
+  difficulty: unknown_difficulty
+- question: When the law enforcement officers are unable to issue a traffic ticket
+    to or when the circumstances prevent the ticketing of motorists who violate traffic
+    regulations, tickets for such violations shall be sent by mail to the driver.
+  answer: O
+  number: 465
+  category: '12'
+  difficulty: unknown_difficulty
+- question: It is not necessarily to yield when encountering a children's bus, school
+    bus, handicapped vehicle, or learner driver's vehicle.
+  answer: X
+  number: 466
+  category: '12'
+  difficulty: unknown_difficulty
+- question: If you are have an emergency, you can follow behind a fire truck or a
+    police patrol car that is on duty to go faster.
+  answer: X
+  number: 467
+  category: '12'
+  difficulty: unknown_difficulty
+- question: Carrying passengers or objects on a motorcycle against the regulations
+    shall be subject to a fine between NT $300 to NT $600.
+  answer: O
+  number: 468
+  category: '12'
+  difficulty: unknown_difficulty
+- question: Operating an ordinary heavy-duty or light-duty motorcycle on a freeway
+    or an expressway shall be subject to a fine of NT $3,000 to NT $6,000.
+  answer: O
+  number: 469
+  category: '12'
+  difficulty: unknown_difficulty
+- question: Operating a motorcycle outside the designated lane shall be subject to
+    a fine of NT$600 to $1800.
+  answer: O
+  number: 470
+  category: '12'
+  difficulty: unknown_difficulty
+- question: If you find someone unconscious, first evaluate the person's consciousness,
+    breathing and heart beats.
+  answer: O
+  number: 471
+  category: '13'
+  difficulty: unknown_difficulty
+- question: When cleaning a wound, blood clots should be removed to prevent infection.
+  answer: X
+  number: 472
+  category: '13'
+  difficulty: unknown_difficulty
+- question: When treating a patient with severe burns, the first thing to do is to
+    rince the wounds with large amount of water.
+  answer: O
+  number: 473
+  category: '13'
+  difficulty: unknown_difficulty
+- question: When someone is poisoned with strong acid, neutralize it with strong base.
+  answer: X
+  number: 474
+  category: '13'
+  difficulty: hard
+- question: When performing CPR (cardiopulmonary resuscitation), check the patient's
+    pulse every two minutes.
+  answer: O
+  number: 475
+  category: '13'
+  difficulty: unknown_difficulty
+- question: The best respiratory resuscitation is to perform mouth to mouth resuscitation.
+  answer: O
+  number: 476
+  category: '13'
+  difficulty: unknown_difficulty
+- question: Before moving a patient with bone fracture, the fractured area must be
+    stabilized and supported first.
+  answer: O
+  number: 477
+  category: '13'
+  difficulty: unknown_difficulty
+- question: After starting CPR, do not stop for more than 30 seconds.
+  answer: X
+  number: 478
+  category: '13'
+  difficulty: hard
+- question: At the scene of an accident, first evaluate the patient's injuries and
+    consciousness.
+  answer: O
+  number: 479
+  category: '13'
+  difficulty: unknown_difficulty
+- question: When someone is in shock and has difficulty breathing or sustains head
+    injuries, the person should lay flat on the surface, facing up and elevate the
+    legs.
+  answer: X
+  number: 480
+  category: '13'
+  difficulty: unknown_difficulty
+- question: "The procedure for CPR is check consciousness\u2192check conscious\u2192\
+    C\u2192A\u2192B\u2192D, the D in the sequence represents defibrillation (commonly\
+    \ referred to as electric shock treatment)."
+  answer: O
+  number: 481
+  category: '13'
+  difficulty: unknown_difficulty
+- question: When an injured person f alls in the middle of a busy intersection, in
+    order to keep the person safe, move the patient to the side of the road as soon
+    as possible without any support.
+  answer: X
+  number: 482
+  category: '13'
+  difficulty: unknown_difficulty
+- question: "When applying chest compression for CPR to an adult, each round of pressing\
+    \ and blowing air should be done in a ratio of 30\uFF1A2."
+  answer: O
+  number: 483
+  category: '13'
+  difficulty: unknown_difficulty
+- question: Before applying CPR (cardiopulmonary resuscitation), check the patient's
+    pulse for 7 seconds to check the person's heart beats.
+  answer: X
+  number: 484
+  category: '13'
+  difficulty: hard
+- question: Apply CPR (cardiopulmonary resuscitation) at a point slightly to the left
+    of the center point between the two nipples.
+  answer: X
+  number: 485
+  category: '13'
+  difficulty: hard
+- question: When applying chest compression for CPR's (vehiclediopulmonary resuscitation)
+    on an adult, press the chest for at least 5cm.
+  answer: O
+  number: 486
+  category: '13'
+  difficulty: unknown_difficulty
+- question: When applying CPR (vehiclediopulmonary resuscitation), the strength should
+    be focused on the elbows to press down.
+  answer: X
+  number: 487
+  category: '13'
+  difficulty: hard
+- question: When a person's nose is bleeding, tilt the head to the back immediately.
+  answer: X
+  number: 488
+  category: '13'
+  difficulty: hard
+- question: When applying mouth to mouth resuscitation, press the person's chest 200
+    times continuously within 2 minutes.
+  answer: X
+  number: 489
+  category: '13'
+  difficulty: unknown_difficulty
+- question: When resuscitating a patient who is choking from foreign object in the
+    airway, dig for the object with the hand first.
+  answer: X
+  number: 490
+  category: '13'
+  difficulty: unknown_difficulty
+- question: When applying CPR's (vehiclediopulmonary resuscitation) mouth to mouth
+    ventilation on a patient, blow 10-12 times per minute on an adult, and each time
+    needs to continue for a second.
+  answer: O
+  number: 491
+  category: '13'
+  difficulty: unknown_difficulty
+- question: When applying CPR's (cardiopulmonary resuscitation) mouth to mouth resuscitation
+    on a patient, use peripheral vision to check whether the lungs are getting the
+    air.
+  answer: O
+  number: 492
+  category: '13'
+  difficulty: unknown_difficulty
+- question: Before applying CPR (cardiopulmonary resuscitation), the person administering
+    it should ask a bystander to obtain an AED (Automated External Defibrillator),
+    and call 119.
+  answer: O
+  number: 493
+  category: '13'
+  difficulty: unknown_difficulty
+- question: To help people who drowned or suffer trauma or other emergency problems,
+    apply CPR (cardiopulmonary resuscitation) for one minute first and then call an
+    emergency center for help.
+  answer: X
+  number: 494
+  category: '13'
+  difficulty: unknown_difficulty
+- question: When applying CPR (cardiopulmonary resuscitation), the patient should
+    lay flat on the ground or a flat surface, and the head should be elevated higher
+    than the heart.
+  answer: X
+  number: 495
+  category: '13'
+  difficulty: medium
+- question: When treating a patient with spinal injuries, press down the forehead
+    and lift the chin to keep the person's airway clear.
+  answer: X
+  number: 496
+  category: '13'
+  difficulty: unknown_difficulty
+- question: When the patient is successfully resuscitated after CPR (cardiopulmonary
+    resuscitation), the patient should be in a recovery position and wait for the
+    medical team to arrive.
+  answer: O
+  number: 497
+  category: '13'
+  difficulty: unknown_difficulty
+- question: After a person's heartbeat and breathing stopped, the personal may sudden
+    cerebral hypoxia if not treated right away. It only takes 4 to 6 minutes to get
+    brain damage.
+  answer: O
+  number: 498
+  category: '13'
+  difficulty: unknown_difficulty
+- question: When a person is choking, but still conscious and standing, the person
+    helping should form a fist with both hands and place the thumb side of the fist
+    under the patient's belly button to apply Heimlich Maneuver.
+  answer: X
+  number: 499
+  category: '13'
+  difficulty: unknown_difficulty
+- question: About 8% of a normal adult's weight comes from the blood, but the number
+    is higher for male than for female. A person will go into shock quickly after
+    losing 1,500CC of blood. After losing a huge amount of blood from the aorta, the
+    person might die in 1 minute.
+  answer: O
+  number: 500
+  category: '13'
+  difficulty: unknown_difficulty
+- question: A tourniquet should be used only when other methods for controlling the
+    blood loss have failed.
+  answer: O
+  number: 501
+  category: '13'
+  difficulty: unknown_difficulty
+- question: AED also called defibrillator for dummies, required to install by the
+    government in public places since January, 2013.
+  answer: O
+  number: 502
+  category: '13'
+  difficulty: unknown_difficulty
+- question: When tire pressure is too high, wear on tire threads is the most serious
+    on the sides.
+  answer: X
+  number: 503
+  category: '14'
+  difficulty: unknown_difficulty
+- question: Under the principle of closed investigation, people who are involved in
+    an accident may request for site maps and photos from the police station.
+  answer: X
+  number: 504
+  category: '14'
+  difficulty: unknown_difficulty
+- question: In order to save fuel while going downhill, turn off the electric switch
+    and glide down the hill on neutral gear
+  answer: X
+  number: 505
+  category: '14'
+  difficulty: unknown_difficulty
+- question: The stopping distance for a motorcycle includes the reaction distance
+    and braking distance.
+  answer: O
+  number: 506
+  category: '14'
+  difficulty: unknown_difficulty
+- question: In order to maintain good performance for a motorcycle, reduce carbon
+    emission, and fuel waste, regular maintenance on the motorcycle is not necessary.
+    Just send the motorcycle to a repair shop when it breaks down.
+  answer: X
+  number: 507
+  category: '14'
+  difficulty: unknown_difficulty
+- question: Dated and worn engines waste fuel and engine oil. Rebore and fix the worn
+    parts to reduce fuel waste and pollution.
+  answer: O
+  number: 508
+  category: '14'
+  difficulty: unknown_difficulty
+- question: When driving a vehicle, keep the throttle steady, avoid sudden acceleration
+    and braking suddenly, which can reduce fuel waste and reduce pollution.
+  answer: O
+  number: 509
+  category: '14'
+  difficulty: easy
+- question: The current automobile designs are very user friendly, when you want to
+    stop, you can just brake right away. It is unnecessary to slow down in advance.
+  answer: X
+  number: 510
+  category: '14'
+  difficulty: unknown_difficulty
+- question: A motorcycle should be maintained regularly based on the time or mileage
+    indicated in the user manual
+  answer: O
+  number: 511
+  category: '14'
+  difficulty: unknown_difficulty
+- question: When riding a motorcycle, the more cautious the motorist is, the less
+    damage there will be. The motorist should be prepared for sudden occurrences.
+  answer: O
+  number: 512
+  category: '14'
+  difficulty: unknown_difficulty
+- question: The passenger on a motorcycle should place the feet on the footrest to
+    prevent being burned by the exhaust pipe. It is not necessary to retract the footrest
+    back when you get off. It is more convenient for next time and won't affect the
+    safety of pedestrians.
+  answer: X
+  number: 513
+  category: '14'
+  difficulty: unknown_difficulty
+- question: The exhaust pipe on the motorcycle can become very hot after riding, so
+    the driver should park at an area that is away from pedestrians or children to
+    prevent anyone from getting burned.
+  answer: O
+  number: 514
+  category: '14'
+  difficulty: unknown_difficulty
+- question: The posture of riding a motorcycle can affect traffic safety. The driver
+    should relax to make it easier to react properly during emergency situations.
+  answer: O
+  number: 515
+  category: '14'
+  difficulty: unknown_difficulty
+- question: The best posture for riding on a motorcycle is to place body's weight
+    on the center of the seat. If the rider is sitting too close to the back of the
+    seat, the front wheel will have a lighter load, causing handles to wobble, which
+    is unsafe.
+  answer: O
+  number: 516
+  category: '14'
+  difficulty: unknown_difficulty
+- question: Using both left and right brakes together at the same time while riding
+    a motorcycle makes the braking smoother so the motorcycle can slow down and stop
+    safely.
+  answer: X
+  number: 517
+  category: '14'
+  difficulty: unknown_difficulty
+- question: The left and right brakes should be used at the same time while riding
+    a motorcycle because using only one single brake will make it slip and cause the
+    vehicle to lose balance.
+  answer: O
+  number: 518
+  category: '14'
+  difficulty: unknown_difficulty
+- question: Using the emergency brake can keep the motorcycle rider's body upright
+    and the brakes steady.
+  answer: X
+  number: 519
+  category: '14'
+  difficulty: unknown_difficulty
+- question: Avoid using the emergency brake while riding a motorcycle to prevent the
+    wheels from locking up and causing accidents.
+  answer: O
+  number: 520
+  category: '14'
+  difficulty: unknown_difficulty
+- question: A driver should reduce speed on a rainy day, and be prepared to brake
+    at all times.
+  answer: O
+  number: 521
+  category: '14'
+  difficulty: unknown_difficulty
+- question: Avoid using the emergency brake while turning on a motorcycle to prevent
+    the wheels from locking up and causing accidents.
+  answer: O
+  number: 522
+  category: '14'
+  difficulty: unknown_difficulty
+- question: Avoid riding side by side with another vehicle while turning to prevent
+    collision.
+  answer: O
+  number: 523
+  category: '14'
+  difficulty: unknown_difficulty
+- question: When it begins to rain and you are very close to the destination while
+    riding a motorcycle, just speed up and spare the time and effort putting on the
+    raincoat.
+  answer: X
+  number: 524
+  category: '14'
+  difficulty: unknown_difficulty
+- question: Improper modification on the motorcycle will affect its structure and
+    function, which will affect its function or create loud noise and reduce the lifespan
+    of the motorcycle. This is an act of violation.
+  answer: O
+  number: 525
+  category: '14'
+  difficulty: unknown_difficulty
+- question: The speedometer on the dashboard of the motorcycle indicates the accumulated
+    distance traveled. The unit of measurement is kilometer.
+  answer: X
+  number: 526
+  category: '14'
+  difficulty: unknown_difficulty
+- question: The odometer on the dashboard of the motorcycle indicates the speed while
+    traveling. The unit of measurement is kilometers per hour.
+  answer: X
+  number: 527
+  category: '14'
+  difficulty: unknown_difficulty
+- question: When the main switch turns to ON and the fuel gauge shows the amount of
+    fuel to be E, it means the gas tank is full and refueling is not required.
+  answer: X
+  number: 528
+  category: '14'
+  difficulty: unknown_difficulty
+- question: When riding a motorcycle at night, turn on the headlight first, then turn
+    on the engine.
+  answer: X
+  number: 529
+  category: '14'
+  difficulty: unknown_difficulty
+- question: It is unnecessary to check engine oil and gasoline level of the motorcycle
+    before starting the engine.
+  answer: X
+  number: 530
+  category: '14'
+  difficulty: unknown_difficulty
+- question: The throttle should be turned first when starting the motorcycle, then
+    push the start button to start the engine.
+  answer: X
+  number: 531
+  category: '14'
+  difficulty: unknown_difficulty
+- question: When you are starting the engine of the motorcycle, press the rear wheel
+    brake to prevent the vehicle from bursting forward.
+  answer: O
+  number: 532
+  category: '14'
+  difficulty: unknown_difficulty
+- question: After activating the motorcycle engine, don't push the start button again
+    to prevent damages to the starter.
+  answer: O
+  number: 533
+  category: '14'
+  difficulty: unknown_difficulty
+- question: When starting the motorcycle, don't press down the starter for more than
+    10 seconds each time to prevent from damaging the starter.
+  answer: O
+  number: 534
+  category: '14'
+  difficulty: unknown_difficulty
+- question: It is the best to start motorcycle engine in an open space because it
+    will produce toxic exhaust when the engine is running.
+  answer: O
+  number: 535
+  category: '14'
+  difficulty: unknown_difficulty
+- question: Do not fill up the gas tank too full when refueling. It might cause abnormality
+    on the road and affect the emission control system.
+  answer: O
+  number: 536
+  category: '14'
+  difficulty: unknown_difficulty
+- question: When the exhaust is emitting white and blue smoke when the engine is running,
+    it means that it is burning engine oil.
+  answer: O
+  number: 537
+  category: '14'
+  difficulty: unknown_difficulty
+- question: Changing engine oil periodically can extend the lifespan of the engine.
+  answer: O
+  number: 538
+  category: '14'
+  difficulty: unknown_difficulty
+- question: If too much engine oil is added, it will cause the spark plug fouling,
+    fuel waste and engine power reduction, etc.
+  answer: O
+  number: 539
+  category: '14'
+  difficulty: unknown_difficulty
+- question: When the motorcycle is tilted to one side and the engine is just turned
+    off, it is the most right time to check the level of engine oil.
+  answer: X
+  number: 540
+  category: '14'
+  difficulty: unknown_difficulty
+- question: When checking for engine oil, wait until the engine has been turned off
+    for 2 to 3 minutes. Use the side kick-stand to park, take out the dipstick, wipe
+    it clean, reinsert it, and remove it again. Check whether oil level is between
+    the upper and lower limits of the dipstick.
+  answer: X
+  number: 541
+  category: '14'
+  difficulty: unknown_difficulty
+- question: When the engine oil is reaching the lower limit, add the oil until it
+    reaches the upper limit and check for any leaks.
+  answer: O
+  number: 542
+  category: '14'
+  difficulty: unknown_difficulty
+- question: If engine oil is above the upper limit, the high level of engine oil will
+    flood the combustion chamber with oil and result in fouling. It will affect the
+    burning of gas mixture and weaken the engine, and cause fuel waste and air pollution.
+  answer: O
+  number: 543
+  category: '14'
+  difficulty: unknown_difficulty
+- question: If a vehicle is not in use for a long period of time, remove negative
+    terminal from the battery unit. It can prevent discharge of electricity and reduce
+    electrical leakage to protect the battery unit.
+  answer: O
+  number: 544
+  category: '14'
+  difficulty: unknown_difficulty
+- question: Do not remove the positive and negative terminals of the battery while
+    the engine is running to prevent damage to the battery unit.
+  answer: O
+  number: 545
+  category: '14'
+  difficulty: unknown_difficulty
+- question: When checking tire pressure, it should be done when the engine is off
+    and the key should be removed.
+  answer: O
+  number: 546
+  category: '14'
+  difficulty: unknown_difficulty
+- question: When checking tire pressure with a tire pressure gauge, it should be done
+    when the tire is cooled down.
+  answer: O
+  number: 547
+  category: '14'
+  difficulty: unknown_difficulty
+- question: When a vehicle speeds through a waterlogged road, the water surface will
+    form a wedge-shape to interfere with the front end contact area between the tire
+    and the ground surface. The faster the vehicle goes, the more water will interfere.
+    Finally, the tire will be lifted up and float on the water surface, which is called
+    hydroplaning.
+  answer: O
+  number: 548
+  category: '14'
+  difficulty: easy
+- question: The faster the vehicle goes, the thinner the tread will become, which
+    is more likely to cause hydroplaning.
+  answer: O
+  number: 549
+  category: '14'
+  difficulty: unknown_difficulty
+- question: The higher tire pressure is in a motorcycle tire, the better it is for
+    riding.
+  answer: X
+  number: 550
+  category: '14'
+  difficulty: unknown_difficulty
+- question: When checking the tires before taking the vehicle out for a ride, check
+    the tire tread depth and the tire pressure.
+  answer: O
+  number: 551
+  category: '14'
+  difficulty: unknown_difficulty
+- question: Tire pressure must be checked periodically, but the standard tire pressure
+    for each vehicle is different. The owner should read the user manual to determine
+    the required standard for inflating the tires.
+  answer: O
+  number: 552
+  category: '14'
+  difficulty: unknown_difficulty
+- question: The higher the tire pressure is, the more fuel efficient the vehicle becomes,
+    and it won't affect the brake performance.
+  answer: X
+  number: 553
+  category: '14'
+  difficulty: unknown_difficulty
+- question: When the tire pressure is low, it will cause fuel waste. Riding with it
+    for a long period of time may cause tire blowout.
+  answer: O
+  number: 554
+  category: '14'
+  difficulty: unknown_difficulty
+- question: If tire pressure is too high for a long period of time, it will reduce
+    the lifespan of the dampers.
+  answer: O
+  number: 555
+  category: '14'
+  difficulty: easy
+- question: When a vehicle is driving at high speed, the tires might get overheated
+    and cause wave-like deformation. Therefore, the tire tread must be deep enough
+    and the pressure must be normal to prevent tire blowout.
+  answer: O
+  number: 556
+  category: '14'
+  difficulty: unknown_difficulty
+- question: When checking the electrode of a spark plug, if it is full of dirt or
+    gunk, clean the dirt in the electrode with a hard stainless steel brush. Wash
+    it with diesel fuel and wipe it clean with a cloth.
+  answer: O
+  number: 557
+  category: '14'
+  difficulty: unknown_difficulty
+- question: When a spark plug does not function well, replace it with a new one or
+    it will cause large electric resistance and small sparks. The gasoline cannot
+    combust completely, which results in fuel waste, low engine power and air pollution.
+  answer: O
+  number: 558
+  category: '14'
+  difficulty: unknown_difficulty
+- question: When it is raining and the road surface slippery, making hard turns will
+    make the motorcycle slip, so you should slow down.
+  answer: O
+  number: 559
+  category: '14'
+  difficulty: unknown_difficulty
+- question: The left and right motorcycle brakes should not be used at the same time.
+  answer: X
+  number: 560
+  category: '14'
+  difficulty: unknown_difficulty
+- question: If only the front wheel brake is pulled when the motorcycle is going downhill,
+    the front wheel supports too much weight and will make the motorcycle flip over
+    and cause accidents.
+  answer: O
+  number: 561
+  category: '14'
+  difficulty: unknown_difficulty
+- question: The specification on the motorcycle today is much more advanced than before,
+    so after riding through a flooded area, the brake performance still remains the
+    same.
+  answer: X
+  number: 562
+  category: '14'
+  difficulty: unknown_difficulty
+- question: If the motorcycle brake is making strange noises, but the noises are not
+    loud, it considered normal and repairs are not necessary.
+  answer: X
+  number: 563
+  category: '14'
+  difficulty: unknown_difficulty
+- question: Develop proper habits by applying the brakes early and avoid braking suddenly
+    to prevent rear-end collisions.
+  answer: O
+  number: 564
+  category: '14'
+  difficulty: unknown_difficulty
+- question: During the adjustment period after buying a new vehicle, the driver should
+    avoid speeding and sudden brakes.
+  answer: O
+  number: 565
+  category: '14'
+  difficulty: unknown_difficulty
+- question: Speeding and sudden brakes can cause fuel waste and wears on the tires
+    and brake linings. It will also cause higher accident rate, but it won't cause
+    air pollution.
+  answer: X
+  number: 566
+  category: '14'
+  difficulty: unknown_difficulty
+- question: In order to reduce energy waste and pollution. Turn off the engine while
+    riding a motorcycle downhill to reduce fuel waste.
+  answer: X
+  number: 567
+  category: '14'
+  difficulty: unknown_difficulty
+- question: In order to be safe and reduce air pollution, drive at a steady speed.
+    Do not exceed the speed limit or brake suddenly, and keep a safe distance.
+  answer: O
+  number: 568
+  category: '14'
+  difficulty: unknown_difficulty
+- question: Speeding can save time compared with driving in low gear. It also gets
+    better fuel economy.
+  answer: X
+  number: 569
+  category: '14'
+  difficulty: unknown_difficulty
+- question: The faster you drive, the more fuel efficient it will be. So, engine speed
+    should be increased as much as possible.
+  answer: X
+  number: 570
+  category: '14'
+  difficulty: unknown_difficulty
+- question: The more a driver changes the speed while driving, the more pollution
+    emission and pollution the vehicle creates.
+  answer: O
+  number: 571
+  category: '14'
+  difficulty: unknown_difficulty
+- question: Checking the vehicle before going on the road helps maintain traffic safety.
+  answer: O
+  number: 572
+  category: '14'
+  difficulty: unknown_difficulty
+- question: The equipment on the new motorcycles is more advanced than the older version.
+    Therefore, the dashboard shows all the condition and it saves the time to check
+    the motorcycle before driving.
+  answer: X
+  number: 573
+  category: '14'
+  difficulty: unknown_difficulty
+- question: When examining the motorcycle throttle, if the fuel charging line is stuck
+    and cannot be turned easily, the fuel-charging line should be replaced to prevent
+    sudden unintended acceleration.
+  answer: O
+  number: 574
+  category: '14'
+  difficulty: unknown_difficulty
+- question: When examining the motorcycle throttle and the fuel-charging line is pulled
+    tight, it should be safe.
+  answer: X
+  number: 575
+  category: '14'
+  difficulty: unknown_difficulty
+- question: When the fuse on electric unit in the motor is burnt, replace it with
+    a fuse that matches the specification for the unit. Using a fuse that does not
+    match the specification or other copper wires as a substitute might burn down
+    the electric circuit.
+  answer: O
+  number: 576
+  category: '14'
+  difficulty: unknown_difficulty
+- question: Do not make modifications to the electric circuit system or add other
+    accessories to it on the motorcycle. It might overload the electric system and
+    cause short circuit. It may even cause fire and burn down the motorcycle.
+  answer: O
+  number: 577
+  category: '14'
+  difficulty: unknown_difficulty
+- question: All parts, except the electrical system, can be freely modified on a motorcycle.
+  answer: X
+  number: 578
+  category: '14'
+  difficulty: unknown_difficulty
+- question: Air filter should be kept clean, and it should be replaced once it is
+    clogged up to prevent fuel waste and air pollution caused by insufficient ventilation.
+  answer: O
+  number: 579
+  category: '14'
+  difficulty: unknown_difficulty
+- question: The battery terminal with a larger diameter is the negative and the one
+    with a smaller diameter is positive.
+  answer: X
+  number: 580
+  category: '14'
+  difficulty: hard
+- question: The liquid in the car battery is diluted sulfuric acid, which is corrosive.
+    If a person's skin, eyes, or clothes are exposed to the liquid, rinse with water
+    immediately.
+  answer: O
+  number: 581
+  category: '14'
+  difficulty: unknown_difficulty
+- question: When checking the battery terminal in the dark or checking the acid fluid
+    in the car battery, it is ok to use a lighter as a source of lighting.
+  answer: X
+  number: 582
+  category: '14'
+  difficulty: unknown_difficulty
+- question: When the engine is started, the electricity for various parts of the vehicle
+    is supplied by the generator.
+  answer: O
+  number: 583
+  category: '14'
+  difficulty: unknown_difficulty
+- question: When the vehicle is on the road, the electricity for various parts of
+    the vehicle is supplied by the battery, so it should be replaced periodically.
+  answer: X
+  number: 584
+  category: '14'
+  difficulty: unknown_difficulty
+- question: When riding a motorcycle, the side kick-stand does not need to be retracted
+    and it won't cause any danger.
+  answer: X
+  number: 585
+  category: '14'
+  difficulty: unknown_difficulty
+- question: The side kick-stand is mainly used on uneven surface or temporary parking.
+    The handlebar should be turned to the left when parking to increase stability.
+  answer: O
+  number: 586
+  category: '14'
+  difficulty: unknown_difficulty
+- question: When refueling at gas station, the engine should be turned off. Do not
+    smoke or use the cell phone to prevent danger.
+  answer: O
+  number: 587
+  category: '14'
+  difficulty: unknown_difficulty
+- question: After refueling, the cap of the oil tank should be tightly closed to reduce
+    evaporation of the gasoline and keep the gasoline clean.
+  answer: O
+  number: 588
+  category: '14'
+  difficulty: unknown_difficulty
+- question: A person riding a motorcycle should wear a helmet with the label of certification
+    from the Bureau of Standards Metrology and Inspection.
+  answer: O
+  number: 589
+  category: '14'
+  difficulty: unknown_difficulty
+- question: A motorcycle rider should wear an appropriate helmet. The helmet should
+    cover the temples and the back of the head. It would be the best to have a visor
+    installed.
+  answer: O
+  number: 590
+  category: '14'
+  difficulty: unknown_difficulty
+- question: When wearing a helmet, the head should still be able to move and turn
+    freely, and the neck should not feel any pressure.
+  answer: O
+  number: 591
+  category: '14'
+  difficulty: unknown_difficulty
+- question: When wearing a helmet that has a label issued by Bureau of Standards Metrology
+    and Inspection and its durability has met the standard, continue to use the helmet
+    after it has sustained impact as long as no visible crack on it.
+  answer: X
+  number: 592
+  category: '14'
+  difficulty: unknown_difficulty
+- question: After a helmet is buckled, try nodding and lifting the head up. If the
+    helmet won't slip off, it is the appropriate helmet.
+  answer: O
+  number: 593
+  category: '14'
+  difficulty: unknown_difficulty
+- question: Color is not a consideration when selecting a suitable helmet.
+  answer: X
+  number: 594
+  category: '14'
+  difficulty: unknown_difficulty
+- question: When choosing a proper helmet, the one with good ventilation is better.
+  answer: O
+  number: 595
+  category: '14'
+  difficulty: unknown_difficulty
+- question: Riding posture is mainly associated with comfort and will not affect traffic
+    safety.
+  answer: X
+  number: 596
+  category: '14'
+  difficulty: unknown_difficulty
+- question: When riding a motorcycle, it would be the best for waist and spine to
+    relax and be straight. After 50 minutes of riding, rest for 10 minutes to prevent
+    spinal injuries.
+  answer: O
+  number: 597
+  category: '14'
+  difficulty: unknown_difficulty
+- question: When buying a raincoat for riding a motorcycle, well-fitted and bright
+    colored 2-piece rain suit is the best. The rider should also wear rain boots or
+    waterproof shoe covers
+  answer: O
+  number: 598
+  category: '14'
+  difficulty: easy
+- question: One-piece rain suit will create larger wind resistance, which affects
+    the steering of motorcycle. It would be dangerous if the loose pieces exposed
+    outside of the motorcycle get caught by wheels of a larger vehicle. Therefore,
+    it is not recommended.
+  answer: O
+  number: 599
+  category: '14'
+  difficulty: unknown_difficulty
+- question: Loose-fitted shoes make it difficult to control the motorcycle when the
+    feet are needed to control balance. It might even cause foot or leg injuries.
+  answer: O
+  number: 600
+  category: '14'
+  difficulty: unknown_difficulty
+- question: Light signals should be checked before driving. If the brake signals malfunction,
+    it could cause rear-end collisions.
+  answer: O
+  number: 601
+  category: '14'
+  difficulty: unknown_difficulty
+- question: When a taillight malfunctions, it might cause rear-end collisions during
+    nighttime, which is very dangerous.
+  answer: O
+  number: 602
+  category: '14'
+  difficulty: unknown_difficulty
+- question: The vehicle should be checked before the trip. The brakes should be checked
+    for the free play of the hand brake lever, external damages on the brakes and
+    any broken wire, adequate lubrication, and whether the brakes are working properly.
+  answer: O
+  number: 603
+  category: '14'
+  difficulty: unknown_difficulty
+- question: The main reason for checking the tire is to check the tire tread depth.
+  answer: X
+  number: 604
+  category: '14'
+  difficulty: unknown_difficulty
+- question: Even if a tire shows external cracks, as long the tire tread is deep enough,
+    it is safe to use the vehicle as long the motorist is not speeding.
+  answer: X
+  number: 605
+  category: '14'
+  difficulty: unknown_difficulty
+- question: The main reasons for checking a battery include whether the battery is
+    loose, whether there is enough electrolyte fluid, whether the battery terminal
+    is eroded, and whether air vent is clear.
+  answer: O
+  number: 606
+  category: '14'
+  difficulty: unknown_difficulty
+- question: The main reason for checking the lights is to check whether the headlights
+    and taillights are working properly.
+  answer: X
+  number: 607
+  category: '14'
+  difficulty: unknown_difficulty
+- question: If a tire blows out while driving, the motorist should release the accelerator
+    and hold the handlebar firmly to gain control. Do not use the emergency brake.
+  answer: O
+  number: 608
+  category: '14'
+  difficulty: unknown_difficulty
+- question: When riding a motorcycle, stay on the right side of the road. When it
+    is necessary to pass another vehicle, do so from the right.
+  answer: X
+  number: 609
+  category: '14'
+  difficulty: unknown_difficulty
+- question: Passing other vehicles against the rules is a major cause of traffic accident.
+    Therefore, do not pass another vehicle unless necessary.
+  answer: O
+  number: 610
+  category: '14'
+  difficulty: unknown_difficulty
+- question: When going through an intersection with flashing red and yellow lights,
+    motorists with the flashing red light have the right-of-way.
+  answer: X
+  number: 611
+  category: '14'
+  difficulty: unknown_difficulty
+- question: When riding a motorcycle through an intersection, although the light signal
+    is green, be cautious and prepare for using the brakes at all time.
+  answer: O
+  number: 612
+  category: '14'
+  difficulty: unknown_difficulty
+- question: When a motorcycle is changing lanes and passing other vehicles constantly,
+    it will interfere other motorists on the road. The motorcycle rider's vision will
+    also be restricted by the vehicles ahead, making it difficult to respond in time
+    when emergency occurs.
+  answer: O
+  number: 613
+  category: '14'
+  difficulty: unknown_difficulty
+- question: When riding a motorcycle, stay on the side of the road. It is even better
+    to ride on the shoulder to prevent danger.
+  answer: X
+  number: 614
+  category: '14'
+  difficulty: unknown_difficulty
+- question: It depends on the motorist's experience and judgment to determine the
+    amount of pressure needed for the brake. As long as the vehicle can maintain balance
+    and reduce speed, the braking is effective.
+  answer: O
+  number: 615
+  category: '14'
+  difficulty: unknown_difficulty
+- question: When approaching a parking area, use the turn signal 30 meters ahead to
+    warn the vehicles behind. Then, slow down and ride toward the right.
+  answer: O
+  number: 616
+  category: '14'
+  difficulty: unknown_difficulty
+- question: A motorcycle should not get too close to a vehicle just parked on the
+    roadside. The car door might open suddenly and cause a collision.
+  answer: O
+  number: 617
+  category: '14'
+  difficulty: unknown_difficulty
+- question: Do not use the brakes when the tires are sliding.
+  answer: O
+  number: 618
+  category: '14'
+  difficulty: unknown_difficulty
+- question: Driver fatigue is one of the major causes of traffic accidents.
+  answer: O
+  number: 619
+  category: '14'
+  difficulty: unknown_difficulty
+- question: The brakes, light signals and tires are vital to traffic safety and should
+    be examined carefully everyday to ensure safety.
+  answer: O
+  number: 620
+  category: '14'
+  difficulty: unknown_difficulty
+- question: Wearing reflective clothing and adding reflective stickers on proper areas
+    on the vehicle can improve safety for riding a motorcycle at night.
+  answer: O
+  number: 621
+  category: '14'
+  difficulty: unknown_difficulty
+- question: Ethics refers to the principle and attitude of personal conduct. Driving
+    ethics refers to the proper attitude a motorist should demonstrate while driving.
+  answer: O
+  number: 622
+  category: '14'
+  difficulty: easy
+- question: When encountering a pedestrian using a white cane or a blind pedestrian
+    crossing the street, help or yield to the person.
+  answer: O
+  number: 623
+  category: '14'
+  difficulty: unknown_difficulty
+- question: At the scene of a traffic accident, if the police is already dealing with
+    the situation, go around. Do not stay at the scene to watch out of curiosity.
+  answer: O
+  number: 624
+  category: '14'
+  difficulty: unknown_difficulty
+- question: The most important understanding for a motorist is to respect lives.
+  answer: O
+  number: 625
+  category: '14'
+  difficulty: unknown_difficulty
+- question: Honking carelessly and making noises is unethical and illegal.
+  answer: O
+  number: 626
+  category: '14'
+  difficulty: unknown_difficulty
+- question: If a traffic accident occurs and it is not your fault, leave the scene
+    as soon as possible. It is not necessary to call the police or you will be involved.
+  answer: X
+  number: 627
+  category: '14'
+  difficulty: unknown_difficulty
+- question: When a motorcycle crosses the line when passing, obstructs other vehicles
+    and interferes traffic safety, the motorist lacks driving ethics and the conduct
+    against the regulation.
+  answer: O
+  number: 628
+  category: '14'
+  difficulty: unknown_difficulty
+- question: Using the high beam light while following other vehicles at night will
+    affect the motorist ahead due to the strong glare. This is against the regulation
+    and lack of driving ethics.
+  answer: O
+  number: 629
+  category: '14'
+  difficulty: unknown_difficulty
+- question: When passing through muddy and waterlogged roads, if the driver does not
+    slow down or yield and splashes water or mud over the pedestrians, it is against
+    driving ethics and a serious violation.
+  answer: O
+  number: 630
+  category: '14'
+  difficulty: easy
+- question: When a vehicle passes through an intersection with traffic lights or during
+    late nights, motorists often run through the red lights or yellow lights when
+    there are no traffic police. This is just an ethical problem.
+  answer: X
+  number: 631
+  category: '14'
+  difficulty: unknown_difficulty
+- question: When the vehicle in the front stop, the motorist behind gets impatient,
+    keeps honking or tries to squeeze through. This is an unethical, illegal and dangerous
+    conduct.
+  answer: O
+  number: 632
+  category: '14'
+  difficulty: unknown_difficulty
+- question: When a motorcycle passes through quiet neighborhoods, or enters small
+    alleyways during late nights, honking without proper reasons is unethical and
+    illegal.
+  answer: O
+  number: 633
+  category: '14'
+  difficulty: unknown_difficulty
+- question: Riding a motorcycle on the sidewalk for convenience affects pedestrian's
+    safety, which is unethical and illegal.
+  answer: O
+  number: 634
+  category: '14'
+  difficulty: unknown_difficulty
+- question: The lack of ethics is always a main reason for traffic accidents.
+  answer: O
+  number: 635
+  category: '14'
+  difficulty: unknown_difficulty
+- question: Ignoring the instructions given by the crossing guard when children are
+    entering or exiting schools is an unethical conduct.
+  answer: O
+  number: 636
+  category: '14'
+  difficulty: unknown_difficulty
+- question: When encountering impatient and ill-mannered motorists on the road, do
+    not engage in a competition with such individuals. Be calm, be polite and try
+    to maintain peace.
+  answer: O
+  number: 637
+  category: '14'
+  difficulty: unknown_difficulty
+- question: When an accident occurs and prior to determining the liability, the person
+    involved in the accident can ask for an assessment from the police department
+    or the motor vehicle department.
+  answer: X
+  number: 638
+  category: '14'
+  difficulty: unknown_difficulty
+- question: The lever at the right side of the one-speed automatic motorcycle is for
+    controlling the front wheel brake, and the lever at the left side is for controlling
+    the back wheel brake.
+  answer: O
+  number: 639
+  category: '14'
+  difficulty: unknown_difficulty
+- question: If the front wheel uses the disc brake system, do not brake suddenly to
+    prevent sudden wheel lockup.
+  answer: O
+  number: 640
+  category: '14'
+  difficulty: unknown_difficulty
+- question: When there are wet pavement tiles or gravel sand on the road surface,
+    apply the rear brake first and use the front brake gently and cautiously.
+  answer: O
+  number: 641
+  category: '14'
+  difficulty: unknown_difficulty
+- question: On the odometer, KM stands for kilometers and PM stands for miles. The
+    conversion for one mile is about 1.6 kilometers.
+  answer: O
+  number: 642
+  category: '14'
+  difficulty: unknown_difficulty
+- question: The smaller the coefficient of friction between the tire and the ground
+    surface, the safer it is for the vehicle to travel.
+  answer: X
+  number: 643
+  category: '14'
+  difficulty: unknown_difficulty
+- question: The greater the coefficient of friction between the tire and the ground
+    surface, the safer it is for the vehicle to travel.
+  answer: O
+  number: 644
+  category: '14'
+  difficulty: unknown_difficulty
+- question: When a vehicle is traveling downhill, apply the engine brake to keep the
+    brake linings and tires from wearing down.
+  answer: O
+  number: 645
+  category: '14'
+  difficulty: unknown_difficulty
+- question: The brake uses the friction between the surface of the tire and the ground
+    to slow down and it will accelerate tire wear.
+  answer: O
+  number: 646
+  category: '14'
+  difficulty: medium
+- question: The brake uses the friction between the surface of the tire and the ground
+    to slow down and it will not cause tire wear.
+  answer: X
+  number: 647
+  category: '14'
+  difficulty: medium
+- question: Leakage in aging oil pipes in car and motorcycle is one of the main causes
+    of fire hazards among vehicle.
+  answer: O
+  number: 648
+  category: '14'
+  difficulty: unknown_difficulty
+- question: When opening the car battery cap to check battery acid, make sure that
+    no foreign objects fall into the battery to avoid battery explosion.
+  answer: O
+  number: 649
+  category: '14'
+  difficulty: unknown_difficulty
+- question: Use the center stand for long-term parking and use the side kick-stand
+    for temporary motocycle parking.
+  answer: O
+  number: 650
+  category: '14'
+  difficulty: unknown_difficulty
+- question: Before straight-line braking, both the front and back brakes of a motorcycle
+    should be used simultaneously to prevent drifting off track and shorten the braking
+    distance.
+  answer: O
+  number: 651
+  category: '14'
+  difficulty: unknown_difficulty
+- question: When using the front brake of the motorcycle, do not brake suddenly and
+    completely to avoid too much pressure on the front shock absorbers. The rear wheel
+    will spin off the ground and cause a crash.
+  answer: O
+  number: 652
+  category: '14'
+  difficulty: unknown_difficulty
+- question: Individuals lacking driving experience and adequate knowledge on the right
+    of way should enhance the required knowledge through learning to prevent accidents.
+  answer: O
+  number: 653
+  category: '14'
+  difficulty: unknown_difficulty
+- question: A motorcycle should decelerate to a safe speed before going around a curve.
+    Hold the throttle to maintain a constant speed while entering the curve to produce
+    thrust from the rear wheel and pass through the curve steadily.
+  answer: O
+  number: 654
+  category: '14'
+  difficulty: unknown_difficulty
+- question: When riding on the mountain road, a motorcycle should decelerate to a
+    safe speed before going around a curve. Determine the correct entry point, lean
+    forward in the same direction as the motorcycle, and hold the throttle steady
+    to maintain the backward thrust during cornering.
+  answer: O
+  number: 655
+  category: '14'
+  difficulty: unknown_difficulty
+- question: The essential body movements for going around the curve include shifting
+    the hips before entering the curve, leaning forward in the same direction as the
+    motorcycle, relaxing the left shoulder, left elbow and left wrist when turning
+    toward the left and relaxing the right shoulder, right elbow, and right wrist
+    while using the right hand as the main control when turning to the right. Keep
+    the throttle steady to maintain the backward thrust during cornering.
+  answer: O
+  number: 656
+  category: '14'
+  difficulty: unknown_difficulty
+- question: When the centrifugal force creates inertia during a curve on mountain
+    roads, latch onto the throttle and lean forward in the same direction as the motorcycle.
+    Do not release the throttle and do not brake.
+  answer: O
+  number: 657
+  category: '14'
+  difficulty: unknown_difficulty
+- question: When the centrifugal force creates inertia that pulls you away during
+    a curve on mountain roads, release the throttle and brake immediately.
+  answer: X
+  number: 658
+  category: '14'
+  difficulty: unknown_difficulty
+- question: Releasing the throttle completely while going around a curve would result
+    in the loss of thrust in the rear wheel and creating centrifugal force that causes
+    inertia.
+  answer: O
+  number: 659
+  category: '14'
+  difficulty: unknown_difficulty
+- question: Releasing the throttle completely and braking while going around a curve
+    will cause straight-line braking, which will change the traveling path, and cause
+    failing cornering, may cause danger.
+  answer: O
+  number: 660
+  category: '14'
+  difficulty: unknown_difficulty
+- question: When the centrifugal force creates inertia that pulls you away during
+    a curve on mountain roads, it is mainly due to the wrong entry point or speeding.
+  answer: O
+  number: 661
+  category: '14'
+  difficulty: unknown_difficulty
+- question: When riding on the mountain road, and the centrifugal force creates inertia
+    that pulls you away, it is due to the wrong entry point. Hold the throttle steady
+    and lean forward in the same direction as the motorcycle as a danger solution.
+  answer: O
+  number: 662
+  category: '14'
+  difficulty: unknown_difficulty
+- question: When riding a motorcycle and spotting a pothole on the road, if it is
+    too late to avoid the pothole, slow down and maintain the balance. Release the
+    brake when riding over the pothole, relax the body and jump with the motorcycle
+    using the legs as support to avoid danger. Do not brake while riding over the
+    pothole. The brakes might press the front shock absorbers and cause malfunctions.
+  answer: O
+  number: 663
+  category: '14'
+  difficulty: unknown_difficulty
+- question: The motorcycles equipped with continuously variable automatic transmissions
+    have no engine brakes.
+  answer: X
+  number: 664
+  category: '14'
+  difficulty: unknown_difficulty
+- question: When a motorcycle is passing through the waterlogged roads, water will
+    flood into the drum brakes, causing brake malfunction. Therefore, after passing
+    through the waterlogged area, test the brakes to remove the water from the brake
+    lining with frictions.
+  answer: O
+  number: 665
+  category: '14'
+  difficulty: easy
+- question: The correct method to slow down the motorcycle is to first release the
+    throttle to produce engine brake and then use the front and rear brakes to slow
+    down.
+  answer: O
+  number: 666
+  category: '14'
+  difficulty: unknown_difficulty
+- question: While braking a manual transmission motorcycle, do not pull the clutch.
+    Use the front and rear brakes only to stop the vehicle.
+  answer: O
+  number: 667
+  category: '14'
+  difficulty: unknown_difficulty
+- question: When a manual transmission motorcycle is in motion, pull the clutch, and
+    the vehicle will start coasting.
+  answer: O
+  number: 668
+  category: '14'
+  difficulty: unknown_difficulty
+- question: When a manual transmission motorcycle is in motion, pull the clutch, and
+    the vehicle will decelerate suddenly.
+  answer: X
+  number: 669
+  category: '14'
+  difficulty: unknown_difficulty
+- question: When a manual transmission motorcycle is in motion, if the gear is not
+    properly downshifted, it will cause engine lock and the rear wheel will slip to
+    a side.
+  answer: O
+  number: 670
+  category: '14'
+  difficulty: unknown_difficulty
+- question: When operating a vehicle regularly on gravel roads or places with severe
+    environmental pollution, it is not necessary to increase the frequency for cleaning
+    the air filter because there will be no impact on the engine's lifespan.
+  answer: X
+  number: 671
+  category: '14'
+  difficulty: unknown_difficulty
+- question: When braking a motorcycle on a road that is in good condition, hold the
+    right brake lever firmer than the left to brake the front wheel more than the
+    rear wheel. However, adjust the brake according to road conditions. When road
+    conditions are bad, use less strength when braking the front wheel.
+  answer: O
+  number: 672
+  category: '14'
+  difficulty: unknown_difficulty
+- question: When washing the motorcycle, keep the object which is sensitive to dampness
+    in the motorcycle compartment to avoid its damage.
+  answer: X
+  number: 673
+  category: '14'
+  difficulty: unknown_difficulty
+- question: When the main switch is turned to either the ON or OFF position, the fuel
+    gage on the dashboard will indicate the railroad of fuel usage.
+  answer: X
+  number: 674
+  category: '14'
+  difficulty: unknown_difficulty
+- question: Turn on the headlights, rear lights and the instrument lights on the dashboard
+    before starting the motorcycle engine.
+  answer: X
+  number: 675
+  category: '14'
+  difficulty: unknown_difficulty
+- question: When the engine does not start 3 to 5 seconds after hitting the engine
+    starter button, turn the throttle grip by 1/8 to 1/4 of the rotation and it will
+    be easier to start.
+  answer: O
+  number: 676
+  category: '14'
+  difficulty: unknown_difficulty
+- question: When the engine does not start after pressing the engine start button
+    for more than 10 seconds, do not wait until 10 seconds later to pressing again.
+    Pressing continuously will not cause engine damage.
+  answer: X
+  number: 677
+  category: '14'
+  difficulty: unknown_difficulty
+- question: It is more difficult to start the motorcycle engine when it has been inactive
+    for a long time, or the gasoline is depleted before refilling. Rotate the throttle
+    slightly and then return it to the original position. Press the starter several
+    times and that should start the engine.
+  answer: O
+  number: 678
+  category: '14'
+  difficulty: unknown_difficulty
+- question: After starting a cold engine, it should not be warmed-up for too long.
+  answer: O
+  number: 679
+  category: '14'
+  difficulty: unknown_difficulty
+- question: Do not leave a motorcycle helmet hanging on the hook while riding to prevent
+    it from damaging other cars.
+  answer: O
+  number: 680
+  category: '14'
+  difficulty: unknown_difficulty
+- question: High engine temperature would increase the temperature inside the compartment
+    under the seat. Do not place any items that are sensitive to heat in the compartment
+    to avoid damage, such as electronic product, fresh food and volatile item.
+  answer: O
+  number: 681
+  category: '14'
+  difficulty: unknown_difficulty
+- question: When the motorcycle comes to a complete stop, switch the turn signal back
+    into the original position and turn the main switch key to the "ON" position to
+    turn the engine off.
+  answer: X
+  number: 682
+  category: '14'
+  difficulty: unknown_difficulty
+- question: While a motorcycle is traveling, the main switch key can be turned at
+    any time to avoid accidents and danger.
+  answer: X
+  number: 683
+  category: '14'
+  difficulty: unknown_difficulty
+- question: After parking the motorcycle, get off from the left side on a flat surface
+    area that does not obstruct traffic and prop up the motorcycle on the centerstand.
+  answer: O
+  number: 684
+  category: '14'
+  difficulty: unknown_difficulty
+- question: To prevent theft, lock the handlebar and remove the key after parking
+    the motorcycle.
+  answer: O
+  number: 685
+  category: '14'
+  difficulty: unknown_difficulty
+- question: When checking the engine oil, the motorcycle should be on a flat ground
+    surface and propped up on the centerstand. 2 to 3 minutes after turning off the
+    engine, remove the oil dipstick, wipe it clean and reinsert it. Remove the oil
+    dipstick again and check whether the oil railroad is between the upper or lower
+    limit .
+  answer: O
+  number: 686
+  category: '14'
+  difficulty: unknown_difficulty
+- question: Check the motorcycle regularly for the brake lining wear at the dealer
+    or service center. Replace the brake lining when it is worn beyond the warning
+    line.
+  answer: O
+  number: 687
+  category: '14'
+  difficulty: unknown_difficulty
+- question: When the battery terminals are corroded and covered with a white powdery
+    substance, wipe it off with warm water and apply a layer of protective oil.
+  answer: O
+  number: 688
+  category: '14'
+  difficulty: unknown_difficulty
+- question: When the lights on the motorcycle suddenly black out at night, the fuse
+    may be burned.
+  answer: O
+  number: 689
+  category: '14'
+  difficulty: unknown_difficulty
+- question: The purpose of the air filter is to filter out the dust suctioned into
+    the cylinder. Too much dust accumulation or moisture would prevent the air from
+    flowing freely and result in overly high concentration of gas in the air mixture,
+    incomplete combustion, weak engine output, and increasing fuel consumption .
+  answer: O
+  number: 690
+  category: '14'
+  difficulty: unknown_difficulty
+- question: Installing handle gloves on the motorcycle provides warmth and shelter
+    from the wind and rain without affecting safety.
+  answer: X
+  number: 691
+  category: '14'
+  difficulty: unknown_difficulty
+- question: Running a cold engine in high speed would shorten its lifespan.
+  answer: O
+  number: 692
+  category: '14'
+  difficulty: unknown_difficulty
+- question: A motorist should refer to the driver's manual for the appropriate octane
+    number of the gasoline.
+  answer: O
+  number: 693
+  category: '14'
+  difficulty: easy
+- question: If you use the gasoline with octane number that is much lower than it
+    suggested, it might cause abnormal combustion, which will result in blasting,
+    fuel waste, and low engine power.
+  answer: O
+  number: 694
+  category: '14'
+  difficulty: medium
+- question: When twisting off the fuel cap before refueling, there might still be
+    pressure remaining in the fuel tank. Twist the fuel cap counterclockwise halfway.
+    Then twist the cap off completely after the "hissing" sound stops to keep the
+    oil from spilling and causing damages.
+  answer: O
+  number: 695
+  category: '14'
+  difficulty: unknown_difficulty
+- question: It is the best to check the engine oil before riding the motorcycle to
+    ensure that the oil railroad remains within the safety range shown on the dipstick.
+    Too much engine oil will increase the engine load and fuel consumption.
+  answer: O
+  number: 696
+  category: '14'
+  difficulty: unknown_difficulty
+- question: When checking the railroad of engine oil, the vehicle must be parked on
+    a flat surface.
+  answer: O
+  number: 697
+  category: '14'
+  difficulty: unknown_difficulty
+- question: The engine should be running when checking the railroad and quality of
+    engine oil.
+  answer: X
+  number: 698
+  category: '14'
+  difficulty: unknown_difficulty
+- question: It is safe to check the railroad of the engine oil immediately after the
+    engine is turned off.
+  answer: X
+  number: 699
+  category: '14'
+  difficulty: unknown_difficulty
+- question: Excessive wear on tire threads should not affect traffic safety.
+  answer: X
+  number: 700
+  category: '14'
+  difficulty: unknown_difficulty
+- question: It is acceptable for a motorcycle rider to put the left hand into the
+    jacket pocket on a cold day. However, the rider must slow down and keep to the
+    right side of the road.
+  answer: X
+  number: 701
+  category: '14'
+  difficulty: unknown_difficulty
+- question: When a driver passed through a level crossing illegally, as long the vehicle
+    did not get into an accident, the driver will only be fined but not receive demerit
+    points.
+  answer: X
+  number: 702
+  category: '15'
+  difficulty: unknown_difficulty
+- question: When a driver comes to a level crossing and there are vehicles ahead,
+    wait for the vehicle to pass through and maintain a safe distance before crossing.
+  answer: O
+  number: 703
+  category: '15'
+  difficulty: unknown_difficulty
+- question: When a motorist trespasses a level crossing and causes an accident, the
+    motorist shall be fined and the driving license shall be revoked for life.
+  answer: O
+  number: 704
+  category: '15'
+  difficulty: unknown_difficulty
+- question: If a motorist disobeys the instruction given by the level crossing guard,
+    the light signal, or the lowering gate, and forces through the crossing, the motorist
+    shall be fined between ND $15,000 to ND $30,000.
+  answer: X
+  number: 705
+  category: '15'
+  difficulty: hard
+- question: If a motorist passes through a level crossing without a guard, gate, alarm,
+    or light signal, but there are warning signs or rumble stripes, the motorist who
+    goes through without stopping first to check shall be fined between NT $15,000
+    to NT $20,000.
+  answer: X
+  number: 706
+  category: '15'
+  difficulty: hard
+- question: When a driver passes another vehicle, makes a U-turn, backs up, or temporarily
+    parks on a level crossing, the penalty shall be a fine between NT$15,000 and NT$90,000,
+    three demerit points, and driver's license suspension. If the driver is involved
+    in an accident, the driver's license will be revoked additionally.
+  answer: O
+  number: 707
+  category: '15'
+  difficulty: unknown_difficulty
+- question: A driver shall not make a U-turn, back up, or temporarily park on the
+    level crossing. However, it is ok to pass other vehicles when necessary.
+  answer: X
+  number: 708
+  category: '15'
+  difficulty: unknown_difficulty
+- question: When a vehicle breaks down on the level crossing, press the "emergency
+    button" immediately.
+  answer: O
+  number: 709
+  category: '15'
+  difficulty: unknown_difficulty
+- question: When coming to a level (rail) crossing with a gate or a guard, but if
+    the guard did not signal to stop, a driver should still first stop, look, and
+    listen, and then pass through the crossing if no train is coming.
+  answer: O
+  number: 710
+  category: '15'
+  difficulty: easy
+- question: When coming to a level crossing with a gate or a guard and the gate is
+    not yet lowered down, try to rush through the crossing to save time.
+  answer: X
+  number: 711
+  category: '15'
+  difficulty: easy
+- question: When coming to a level crossing with an alarm and light signal, but the
+    alarm does not go off, and the light signal has not yet turned red, the motorist
+    should still stop, look and listen, and then pass through the crossing if there
+    areno incoming train.
+  answer: O
+  number: 712
+  category: '15'
+  difficulty: unknown_difficulty
+- question: When coming to a level crossing without a guard, gate, alarm, or light
+    signal, the motorist should stop 2 to 6 meters before the crossing to stop, look
+    and listen, and then pass through the crossing if there are no incoming trains.
+  answer: O
+  number: 713
+  category: '15'
+  difficulty: easy
+- question: When driving, after a driver sees a sign or marking that indicates level
+    crossing, speed should be slowed down to under 15km per hour.
+  answer: O
+  number: 714
+  category: '15'
+  difficulty: unknown_difficulty
+- question: When a vehicle is breaken down or stuck in heavy traffic, or when obstacles
+    are spotted on the railroad crossing, locate and press the emergency stop button
+    immediately.
+  answer: O
+  number: 715
+  category: '15'
+  difficulty: unknown_difficulty
+- question: The emergency stop button on the railroad crossing is for life threatening
+    situations only. Once activated, it may have a great impact on the rail traffic.
+    Shall not abuse pressing the button during non-emergency situation.
+  answer: O
+  number: 716
+  category: '15'
+  difficulty: unknown_difficulty
+- question: When passing the railroad crossing, it is ok to press the emergency button
+    to make sure it is functioning and that it will not fail during an emergency.
+  answer: X
+  number: 717
+  category: '15'
+  difficulty: unknown_difficulty
+- question: When the manual emergency stop button on the engine column next to the
+    railroad crossing is activated, the red light encircling of the button will keep
+    flashing.
+  answer: O
+  number: 718
+  category: '15'
+  difficulty: unknown_difficulty
+- question: When an obstacle is found on the railroad crossing, if the vehicle cannot
+    be dispelled or the obstacle cannot be removed from railway, get away from the
+    railroad crossing when the alarm goes off.
+  answer: O
+  number: 719
+  category: '15'
+  difficulty: unknown_difficulty
+- question: When the car is stuck on a railroad crossing, the driver or a passersby
+    can press the red emergency button beside the guard rail so that the train conductor
+    can brake and decelerate to avoid unnecessary loss of life and property.
+  answer: O
+  number: 720
+  category: '15'
+  difficulty: unknown_difficulty
+- question: "If the car is stuck on the railroad crossing due to breakdown or traffic\
+    \ jam, the driver or any passers-by should quickly press the emergency button\
+    \ and try to push the car away from the railroad crossing. If the car cannot be\
+    \ pushed away and the emergency button is announcing, \u02BAthe train is coming,\
+    \ please leave the railroad crossing as soon as possible\u02BA, leave the railroad\
+    \ crossing as soon as possible."
+  answer: O
+  number: 721
+  category: '15'
+  difficulty: unknown_difficulty
+- question: When a car is broken or unmovable on a railroad crossing, pushing the
+    car away from the crossing as soon as possible. If it is unmovable, quickly press
+    the emergency button so that the train conductor can be alerted and hit the breaks
+    to avoid collisions.
+  answer: X
+  number: 722
+  category: '15'
+  difficulty: impossible
+- question: After the emergency button on the railroad crossing is activated, the
+    train conductor will be alerted of the situation ahead from 800 meters away and
+    decelerate.
+  answer: O
+  number: 723
+  category: '15'
+  difficulty: unknown_difficulty
+- question: It is not necessary to stop, look and listen before passing through a
+    railroad crossing when the motorist ahead does not do so.
+  answer: X
+  number: 724
+  category: '15'
+  difficulty: unknown_difficulty
+- question: When a motorcycle is scrapped, but the mandatory liability insurance has
+    not yet expired, the insured person may apply for a refund.
+  answer: O
+  number: 725
+  category: '17'
+  difficulty: unknown_difficulty
+- question: When a motorcycle is scrapped before the mandatory liability insurance
+    expires, the insurance becomes invalid and refund is not available.
+  answer: X
+  number: 726
+  category: '17'
+  difficulty: unknown_difficulty
+- question: The mandatory car insurance is based on liability, which means the compensation
+    is issued only when the motorist is found liable for an accident.
+  answer: X
+  number: 727
+  category: '17'
+  difficulty: unknown_difficulty
+- question: The mandatory car insurance is not based on liability, the motorist is
+    eligible for compensation whether the motorist is responsible for an accident
+    or not.
+  answer: O
+  number: 728
+  category: '17'
+  difficulty: unknown_difficulty
+- question: The coverage of the mandatory car insurance includes bodily injuries and
+    death, vehicle damage and other property damage.
+  answer: X
+  number: 729
+  category: '17'
+  difficulty: unknown_difficulty
+- question: The coverage of the mandatory car insurance only includes bodily injuries
+    or death, but it does not include vehicle damage or other property damage.
+  answer: O
+  number: 730
+  category: '17'
+  difficulty: unknown_difficulty
+- question: When a motorcycle rider slips and falls on the road on a rainy day, he
+    or she is able to file an insurance claim from the mandatory liability insurance.
+  answer: X
+  number: 731
+  category: '17'
+  difficulty: unknown_difficulty
+- question: If a person applies for the mandatory liability insurance and does not
+    renew the insurance after it expires, the person can be penalized by a regulatory
+    authority.
+  answer: O
+  number: 732
+  category: '17'
+  difficulty: unknown_difficulty
+- question: Compulsory Automobile Liability Insurance Act states that if a person
+    does not apply for mandatory liability insurance and causes an accident, the person
+    shall receive a penalty and the license plate of the vehicle will be suspended
+    by the regulatory authority.
+  answer: O
+  number: 733
+  category: '17'
+  difficulty: unknown_difficulty
+- question: Compulsory Automobile Liability Insurance Act does not mandate that the
+    owner of a vehicle must purchase mandatory liability insurance.
+  answer: X
+  number: 734
+  category: '17'
+  difficulty: unknown_difficulty
+- question: When obtaining a motorcycle license plate, the owner is required to purchase
+    mandatory liability insurance.
+  answer: O
+  number: 735
+  category: '17'
+  difficulty: unknown_difficulty
+- question: The insurance coverage for the mandatory liability insurance includes
+    the coverage for stolen motorcycle.
+  answer: X
+  number: 736
+  category: '17'
+  difficulty: unknown_difficulty
+- question: The victim of a traffic accident can file a claim for compensation from
+    the liable motorist for the costs of the property damages and medical bill.
+  answer: O
+  number: 737
+  category: '17'
+  difficulty: unknown_difficulty
+- question: Motorists who evades, obstructs or refuses roadside emissions testing
+    shall be fined.
+  answer: O
+  number: 738
+  category: '18'
+  difficulty: unknown_difficulty
+- question: Motorists who fail to conduct emission pollution exam will not be fined,
+    but will be documented as having one violation on record.
+  answer: X
+  number: 739
+  category: '18'
+  difficulty: unknown_difficulty
+- question: Add the appropriate fuel suggested by the manufacturer. The use of inappropriate
+    fuel can lead to engine damage and increase fuel consumption.
+  answer: O
+  number: 740
+  category: '18'
+  difficulty: unknown_difficulty
+- question: Proper tire pressure can maintain safety, increase fuel efficiency, and
+    extend the lifespan of the tires.
+  answer: O
+  number: 741
+  category: '18'
+  difficulty: unknown_difficulty
+- question: Eco-driving is a safe, economical and environmentally friendly way to
+    ride a motorcycle.
+  answer: O
+  number: 742
+  category: '18'
+  difficulty: unknown_difficulty
+- question: Cruise control will increase maintenance costs. It is not a demonstration
+    of eco-driving.
+  answer: X
+  number: 743
+  category: '18'
+  difficulty: unknown_difficulty
+- question: The main cause of global warming from the exhaust is carbon dioxide.
+  answer: O
+  number: 744
+  category: '18'
+  difficulty: unknown_difficulty
+- question: In order to maintain good performance, reduce air pollution, and save
+    fuel, it is not necessary to conduct regular maintenance.
+  answer: X
+  number: 745
+  category: '18'
+  difficulty: unknown_difficulty
+- question: Old and worn motorcycles would increase fuel or engine oil consumption.
+    Repair or replace the parts immediately when needed to save oil and reduce pollution.
+  answer: O
+  number: 746
+  category: '18'
+  difficulty: unknown_difficulty
+- question: Accelerate steadily on the road. Do not rush. It is the best to maintain
+    a steady and constant speed. Do not accelerate and brake constantly to save fuel
+    and reduce pollution.
+  answer: O
+  number: 747
+  category: '18'
+  difficulty: unknown_difficulty
+- question: The maintenance of a motorcycle should be done based on the specified
+    period and the mileage described in the user manual.
+  answer: O
+  number: 748
+  category: '18'
+  difficulty: unknown_difficulty
+- question: When coming to an intersection and seeing the traffic light turning red
+    from a distance, consider the speed and safe distance. Do not accelerate or brake
+    recklessly. Let the vehicle glide forward without accelerating to reduce carbon
+    emission.
+  answer: O
+  number: 749
+  category: '18'
+  difficulty: easy
+- question: Driving at a constant speed can reduce vehicle maintenance costs , which
+    is a demonstration of eco-driving.
+  answer: O
+  number: 750
+  category: '18'
+  difficulty: unknown_difficulty
+- question: Quick acceleration and braking can increase the car speed and distance
+    to arrive at the destination faster and reduce pollution.
+  answer: X
+  number: 751
+  category: '18'
+  difficulty: unknown_difficulty

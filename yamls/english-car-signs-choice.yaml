@@ -1,0 +1,752 @@
+- question: (1) Right turn (2) Left turn (3) Winding road, right turn ahead
+  question_image: 6f53d394460c8214.png
+  answer: '1'
+  number: 1
+  difficulty: easy
+- question: (1) Left turn (2) Right turn (3) Winding road, left turn ahead
+  question_image: 3d4a81d8f3435729.png
+  answer: '1'
+  number: 2
+  difficulty: easy
+- question: (1) Winding road, right turn ahead (2) Left turn (3) Winding road, left
+    turn ahead
+  question_image: 9450067915968d4e.png
+  answer: '1'
+  number: 3
+  difficulty: easy
+- question: (1) Winding road, left turn ahead (2) Right turn (3) Winding road, right
+    turn ahead
+  question_image: 15fcf3b1b6b3da9f.png
+  answer: '1'
+  number: 4
+  difficulty: easy
+- question: (1) Two-way (2) Narrow road (3) Crossroads
+  question_image: 487d6b055de7519f.png
+  answer: '3'
+  number: 5
+  difficulty: easy
+- question: (1) T intersection ahead (2) Two-way (3) Dead end
+  question_image: 26476932c3573676.png
+  answer: '1'
+  number: 6
+  difficulty: easy
+- question: (1) Right lane narrows (2) Narrow road (3) Lane merges
+  question_image: 5670678112e26c8d.png
+  answer: '1'
+  number: 7
+  difficulty: medium
+- question: (1) Road narrows (2) Narrow bridge (3) Crossroads
+  question_image: 1daac22806c9c234.png
+  answer: '1'
+  number: 8
+  difficulty: medium
+- question: (1) Crossroads (2) Narrow bridge (3) On-ramp traffic merges into lane
+  question_image: 59c885553d686105.png
+  answer: '3'
+  number: 9
+  difficulty: easy
+- question: (1) One way road (2) Two-way road (3) Narrow road
+  question_image: c18d8ed94108ea6d.png
+  answer: '2'
+  number: 10
+  difficulty: easy
+- question: (1) Road veers left (2) Circular intersection (3) Crossroads
+  question_image: a22514347049e967.png
+  answer: '2'
+  number: 11
+  difficulty: easy
+- question: (1) Bumpy road (2) Bump ahead (3) Dip ahead
+  question_image: 83a4a5e6ad3f60c3.png
+  answer: '1'
+  number: 12
+  difficulty: hard
+- question: (1) Crossroads (2) Narrow bridge (3) Road narrows
+  question_image: d8b7f5679746ba68.png
+  answer: '2'
+  number: 13
+  difficulty: hard
+- question: (1) Bumpy road (2) Steep hill (3) Bump ahead
+  question_image: c5b8b5325116b37a.png
+  answer: '3'
+  number: 14
+  difficulty: medium
+- question: (1) Steep downgrade (2) Steep hill (3) Wharf
+  question_image: 0d20ab61b0cdfac5.png
+  answer: '1'
+  number: 15
+  difficulty: easy
+- question: (1) Steep drop-off on right (2) Falling rocks (3) Steep drop-off on left
+  question_image: 5ba98a936ee35ce3.png
+  answer: '3'
+  number: 16
+  difficulty: easy
+- question: (1) Railroad crossing without gate (2) Railroad crossing with gate (3)
+    Vehicles prohibited
+  question_image: b45cedfbbd03f92b.png
+  answer: '1'
+  number: 17
+  difficulty: easy
+- question: (1) Watch out for traffic signals (2) Danger ahead (3) Slow down
+  question_image: bf4636ae12be6e86.png
+  answer: '1'
+  number: 18
+  difficulty: easy
+- question: (1) Vehicles prohibited (2) Railroad crossing without gate (3) Railroad
+    crossing with gate
+  question_image: c0a3b7583e3c3e3e.png
+  answer: '3'
+  number: 19
+  difficulty: medium
+- question: (1) Bumpy road (2) Slippery road (3) Passing prohibited
+  question_image: 3f2ea4dd5b04c874.png
+  answer: '2'
+  number: 20
+  difficulty: easy
+- question: (1) Narrow road (2) Tunnel (3) Narrow bridge
+  question_image: c2535f1de4335d8d.png
+  answer: '2'
+  number: 21
+  difficulty: easy
+- question: (1) Cars prohibited (2) Watch out for trolley (3) Watch out for pedestrians
+  question_image: 02a3e3dc84b01132.png
+  answer: '2'
+  number: 22
+  difficulty: easy
+- question: (1) Watch out for pedestrians (2) Watch out for children (3) Pedestrians
+    prohibited
+  question_image: 26239d20f1fddd0c.png
+  answer: '2'
+  number: 23
+  difficulty: medium
+- question: (1) Watch out for children (2) Watch out for pedestrians (3) Pedestrians
+    prohibited
+  question_image: 421b719f7611b5af.png
+  answer: '2'
+  number: 24
+  difficulty: easy
+- question: (1) Make full stop then proceed (2) Yield (3) Slow down
+  question_image: ac6d61bc1c0e04bb.png
+  answer: '3'
+  number: 25
+  difficulty: medium
+- question: (1) Steep Downgrade (2) Wharf embankment (3) Slippery road ahead
+  question_image: 59fd9ca402b9bda6.png
+  answer: '2'
+  number: 26
+  difficulty: easy
+- question: (1) Poor road conditions (2) Watch for falling rocks on left (3) Watch
+    for falling rocks on right
+  question_image: a63b049aab1a9b21.png
+  answer: '3'
+  number: 27
+  difficulty: medium
+- question: (1) Narrow bridge (2) Danger ahead (3) Slow down
+  question_image: b0e5827f2fd8eb40.png
+  answer: '2'
+  number: 28
+  difficulty: easy
+- question: (1) Keep right (2) One-way road (3) Right turn allowed
+  question_image: 2dcbcf1adf35ace8.png
+  answer: '1'
+  number: 29
+  difficulty: hard
+- question: (1) Parking prohibited (2) Stop for inspection (3) Cars prohibited
+  question_image: 4d541677fc237528.png
+  answer: '2'
+  number: 30
+  difficulty: hard
+- question: (1) Pedestrians prohibited (2) Make full stop then proceed (3) Vehicles
+    prohibited
+  question_image: 76a58e90ab03c5a1.png
+  answer: '3'
+  number: 31
+  difficulty: easy
+- question: (1) Pedestrians prohibited (2) Vehicles prohibited (3) No motor vehicles
+    with 4 or more wheels
+  question_image: cc185f4cb2589eb2.png
+  answer: '3'
+  number: 32
+  difficulty: hard
+- question: (1) Vehicles prohibited (2) Trailer trucks prohibited (3) Large trucks
+    and trailer trucks prohibited
+  question_image: 376df3b6eaae1829.png
+  answer: '2'
+  number: 33
+  difficulty: medium
+- question: (1) All motorcycles except large heavy duty motorcycles prohibited (2)
+    Automobiles with four or more wheels prohibited (3) No motorcycles allowed
+  question_image: e82f4919c1d2175c.png
+  answer: '1'
+  number: 34
+  difficulty: medium
+- question: (1) Vehicles prohibited (2) Motor vehicles with four or more wheels and
+    motorcycles prohibited (3) Pedestrians prohibited
+  question_image: 74d23c14f93f7832.png
+  answer: '2'
+  number: 35
+  difficulty: medium
+- question: (1) No U-turn (2) No left turn (3) Passing prohibited
+  question_image: 8424f846246c8cf2.png
+  answer: '2'
+  number: 36
+  difficulty: easy
+- question: (1) Passing prohibited (2) Single lane road (3) Vehicles prohibited
+  question_image: 795dd79de17a19d0.png
+  answer: '1'
+  number: 37
+  difficulty: easy
+- question: (1) No left turn (2) No U-turn (3) Single lane road
+  question_image: 88f533ac735b54ef.png
+  answer: '2'
+  number: 38
+  difficulty: easy
+- question: (1) Two-way road (2) Single lane road, pass with care (3) Road forks ahead
+  question_image: 9bb5620527d1c2a5.png
+  answer: '2'
+  number: 39
+  difficulty: medium
+- question: (1) Vehicle width limit (2) One-way road (3) Vehicle height limit
+  question_image: 269627847565d9fd.png
+  answer: '1'
+  number: 40
+  difficulty: easy
+- question: (1) Vehicle gross weight limit (2) Vehicle loading weight limit (3) Empty
+    vehicle weight
+  question_image: d5585caa9897788e.png
+  answer: '1'
+  number: 41
+  difficulty: medium
+- question: (1) Pedestrians prohibited (2) Watch out for pedestrians (3) Watch out
+    for children
+  question_image: 4226b70534ceb932.png
+  answer: '1'
+  number: 42
+  difficulty: easy
+- question: (1) Minimum speed limit (2) Maximum speed limit (3) Vehicle gross weight
+    limit
+  question_image: a2e002af08428d37.png
+  answer: '2'
+  number: 43
+  difficulty: medium
+- question: (1) Large trucks and trailer trucks prohibited (2) Large trucks prohibited
+    (3) Automobiles prohibited
+  question_image: 8ddcfa7b365a31a2.png
+  answer: '1'
+  number: 44
+  difficulty: hard
+- question: (1) Road veers left ahead (2) Left turn on green light only (3) Go straight
+    and then turn left
+  question_image: c81f78599474f129.png
+  answer: '3'
+  number: 45
+  difficulty: easy
+- question: (1) Single track electric railroad crossing. (2) Multi-track two-way electric
+    railroad crossing. (3) Single track railroad crossing.
+  question_image: ec83babe7c612c05.png
+  answer: '2'
+  number: 46
+  difficulty: impossible
+- question: (1) Vehicle length limit (2) Vehicle width limit (3) Large trucks prohibited
+  question_image: fced7d7532984fd3.png
+  answer: '1'
+  number: 47
+  difficulty: easy
+- question: (1) Motor vehicles only (2) Cars prohibited (3) Vehicles prohibited
+  question_image: a1e07a38120b6947.png
+  answer: '1'
+  number: 48
+  difficulty: easy
+- question: (1) Circular intersection, follow directions (2) Road forks ahead (3)
+    One way
+  question_image: a11120d60db621e3.png
+  answer: '1'
+  number: 49
+  difficulty: easy
+- question: (1) Pedestrians only (2) Watch out for pedestrians (3) Watch out for children
+  question_image: eec648c946ece210.png
+  answer: '1'
+  number: 50
+  difficulty: impossible
+- question: (1) Provincial road (2) County road (3) National road
+  question_image: d750389f5e5f2269.png
+  answer: '2'
+  number: 51
+  difficulty: medium
+- question: (1) Follow traffic flow (2) First-aid station (3) Crossroads
+  question_image: f76bd0a586811f16.png
+  answer: '2'
+  number: 52
+  difficulty: easy
+- question: (1) Crossroads (2) Dead end (3) Narrow road
+  question_image: 0ecd602609501edb.png
+  answer: '2'
+  number: 53
+  difficulty: easy
+- question: (1) Provincial road (2) County road (3) National road
+  question_image: 923db8032ea630c2.png
+  answer: '1'
+  number: 54
+  difficulty: medium
+- question: (1) Flashing yellow light (2) Traffic control signal (3) Flashing pedestrian
+    crosswalk signal
+  question_image: db68d3b5a7241f12.png
+  answer: '2'
+  number: 55
+  difficulty: medium
+- question: (1) Flashing pedestrian crosswalk signal (2) Special flashing yellow light
+    (3) Flashing red light
+  question_image: 1be828eb40a77575.png
+  answer: '2'
+  number: 56
+  difficulty: easy
+- question: (1) Signal for pedestrians (2) Flashing yellow light (3) Pedestrian crosswalk
+    signal
+  question_image: c101fc8eccb696dc.png
+  answer: '1'
+  number: 57
+  difficulty: impossible
+- question: (1) Flashing yellow light (2) Flashing red light (3) Pedestrian crosswalk
+    signal
+  question_image: 9959177107f518f7.png
+  answer: '3'
+  number: 58
+  difficulty: impossible
+- question: (1) Right lane closed (2) Left lane closed (3) Detour
+  question_image: d6bcc12def6b74b7.png
+  answer: '2'
+  number: 59
+  difficulty: medium
+- question: (1) Right lane closed (2) Left lane closed (3) Detour
+  question_image: 41b0c141c20da4bc.png
+  answer: '1'
+  number: 60
+  difficulty: medium
+- question: (1) Road closed (2) Detour (3) Road construction ahead
+  question_image: 43e0baf320b5ebdc.png
+  answer: '3'
+  number: 61
+  difficulty: easy
+- question: (1) Left lane closed (2) Right lane closed (3) Detour
+  question_image: 704267a8b6993fd7.png
+  answer: '3'
+  number: 62
+  difficulty: medium
+- question: (1) Follow the detour signs (2) One-way road (3) Turn right ahead
+  question_image: cc9eda6144f99557.png
+  answer: '1'
+  number: 63
+  difficulty: medium
+- question: (1) Road construction ahead (2) Road closed (3) Detour ahead
+  question_image: f218081364e445e9.png
+  answer: '2'
+  number: 64
+  difficulty: hard
+- question: (1) First-aid station (2) Gas station (3) Auto repair
+  question_image: b6dcf45ca5553861.png
+  answer: '3'
+  number: 65
+  difficulty: easy
+- question: (1) Go straight and then turn right (2) Go straight and then turn left
+    (3) Follow the signs to turn left
+  question_image: e2d551f95f58ab96.png
+  answer: '1'
+  number: 66
+  difficulty: easy
+- question: (1) Pedestrian overpass (2) Pedestrian underpass (3) Parking
+  question_image: b02a1bf2c318dd40.png
+  answer: '2'
+  number: 67
+  difficulty: easy
+- question: Designated (1) Automobiles only (2) Buses only (3) Bicycles and scooters
+    only, large heavy motorcycles are excluded.
+  question_image: de32a2160a54dab5.png
+  answer: '3'
+  number: 68
+  difficulty: easy
+- question: (1) First-aid station (2) Auto repair (3) Gas station
+  question_image: 0e245620f0dffeaf.png
+  answer: '3'
+  number: 69
+  difficulty: easy
+- question: (1) Restaurant (2) Gas station (3) Auto repair
+  question_image: 2261dd11504790dd.png
+  answer: '1'
+  number: 70
+  difficulty: easy
+- question: (1) Left turn only (2) Right turn only (3) Left and right turns allowed
+  question_image: 5e4ff7320095896c.png
+  answer: '2'
+  number: 71
+  difficulty: easy
+- question: (1) Entry Prohibited sign (2) Vehicle break-down sign (3) Danger Ahead
+    sign
+  question_image: db0980b9f3c4a884.png
+  answer: '2'
+  number: 72
+  difficulty: medium
+- question: 'The inverted triangle marking indicates: (1) Yield (2) Stop (3) Barrier
+    in the middle of road'
+  question_image: f7076441e36effb0.png
+  answer: '1'
+  number: 73
+  difficulty: impossible
+- question: (1) Stop line (2) Barrier ahead (3) Parking line
+  question_image: 85a3f1dbc8189c5d.png
+  answer: '3'
+  number: 74
+  difficulty: easy
+- question: 'The solid white line indicated by the arrow sign represents: (1) Road
+    shoulder line (2) Lane line (3) Passing prohibited for both directions'
+  question_image: 20c1e9126e9e42da.png
+  answer: '1'
+  number: 75
+  difficulty: easy
+- question: (1) Barrier ahead (2) Railroad crossing ahead (3) Road width changes
+  question_image: 6749be3d9fb0b93f.png
+  answer: '3'
+  number: 76
+  difficulty: easy
+- question: 'The broken white line is a: (1) Pedestrian crosswalk line (2) Lane line
+    (3) Road shoulder line'
+  question_image: 4e1ee67c56d982a9.png
+  answer: '2'
+  number: 77
+  difficulty: easy
+- question: (1) Railroad crossing ahead (2) Barrier ahead (3) Road width changes
+  question_image: 2eae828e468c46ae.png
+  answer: '1'
+  number: 78
+  difficulty: easy
+- question: (1) No parking line (2) Direction-separation line (3) Direction line
+  question_image: 9883a4e9c16fa074.png
+  answer: '3'
+  number: 79
+  difficulty: medium
+- question: 'The solid double yellow line indicates: (1) Passing prohibited in one
+    direction (2) Passing prohibited in both directions (3) Lane marker line'
+  question_image: a8a4b1979cd20ef5.png
+  answer: '2'
+  number: 80
+  difficulty: easy
+- question: 'The solid yellow line and broken yellow line indicate: (1) Passing prohibited
+    in one direction (2) Passing prohibited in both directions (3) Lane marker line'
+  question_image: 0425421a073a2fc3.png
+  answer: '1'
+  number: 81
+  difficulty: easy
+- question: 'The solid white double line indicates: (1) Crossing direction-separation
+    line prohibited (2) Passing prohibited in both directions (3) Changing lanes prohibited'
+  question_image: 218cbc1aab680e1d.png
+  answer: '3'
+  number: 82
+  difficulty: easy
+- question: 'The solid yellow line indicates: (1) No parking (2) No stopping (3) Parking
+    permitted'
+  question_image: 1c2a8cb286fce9de.png
+  answer: '1'
+  number: 83
+  difficulty: impossible
+- question: 'The solid red line indicates: (1) No parking (2) No temporary parking
+    (3) Parking permitted'
+  question_image: 36405e8b6cd4bd70.png
+  answer: '2'
+  number: 84
+  difficulty: impossible
+- question: 'The broken yellow line is a: (1) Lane line (2) Restriction line indicating
+    that passing in oncoming lanes is prohibited (3) Direction-separation line'
+  question_image: 1bac098bf061e346.png
+  answer: '3'
+  number: 85
+  difficulty: easy
+- question: 'The white diagonal lines are: (1) Zebra crossing lines (2) longitudinal
+    crossing lines (3) Stop lines'
+  question_image: cba22e09544a1bfa.png
+  answer: '1'
+  number: 86
+  difficulty: hard
+- question: 'The solid white horizontal line indicates: (1) Parking permitted (2)
+    Passing prohibited (3) Stop here'
+  question_image: 1b4ae065d593296a.png
+  answer: '3'
+  number: 87
+  difficulty: easy
+- question: 'The white diagonal lines are: (1) Zebra crossing lines (2) longitudinal
+    crossing lines (3) Stop lines'
+  question_image: 40c7b8122fbf7f5b.png
+  answer: '2'
+  number: 88
+  difficulty: impossible
+- question: 'The solid yellow double line is a: (1) Restriction line indicating that
+    passing in oncoming lanes is prohibited (2) Lane change prohibited indicator (3)
+    Lane marker line'
+  question_image: 4e1ee67c56d982a9.png
+  answer: '1'
+  number: 89
+  difficulty: easy
+- question: (1) Barrier in the middle of road (2) Barrier ahead (3) Road width changes
+  question_image: 12819a7a87471d29.png
+  answer: '2'
+  number: 90
+  difficulty: impossible
+- question: 'The checkered area advises motorists that : (1) Stopping permitted (2)
+    No stopping (3) Parking prohibited'
+  question_image: 04d58ef5955742cc.png
+  answer: '2'
+  number: 91
+  difficulty: hard
+- question: 'The broken white lines represent: (1) The turn lane (2) Prohibited area
+    (3) Channelizing lines.'
+  question_image: ace71be9f0d4c3d2.png
+  answer: '1'
+  number: 92
+  difficulty: medium
+- question: (1) Disabled person parking only (2) Stop line (3) No parking
+  question_image: c14bd3210b373ac9.png
+  answer: '1'
+  number: 93
+  difficulty: easy
+- question: (1) All vehicles must stop (2) Vehicles in front and behind must stop,
+    vehicles approaching from the left and right may proceed (3) Vehicles in front
+    must stop
+  question_image: da7016d87f7695e9.png
+  answer: '2'
+  number: 94
+  difficulty: medium
+- question: (1) Vehicles on the right must turn left (2) Vehicles on the right must
+    pass quickly (3) Vehicles on the left must stop
+  question_image: 419b6e6989ee0a57.png
+  answer: '1'
+  number: 95
+  difficulty: hard
+- question: (1) Vehicles on right must stop (2) Vehicles on the right must turn left
+    (3) Vehicles on the right must pass through quickly
+  question_image: d4639eb5d1071fd7.png
+  answer: '1'
+  number: 96
+  difficulty: medium
+- question: (1) Vehicles on the right must stop (2) Vehicles on the left may proceed
+    (3) Vehicles on right must pass through quickly
+  question_image: 8060ce7b447db079.png
+  answer: '3'
+  number: 97
+  difficulty: medium
+- question: (1) Vehicles on left must pass through quickly (2) Vehicles on the left
+    must turn left (3) Vehicles on right must stop
+  question_image: 8303973ea5586bc7.png
+  answer: '2'
+  number: 98
+  difficulty: hard
+- question: (1) Vehicles in front must stop (2) Vehicles in front and behind must
+    stop, vehicles approaching from the left and right may proceed (3) All vehicles
+    must stop
+  question_image: 0d169c986524c596.png
+  answer: '3'
+  number: 99
+  difficulty: medium
+- question: (1) Vehicles in front must stop (2) Vehicles in front and behind must
+    stop, vehicles approaching from the left and right can proceed (3) All vehicles
+    must stop
+  question_image: 036ca309524252ff.png
+  answer: '1'
+  number: 100
+  difficulty: hard
+- question: 'Raised left arm with the palm facing right indicates: (1) Right turn
+    (2) Left turn (3) Rear vehicles are permitted to pass'
+  question_image: e0b157cde711f6ac.png
+  answer: '1'
+  number: 101
+  difficulty: easy
+- question: 'Left arm extended out with the palm facing down indicates : (1) Right
+    turn (2) Left turn (3) Slow down'
+  question_image: 48ffaed3a63f8494.png
+  answer: '2'
+  number: 102
+  difficulty: easy
+- question: 'Left arm bent downward with the palm facing the rear indicates: (1) Slowing
+    down to stop temporarily (2) Rear vehicles are permitted to pass (3) Vehicle backing
+    up'
+  question_image: 7044f166899d9cad.png
+  answer: '1'
+  number: 103
+  difficulty: hard
+- question: 'Left arm bended down 45 degrees with palm waving back and forth indicates:
+    (1) Vehicle backing up (2) Slow down (3) Rear vehicle permitted to pass'
+  question_image: ffaeb0155f2e73b3.png
+  answer: '3'
+  number: 104
+  difficulty: impossible
+- question: (1) Turn on head lights (2) Watch out for traffic signals (3) Tap horn
+  question_image: aac504a33327bb9d.png
+  answer: '1'
+  number: 105
+  difficulty: easy
+- question: (1) Vehicles with 4 wheels or more and motorcycles over 550 cc displacement
+    only (2) For bicycles and motorcycles only (3) Vehicles with 4 wheels or more,
+    motorcycles over 550 cc prohibited
+  question_image: b51edfd577ef9f47.png
+  answer: '1'
+  number: 106
+  difficulty: easy
+- question: Exclusive lane for (1) motor vehicles with four or more wheels only (2)
+    motor vehicles with four or more wheels and motorcycles over 550 cc only (3) motorcycles
+    over 550 cc only
+  question_image: b773e062656333bc.png
+  answer: '2'
+  number: 107
+  difficulty: easy
+- question: (1) Motorcycles over 550 cc displacement prohibited (2) For motorcycles
+    over 550 cc displacement only (3) Bicycles prohibited
+  question_image: 4f3727972625e216.png
+  answer: '1'
+  number: 108
+  difficulty: easy
+- question: (1) Vehicle length limit (2) Maximum speed limit (3) Safe driving distance
+    required
+  question_image: 7ecbb3b2928424a6.png
+  answer: '3'
+  number: 109
+  difficulty: easy
+- question: 'This sign is for a: (1) County road (2) Provincial road (3) National
+    road'
+  question_image: 15c1764013988c00.png
+  answer: '3'
+  number: 110
+  difficulty: medium
+- question: Alerting motorists to watch out for (1) vehicles merge from right ahead
+    (2) vehicles merge from left ahead (3) crossroads
+  question_image: 714fd27ea1c5f2f0.png
+  answer: '1'
+  number: 111
+  difficulty: easy
+- question: Maximum speed on the exit ramp is (1) 60 km/h (2) 40 km/h (3) 80 km/h
+  question_image: 0c2287c5b8208b86.png
+  answer: '2'
+  number: 112
+  difficulty: easy
+- question: This sign marks (1) An exit (2) A lane (3) A destination
+  question_image: 439afd78a0b3a1f8.png
+  answer: '2'
+  number: 113
+  difficulty: medium
+- question: 'This sign indicates: (1) One-way traffic (2) Direction of traffic flow
+    (3) Detour ahead'
+  question_image: cc9eda6144f99557.png
+  answer: '3'
+  number: 114
+  difficulty: hard
+- question: This sign means (1) Warning (2) Vehicle breakdown (3) Road under construction
+  question_image: db0980b9f3c4a884.png
+  answer: '2'
+  number: 115
+  difficulty: hard
+- question: This sign shows (1) Miles to a destination (2) Direction and distance
+    to a destination (3) Destination name
+  question_image: 3504a7abb478b063.png
+  answer: '3'
+  number: 116
+  difficulty: easy
+- question: This is a (1) Freeway exit sign (2) Freeway service area sign (3) Direction
+    to freeway sign
+  question_image: 8774f1d9666c49f3.png
+  answer: '3'
+  number: 117
+  difficulty: easy
+- question: This sign means (1) Road under construction (2) Detour (3) Road closed
+  question_image: eb2de4cfd92fc274.png
+  answer: '1'
+  number: 118
+  difficulty: easy
+- question: This sign indicates (1) Lane closed (2) Crossroads ahead (3) Traffic control
+  question_image: 8d7a976e1ff444dc.png
+  answer: '1'
+  number: 119
+  difficulty: easy
+- question: This sign is a (1) Milestone (2) Mileage marker (3) County road sign
+  question_image: f26d05d000673b16.png
+  answer: '2'
+  number: 120
+  difficulty: medium
+- question: What is the solid white line between the line at road edge and the lane
+    line? (1) Division line separating the fast vehicles and slow vehicles (2) Direction
+    separation line (3) Passing prohibition line
+  question_image: 4e1ee67c56d982a9.png
+  answer: '1'
+  number: 121
+  difficulty: impossible
+- question: (1) Watch out for bicycles (2) Watch out for pedestrians (3) Watch out
+    for motorcycles
+  question_image: 9a77eab30ac2a88e.png
+  answer: '1'
+  number: 122
+  difficulty: easy
+- question: (1) Railroad crossing ahead (2) Maintain a safe driving distance on freeways
+    and expressways (3) Distance to freeway/expressway exit
+  question_image: 896816b1de843c0f.png
+  answer: '3'
+  number: 123
+  difficulty: easy
+- question: (1) Name of a freeway or expressway interchange (2) Distance to a specific
+    destination (3) Distance to the freeway and expressway exit
+  question_image: 0ac022b31bd72512.png
+  answer: '1'
+  number: 124
+  difficulty: impossible
+- question: (1) Agricultural road (2) Numbered routes for county roads (3) Numbered
+    routes for country roads
+  question_image: 5b2be0488f25bddb.png
+  answer: '3'
+  number: 125
+  difficulty: impossible
+- question: (1) Numbered provincial roads for the expressways (2) Numbered Provincial
+    roads for the freeways (3) Maximum speed limit
+  question_image: 39909a0e2a46633a.png
+  answer: '2'
+  number: 126
+  difficulty: impossible
+- question: (1) Parking lot (2) Park (3) U-turn lane
+  question_image: d27e5a16569615c8.png
+  answer: '1'
+  number: 127
+  difficulty: medium
+- question: (1) MRT station (2) Railroad station (3) High speed rail station
+  question_image: 03a743200f59d642.png
+  answer: '1'
+  number: 128
+  difficulty: impossible
+- question: (1) Wharf (2) Ferry pier (3) Auto repair
+  question_image: a448e771d78c13e3.png
+  answer: '1'
+  number: 129
+  difficulty: medium
+- question: (1) MRT station (2) Railroad station (3) High speed rail station
+  question_image: aea3ba0a6d0d648e.png
+  answer: '2'
+  number: 130
+  difficulty: impossible
+- question: (1) MRT station (2) Railroad station (3) High speed rail station
+  question_image: eaef008f6347b0fc.png
+  answer: '3'
+  number: 131
+  difficulty: impossible
+- question: (1) Bus stations or transit stations (2) MRT stations (3) Taxi stands
+  question_image: 5c86c8f974c4a779.png
+  answer: '1'
+  number: 132
+  difficulty: easy
+- question: (1) Bicycles only (2) Electric bicycles only (3) Motorcycles only
+  question_image: 136cd14f94226eba.png
+  answer: '1'
+  number: 133
+  difficulty: easy
+- question: 'The marking painted on the intersection is a: (1) diagonal pedestrian
+    crossing (2) Cross-thatched area (3) Bicycle crossing line'
+  question_image: f6f89876383600c4.png
+  answer: '1'
+  number: 134
+  difficulty: hard
+- question: How should motorists do if they see the horizontal lines shown in the
+    picture? (1) Slow down (2) Drive through quickly (3) Check their tires
+  question_image: 586e76acc2f0abcd.png
+  answer: '1'
+  number: 135
+  difficulty: easy
