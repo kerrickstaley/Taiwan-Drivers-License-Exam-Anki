@@ -9,6 +9,8 @@ import sys
 import textwrap
 import yaml
 
+from typing import List
+
 from question import Question
 
 parser = argparse.ArgumentParser(description='Convert YAML file containing questions into an Anki deck')
@@ -79,7 +81,20 @@ MODEL = genanki.Model(
 )
 
 
-def question_to_note(question: Question) -> genanki.Note:
+def get_tags_for_yaml(yaml_path: str):
+  attr_to_tag = {
+    'moto': 'motorcycle',
+    'car': 'car',
+    'rules': 'traffic-laws',
+    'signs': 'traffic-signs',
+    'choice': 'multiple-choice',
+    'true': 'true-or-false',
+  }
+
+  return [attr_to_tag[piece] for piece in yaml_path[:-len('.yaml')].rsplit('-', 3)[1:]]
+
+
+def question_to_note(question: Question, tags: List[str]) -> genanki.Note:
   if question.answer in {'1', '2', '3'}:
     pieces = re.split(r'\([1-3]\)', html.escape(question.question))
 
@@ -104,7 +119,7 @@ def question_to_note(question: Question) -> genanki.Note:
   return genanki.Note(
     model=MODEL,
     fields=[question_text, image_text, question.answer],
-    tags=[question.difficulty])
+    tags=[question.difficulty] + tags)
 
 
 def main(args):
@@ -114,10 +129,11 @@ def main(args):
     1395868281,
     "Taiwan Driver's License Written Test")
 
+  tags = get_tags_for_yaml(args.input_yaml)
   media_files = []
 
   for question in questions:
-    deck.add_note(question_to_note(question))
+    deck.add_note(question_to_note(question, tags))
 
     if question.question_image:
       media_files.append(os.path.join(args.input_image_dir, question.question_image))
