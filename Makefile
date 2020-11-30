@@ -2,7 +2,8 @@
 all-apkgs: apkgs/english-moto-rules-choice.apkg apkgs/english-moto-rules-true.apkg \
 		apkgs/english-car-rules-choice.apkg apkgs/english-car-rules-true.apkg \
 		apkgs/english-moto-signs-choice.apkg apkgs/english-moto-signs-true.apkg \
-		apkgs/english-car-signs-choice.apkg apkgs/english-car-signs-true.apkg
+		apkgs/english-car-signs-choice.apkg apkgs/english-car-signs-true.apkg \
+		apkgs/all.apkg
 
 yamls/english-moto-rules-choice.yaml: pdfs/機車法規選擇題-英文1090116.pdf src/generate_yaml_from_pdf.py
 	src/generate_yaml_from_pdf.py --input-pdf "$<" --existing-yaml "$@" --output-yaml "$@"
