@@ -30,4 +30,17 @@ yamls/english-car-signs-true.yaml: pdfs/Signs-True\ or\ False／English(汽車�
 
 apkgs/%.apkg: yamls/%.yaml src/*.py
 	mkdir -p apkgs
-	src/generate_anki_from_yaml.py --input-yaml "$<" --input-image-dir images --output-apkg "$@"
+	src/generate_anki_from_yaml.py --input-yamls "$<" --input-image-dir images --output-apkg "$@"
+
+apkgs/all.apkg: yamls/english-moto-rules-choice.yaml yamls/english-moto-rules-true.yaml \
+		yamls/english-car-rules-choice.yaml yamls/english-car-rules-true.yaml \
+		yamls/english-moto-signs-choice.yaml yamls/english-moto-signs-true.yaml \
+		yamls/english-car-signs-choice.yaml yamls/english-car-signs-true.yaml \
+		src/*.py
+	mkdir -p apkgs
+	src/generate_anki_from_yaml.py --input-yamls \
+		yamls/english-moto-rules-choice.yaml yamls/english-moto-rules-true.yaml \
+		yamls/english-car-rules-choice.yaml yamls/english-car-rules-true.yaml \
+		yamls/english-moto-signs-choice.yaml yamls/english-moto-signs-true.yaml \
+		yamls/english-car-signs-choice.yaml yamls/english-car-signs-true.yaml \
+		--input-image-dir images --output-apkg "$@"

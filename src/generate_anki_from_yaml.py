@@ -14,7 +14,7 @@ from typing import List
 from question import Question
 
 parser = argparse.ArgumentParser(description='Convert YAML file containing questions into an Anki deck')
-parser.add_argument('--input-yaml', required=True, help='Path to YAML file to load questions from')
+parser.add_argument('--input-yamls', nargs='+', required=True, help='Path to YAML file(s) to load questions from')
 parser.add_argument('--input-image-dir', help='Directory containing images')
 parser.add_argument('--output-apkg', required=True, help='Path to write Anki package file to')
 
@@ -94,7 +94,7 @@ def get_tags_for_yaml(yaml_path: str):
   return [attr_to_tag[piece] for piece in yaml_path[:-len('.yaml')].rsplit('-', 3)[1:]]
 
 
-def question_to_note(question: Question, tags: List[str]) -> genanki.Note:
+def question_to_note(question: Question) -> genanki.Note:
   if question.answer in {'1', '2', '3'}:
     pieces = re.split(r'\([1-3]\)', html.escape(question.question))
 
@@ -119,27 +119,45 @@ def question_to_note(question: Question, tags: List[str]) -> genanki.Note:
   return genanki.Note(
     model=MODEL,
     fields=[question_text, image_text, question.answer],
-    tags=[question.difficulty] + tags)
+    tags=[question.difficulty])
 
 
 def main(args):
-  questions = Question.load_list_from_yaml(args.input_yaml)
-
   deck = genanki.Deck(
     1395868281,
     "Taiwan Driver's License Written Test")
-
-  tags = get_tags_for_yaml(args.input_yaml)
   media_files = []
+  guid_to_note = {}
 
-  for question in questions:
-    deck.add_note(question_to_note(question, tags))
+  for yaml_path in args.input_yamls:
+    questions = Question.load_list_from_yaml(yaml_path)
+    tags = get_tags_for_yaml(yaml_path)
 
-    if question.question_image:
-      media_files.append(os.path.join(args.input_image_dir, question.question_image))
+    for question in questions:
+      note = question_to_note(question)
+
+      if note.guid in guid_to_note:
+        # We've already generated this Note. Add additional tags to it, if any, and continue.
+        # TODO Not sure if it's necessary to extract only the new tags, instead of just appending all of them.
+        #      We should update genanki to remove duplicate tags so we don't have to worry about it.
+        new_tags = set(tags) - set(guid_to_note[note.guid].tags)
+        guid_to_note[note.guid].tags.extend(new_tags)
+        continue
+
+      note.tags.extend(tags)
+
+      guid_to_note[note.guid] = note
+
+      if question.question_image:
+        media_files.append(os.path.join(args.input_image_dir, question.question_image))
+
+  for _, note in guid_to_note.items():
+    deck.add_note(note)
 
   package = genanki.Package(deck)
-  package.media_files = media_files
+  # TODO I'm not sure it's necessary to deduplicate the media files here. We should update genanki to remove duplicate
+  #      media files so we don't have to worry about it.
+  package.media_files = list(set(media_files))
   package.write_to_file(args.output_apkg)
 
 
