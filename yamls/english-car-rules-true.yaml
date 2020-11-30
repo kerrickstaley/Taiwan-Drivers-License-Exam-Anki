@@ -627,7 +627,7 @@
   answer: X
   number: 100
   category: '02'
-  difficulty: impossible
+  difficulty: hard
 - question: The Directives Governing Penalties for Traffic Rule Violations were enacted
     for the regulation of road traffic to facilitate the orderly flow of traffic thereby
     ensuring traffic safety.
@@ -766,7 +766,7 @@
   answer: X
   number: 122
   category: '02'
-  difficulty: impossible
+  difficulty: hard
 - question: Drivers who cause accidents resulting in severe injury because they violated
     traffic rules will have their driver's license suspended.
   answer: O
@@ -848,7 +848,7 @@
   answer: X
   number: 135
   category: '02'
-  difficulty: impossible
+  difficulty: hard
 - question: Physical checkups, physical exams, and written test scores are valid for
     one year.
   answer: O
@@ -916,7 +916,7 @@
   answer: X
   number: 145
   category: '02'
-  difficulty: impossible
+  difficulty: hard
 - question: Drivers have to comply with speed limits shown on signs. On roads with
     no speed limit sign, drivers must not exceed a speed of 50km per hour. On roads
     without lines regulating lanes or oncoming traffic separation, drivers must not
@@ -924,7 +924,7 @@
   answer: O
   number: 146
   category: '02'
-  difficulty: impossible
+  difficulty: hard
 - question: When driving in a highly congested area, a driver may honk their horn
     as often as they deem necessary to ensure safety.
   answer: X
@@ -967,7 +967,7 @@
   answer: X
   number: 153
   category: '02'
-  difficulty: impossible
+  difficulty: hard
 - question: Drivers who are mentally exhausted, sick, or sleepy and thus unable to
     concentrate on their driving are prohibited from driving.
   answer: O
@@ -1021,7 +1021,7 @@
   answer: X
   number: 161
   category: '02'
-  difficulty: impossible
+  difficulty: hard
 - question: When operating a vehicle, drivers are required to carry their vehicle
     registration, driver's license, and all other documents related to driving with
     them at all times.
@@ -1040,7 +1040,7 @@
   answer: X
   number: 164
   category: '02'
-  difficulty: impossible
+  difficulty: hard
 - question: Vehicle owners, drivers, pedestrians, and illegal road blockers who are
     fined for violating traffic rules are required to pay fines by the specified deadline.
     Those who fail to pay before the deadline shall be subject to injunctive enforcement.
@@ -1443,13 +1443,13 @@
   answer: X
   number: 227
   category: '02'
-  difficulty: impossible
+  difficulty: hard
 - question: Drivers possessing a bus driver's license may drive large trucks, large
     vehicles for carrying both passengers and goods, trailer trucks, cars, and motorcycles.
   answer: O
   number: 228
   category: '02'
-  difficulty: impossible
+  difficulty: hard
 - question: Drivers possessing a large truck driver's license may drive a car or motorcycle.
   answer: O
   number: 229
@@ -1584,7 +1584,7 @@
   answer: X
   number: 248
   category: '02'
-  difficulty: impossible
+  difficulty: hard
 - question: Drivers who don't obey traffic signs will be fined and receive a traffic
     violation on their driving record.
   answer: O
@@ -1712,13 +1712,13 @@
   answer: X
   number: 268
   category: '04'
-  difficulty: impossible
+  difficulty: hard
 - question: A ramp is the lane to the farthest right of the exit lane from a main
     lane that allows drivers to decelerate before exiting a main lane.
   answer: X
   number: 269
   category: '04'
-  difficulty: impossible
+  difficulty: hard
 - question: A deceleration lane is the farthest right lane that allows drivers to
     decelerate before exiting a road.
   answer: O
@@ -1851,7 +1851,7 @@
   answer: X
   number: 290
   category: '04'
-  difficulty: impossible
+  difficulty: hard
 - question: The current speed limit on freeways is 120km per hour.
   answer: X
   number: 291
@@ -2064,7 +2064,7 @@
   answer: X
   number: 322
   category: '04'
-  difficulty: impossible
+  difficulty: hard
 - question: On freeways and expressways, large vehicles are required to use the outside
     lanes and use the adjacent lane for passing vehicles in front of them.
   answer: O
@@ -3271,7 +3271,7 @@
   answer: X
   number: 508
   category: '05'
-  difficulty: impossible
+  difficulty: hard
 - question: If the temperature gauge indicates that the engine temperature is abnormally
     high, the driver should stop driving immediately. If they continue to drive, it
     will cause severe damage to the engine.
@@ -3738,7 +3738,7 @@
   answer: X
   number: 583
   category: '02'
-  difficulty: impossible
+  difficulty: hard
 - question: No parking, neither temporary nor long-term, is allowed on a NoTemporary
     Parking road 24 hours a day.
   answer: O
@@ -3749,19 +3749,19 @@
   answer: O
   number: 585
   category: '02'
-  difficulty: impossible
+  difficulty: hard
 - question: You may park your vehicle long term on a No-Temporary Parking road.
   answer: X
   number: 586
   category: '02'
-  difficulty: impossible
+  difficulty: hard
 - question: "Areas that have \u201Cno parking\u201D signs or road markings, but no\
     \ other signs or marking rules, are allowed to be parked in after 8 pm until the\
     \ next day before 7 am."
   answer: O
   number: 587
   category: '00'
-  difficulty: impossible
+  difficulty: hard
 - question: Double parking a vehicle is allowed.
   answer: X
   number: 588
@@ -3893,7 +3893,7 @@
   answer: X
   number: 607
   category: '02'
-  difficulty: impossible
+  difficulty: hard
 - question: If the owner of a vehicle is planning to convert a vehicle to use liquefied
     petroleum gas as its fuel source, that owner is required to obtain a vehicle safety
     inspection certificate and then contact the Motor Vehicle Registration Department
@@ -4084,7 +4084,7 @@
   answer: X
   number: 633
   category: '02'
-  difficulty: impossible
+  difficulty: hard
 - question: When the driver of an automobile is signaled to stop by means of speech,
     gesture, command stick, honking horn or alarm horn, etc. in case of police or
     personnel performing traffic inspection tasks according to law, he/she shall immediately

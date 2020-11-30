@@ -101,7 +101,7 @@
   answer: '3'
   number: 14
   category: '11'
-  difficulty: impossible
+  difficulty: hard
 - question: When passing through a waterlogged area, what should a motorcycle rider
     do? (1) Pass through with low speed (2) Use the brake more often (3) Speed through
     the area.
@@ -715,7 +715,7 @@
   answer: '1'
   number: 102
   category: '12'
-  difficulty: impossible
+  difficulty: hard
 - question: If a driver is convicted and imprisoned for using their motorcycle to
     commit a criminal act, what will happen to them in addition to having their driver's
     license cancelled? (1) They will not be eligible to apply for another driver's
@@ -1253,14 +1253,14 @@
   answer: '3'
   number: 178
   category: '12'
-  difficulty: impossible
+  difficulty: hard
 - question: In a non-emergency situation, when a driver makes emergency stops or temporary
     stops in the middle of the road and cause a traffic accident, the penalty for
     the driver will be (1) a fine (2) license suspension (3) a fine and license revocation.
   answer: '3'
   number: 179
   category: '12'
-  difficulty: impossible
+  difficulty: hard
 - question: When a driver is occupying the bike lane, the penalty for the driver will
     be (1) a warning (2) a fine and one demerit point (3) no penalties.
   answer: '2'
@@ -1330,7 +1330,7 @@
   answer: '3'
   number: 189
   category: '12'
-  difficulty: impossible
+  difficulty: hard
 - question: If a person uses forged, altered, or another person's driving license
     to drive a car or a motorcycle, (1) the driver will be fined and banned from driving
     immediately (2) the driver must participate in driver safety courses. Individuals
@@ -1512,7 +1512,7 @@
   answer: '3'
   number: 214
   category: '12'
-  difficulty: impossible
+  difficulty: hard
 - question: Which of the following is considered a major traffic accident? (1) The
     death toll in the accident exceeds 3 people, the number of people injured and
     killed exceeds 10, or more than 15 people are injured (2) The hazardous materials
@@ -1567,7 +1567,7 @@
   answer: '3'
   number: 222
   category: '12'
-  difficulty: impossible
+  difficulty: hard
 - question: What is the required vision for the driving license exam? (1) 0.5 for
     uncorrected vision for each eye and 0.6 for both eyes (2) 0.6 for corrected vision
     for each eye and 0.8 for both eyes (3) All of the above.
@@ -1640,7 +1640,7 @@
   answer: '3'
   number: 232
   category: '12'
-  difficulty: impossible
+  difficulty: hard
 - question: Under what circumstances can a motorcycle rider use a cell phone, computer,
     or other electronic devices for calling and digital communication? (1) When riding
     the motorcycle (2) When waiting for the red light to turn green (3) When the motorcycle
@@ -1694,7 +1694,7 @@
   answer: '2'
   number: 240
   category: '12'
-  difficulty: impossible
+  difficulty: hard
 - question: When a person under the age of 18 gets caught riding a motorcycle without
     a driving license, who must attend driver safety courses? (1) The rider only (2)
     The rider's parents or legal guardian (3) The rider, the parents, or the legal
@@ -1769,7 +1769,7 @@
   answer: '3'
   number: 250
   category: '12'
-  difficulty: impossible
+  difficulty: hard
 - question: If a person passed the driver's test, but has not yet received the license,
     the person (1) may not drive a car (2) can drive a car (3) can drive if the person
     has good driving skills .
@@ -1896,7 +1896,7 @@
   answer: '3'
   number: 265
   category: '12'
-  difficulty: impossible
+  difficulty: hard
 - question: When a driver tailgates, cuts in and changes lanes through other inappropriate
     means to force other vehicles to yield, in addition to getting a fine and being
     banned from driving, the license plate will be suspended for (1) 3 months (2)
@@ -2015,7 +2015,7 @@
   answer: '3'
   number: 281
   category: '12'
-  difficulty: impossible
+  difficulty: hard
 - question: When there are no guards, gates, alarms, or light signals at the level
     crossing, the driver should stop, look, and listen how many meters before reaching
     the crossing? (1) 1 to 2 meters (2) 3 to 6 meters (3) Not specified.
@@ -2127,21 +2127,21 @@
   answer: '1'
   number: 297
   category: '12'
-  difficulty: impossible
+  difficulty: hard
 - question: In a No Parking zone, (1) temporary parking is not permitted, but regular
     parking is allowed (2) regular parking is not permitted, but temporary parking
     is allowed (3) regular parking and temporary parking are both not allowed.
   answer: '2'
   number: 298
   category: '12'
-  difficulty: impossible
+  difficulty: hard
 - question: In the temporary stopping zone, (1) temporary parking is prohibited, but
     regular parking is allowed (2) regular parking is prohibited, but temporary parking
     is allowed (3) regular parking and temporary parking are both prohibited.
   answer: '3'
   number: 299
   category: '12'
-  difficulty: impossible
+  difficulty: hard
 - question: When a driver is in an accident with no one injured or killed, and the
     motorcycle can still operate, the driver should (1) wait for the police to come
     to check the situation (2) mark the vehicle's location on the ground and move
@@ -2255,7 +2255,7 @@
   answer: '2'
   number: 314
   category: '12'
-  difficulty: impossible
+  difficulty: hard
 - question: Except for driving on a one-way street or designated fast lane, on a road
     that does not have broken yellow lines or double yellow solid line, the driver
     should (1) drive on the right side (2) drive on the left side (3) drive in the
@@ -2932,7 +2932,7 @@
   answer: '2'
   number: 408
   category: '14'
-  difficulty: impossible
+  difficulty: hard
 - question: The main purpose for installing air filter in a motorcycle is to (1) avoid
     sucking too much dust, which will damage the cylinder (2) reduce the noise from
     the motorcycle engine (3) filter the emissions and reduce pollution.
@@ -2957,7 +2957,7 @@
   answer: '2'
   number: 412
   category: '14'
-  difficulty: impossible
+  difficulty: hard
 - question: When the tire pressure is too high, (1) the shock absorber may break down
     sooner (2) it can cause wears in the middle of the tires (3) all of the above.
   answer: '3'
@@ -3101,7 +3101,7 @@
   answer: '2'
   number: 433
   category: '14'
-  difficulty: impossible
+  difficulty: hard
 - question: Which of the following behaviors is not helpful for safety driving? (1)
     use low beam lights when driving at night in the urban area (2) accelerate while
     turning to keep the balance (3) when driving in low speed, control the accelerator
@@ -3183,14 +3183,14 @@
   answer: '1'
   number: 443
   category: '14'
-  difficulty: impossible
+  difficulty: hard
 - question: Which of the following road conditions can make a motorcycle slip easily?
     (1) road markings (2) iron plates paved at the construction area (3) all of the
     above.
   answer: '3'
   number: 444
   category: '14'
-  difficulty: impossible
+  difficulty: hard
 - question: When a motorcycle is passing through a waterlogged area, the driver should
     (1) speed up (2) slow down (3) zigzag through.
   answer: '2'
@@ -3649,7 +3649,7 @@
   answer: '3'
   number: 507
   category: '15'
-  difficulty: impossible
+  difficulty: hard
 - question: If a motorist does not obey the instructions given by a level crossing
     guard, or a motorist drives through the crossing even when the alarm is sounded,
     the warning lights are blinking or the gate is lowered. In addition to a fine,

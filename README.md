@@ -38,13 +38,12 @@ These `.apkg` files can be imported into Anki.
 
 ## Difficulty
 
-* impossible - Like hard, but harder.
 * hard - A question that you could easily get wrong if you don't study.
 * medium - A question that you could get wrong if you don't have experience driving in another country, OR a question that is easy but has tricky wording.
 * easy - A question where the answer is intuitive.
 * unknown_difficulty - The difficulty hasn't been tagged yet. I welcome contributions / pull requests to tag the difficulty for these questions!
 
-For most test takers; I'd recommend only studying the hard and impossible questions. For people who are completely new to driving, I'd recommend also studying the medium questions.
+For most test takers; I'd recommend only studying the hard questions. For people who are completely new to driving, I'd recommend also studying the medium questions.
 Don't bother with the easy questions; they aren't worth your time, I promise.
 
 ### Examples

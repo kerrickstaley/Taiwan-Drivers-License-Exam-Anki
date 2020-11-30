@@ -245,7 +245,7 @@
   question_image: ec83babe7c612c05.png
   answer: '2'
   number: 46
-  difficulty: impossible
+  difficulty: hard
 - question: (1) Vehicle length limit (2) Vehicle width limit (3) Large trucks prohibited
   question_image: fced7d7532984fd3.png
   answer: '1'
@@ -266,7 +266,7 @@
   question_image: eec648c946ece210.png
   answer: '1'
   number: 50
-  difficulty: impossible
+  difficulty: hard
 - question: (1) Provincial road (2) County road (3) National road
   question_image: d750389f5e5f2269.png
   answer: '2'
@@ -304,13 +304,13 @@
   question_image: c101fc8eccb696dc.png
   answer: '1'
   number: 57
-  difficulty: impossible
+  difficulty: hard
 - question: (1) Flashing yellow light (2) Flashing red light (3) Pedestrian crosswalk
     signal
   question_image: 9959177107f518f7.png
   answer: '3'
   number: 58
-  difficulty: impossible
+  difficulty: hard
 - question: (1) Right lane closed (2) Left lane closed (3) Detour
   question_image: d6bcc12def6b74b7.png
   answer: '2'
@@ -389,7 +389,7 @@
   question_image: f7076441e36effb0.png
   answer: '1'
   number: 73
-  difficulty: impossible
+  difficulty: hard
 - question: (1) Stop line (2) Barrier ahead (3) Parking line
   question_image: 85a3f1dbc8189c5d.png
   answer: '3'
@@ -445,13 +445,13 @@
   question_image: 1c2a8cb286fce9de.png
   answer: '1'
   number: 83
-  difficulty: impossible
+  difficulty: hard
 - question: 'The solid red line indicates: (1) No parking (2) No temporary parking
     (3) Parking permitted'
   question_image: 36405e8b6cd4bd70.png
   answer: '2'
   number: 84
-  difficulty: impossible
+  difficulty: hard
 - question: 'The broken yellow line is a: (1) Lane line (2) Restriction line indicating
     that passing in oncoming lanes is prohibited (3) Direction-separation line'
   question_image: 1bac098bf061e346.png
@@ -475,7 +475,7 @@
   question_image: 40c7b8122fbf7f5b.png
   answer: '2'
   number: 88
-  difficulty: impossible
+  difficulty: hard
 - question: 'The solid yellow double line is a: (1) Restriction line indicating that
     passing in oncoming lanes is prohibited (2) Lane change prohibited indicator (3)
     Lane marker line'
@@ -487,7 +487,7 @@
   question_image: 12819a7a87471d29.png
   answer: '2'
   number: 90
-  difficulty: impossible
+  difficulty: hard
 - question: 'The checkered area advises motorists that : (1) Stopping permitted (2)
     No stopping (3) Parking prohibited'
   question_image: 04d58ef5955742cc.png
@@ -574,7 +574,7 @@
   question_image: ffaeb0155f2e73b3.png
   answer: '3'
   number: 104
-  difficulty: impossible
+  difficulty: hard
 - question: (1) Turn on head lights (2) Watch out for traffic signals (3) Tap horn
   question_image: aac504a33327bb9d.png
   answer: '1'
@@ -672,7 +672,7 @@
   question_image: 4e1ee67c56d982a9.png
   answer: '1'
   number: 121
-  difficulty: impossible
+  difficulty: hard
 - question: (1) Watch out for bicycles (2) Watch out for pedestrians (3) Watch out
     for motorcycles
   question_image: 9a77eab30ac2a88e.png
@@ -690,19 +690,19 @@
   question_image: 0ac022b31bd72512.png
   answer: '1'
   number: 124
-  difficulty: impossible
+  difficulty: hard
 - question: (1) Agricultural road (2) Numbered routes for county roads (3) Numbered
     routes for country roads
   question_image: 5b2be0488f25bddb.png
   answer: '3'
   number: 125
-  difficulty: impossible
+  difficulty: hard
 - question: (1) Numbered provincial roads for the expressways (2) Numbered Provincial
     roads for the freeways (3) Maximum speed limit
   question_image: 39909a0e2a46633a.png
   answer: '2'
   number: 126
-  difficulty: impossible
+  difficulty: hard
 - question: (1) Parking lot (2) Park (3) U-turn lane
   question_image: d27e5a16569615c8.png
   answer: '1'
@@ -712,7 +712,7 @@
   question_image: 03a743200f59d642.png
   answer: '1'
   number: 128
-  difficulty: impossible
+  difficulty: hard
 - question: (1) Wharf (2) Ferry pier (3) Auto repair
   question_image: a448e771d78c13e3.png
   answer: '1'
@@ -722,12 +722,12 @@
   question_image: aea3ba0a6d0d648e.png
   answer: '2'
   number: 130
-  difficulty: impossible
+  difficulty: hard
 - question: (1) MRT station (2) Railroad station (3) High speed rail station
   question_image: eaef008f6347b0fc.png
   answer: '3'
   number: 131
-  difficulty: impossible
+  difficulty: hard
 - question: (1) Bus stations or transit stations (2) MRT stations (3) Taxi stands
   question_image: 5c86c8f974c4a779.png
   answer: '1'

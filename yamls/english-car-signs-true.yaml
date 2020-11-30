@@ -57,7 +57,7 @@
   question_image: a22514347049e967.png
   answer: X
   number: 12
-  difficulty: impossible
+  difficulty: hard
 - question: Two-way
   question_image: c18d8ed94108ea6d.png
   answer: O
@@ -222,7 +222,7 @@
   question_image: 4d541677fc237528.png
   answer: O
   number: 45
-  difficulty: impossible
+  difficulty: hard
 - question: Stop and go
   question_image: 4d541677fc237528.png
   answer: X
@@ -292,17 +292,17 @@
   question_image: e35c055b88f8a4f7.png
   answer: O
   number: 59
-  difficulty: impossible
+  difficulty: hard
 - question: Vehicle gross weight limit
   question_image: e35c055b88f8a4f7.png
   answer: X
   number: 60
-  difficulty: impossible
+  difficulty: hard
 - question: Taxis with no passengers prohibited
   question_image: 5a178854af975798.png
   answer: O
   number: 61
-  difficulty: impossible
+  difficulty: hard
 - question: Vehicles prohibited
   question_image: 5a178854af975798.png
   answer: X
@@ -407,7 +407,7 @@
   question_image: bd0b99fcd38b766f.png
   answer: X
   number: 82
-  difficulty: impossible
+  difficulty: hard
 - question: Right turn
   question_image: 5e4ff7320095896c.png
   answer: O
@@ -442,12 +442,12 @@
   question_image: a74979c98b6fa990.png
   answer: O
   number: 89
-  difficulty: impossible
+  difficulty: hard
 - question: Traffic flow direction
   question_image: a74979c98b6fa990.png
   answer: X
   number: 90
-  difficulty: impossible
+  difficulty: hard
 - question: Provincial road
   question_image: 923db8032ea630c2.png
   answer: O
@@ -482,22 +482,22 @@
   question_image: b099581511ad99a6.png
   answer: O
   number: 97
-  difficulty: impossible
+  difficulty: hard
 - question: Crossroads
   question_image: b099581511ad99a6.png
   answer: X
   number: 98
-  difficulty: impossible
+  difficulty: hard
 - question: Single lane road
   question_image: 9bb5620527d1c2a5.png
   answer: O
   number: 99
-  difficulty: impossible
+  difficulty: hard
 - question: Two-way road
   question_image: 9bb5620527d1c2a5.png
   answer: X
   number: 100
-  difficulty: impossible
+  difficulty: hard
 - question: Right lane narrows ahead
   question_image: 5670678112e26c8d.png
   answer: O
@@ -552,12 +552,12 @@
   question_image: ec83babe7c612c05.png
   answer: O
   number: 111
-  difficulty: impossible
+  difficulty: hard
 - question: Multi-track railroad crossing.
   question_image: ec83babe7c612c05.png
   answer: X
   number: 112
-  difficulty: impossible
+  difficulty: hard
 - question: Special flashing red light
   question_image: a209772e442a4ac7.png
   answer: O
@@ -733,7 +733,7 @@
   question_image: 0425421a073a2fc3.png
   answer: O
   number: 147
-  difficulty: impossible
+  difficulty: hard
 - question: Solid yellow single line represents passing prohibited in both directions
   question_image: 0425421a073a2fc3.png
   answer: X
@@ -833,12 +833,12 @@
   question_image: 4e1ee67c56d982a9.png
   answer: O
   number: 167
-  difficulty: impossible
+  difficulty: hard
 - question: Solid yellow double lines serve to separate the traffic only
   question_image: 4e1ee67c56d982a9.png
   answer: X
   number: 168
-  difficulty: impossible
+  difficulty: hard
 - question: Road width changes
   question_image: 6749be3d9fb0b93f.png
   answer: O
@@ -913,93 +913,93 @@
   question_image: 0d169c986524c596.png
   answer: O
   number: 183
-  difficulty: impossible
+  difficulty: hard
 - question: Front vehicles must stop
   question_image: 0d169c986524c596.png
   answer: X
   number: 184
-  difficulty: impossible
+  difficulty: hard
 - question: Vehicles on the right must turn left
   question_image: 419b6e6989ee0a57.png
   answer: O
   number: 185
-  difficulty: impossible
+  difficulty: hard
 - question: Vehicles on the left must turn right
   question_image: 419b6e6989ee0a57.png
   answer: X
   number: 186
-  difficulty: impossible
+  difficulty: hard
 - question: Vehicles on right must stop
   question_image: d4639eb5d1071fd7.png
   answer: O
   number: 187
-  difficulty: impossible
+  difficulty: hard
 - question: Vehicles on left must stop
   question_image: d4639eb5d1071fd7.png
   answer: X
   number: 188
-  difficulty: impossible
+  difficulty: hard
 - question: Vehicles on the left must turn left
   question_image: 8303973ea5586bc7.png
   answer: O
   number: 189
-  difficulty: impossible
+  difficulty: hard
 - question: Vehicles on right must turn left
   question_image: 8303973ea5586bc7.png
   answer: X
   number: 190
-  difficulty: impossible
+  difficulty: hard
 - question: Vehicles on left must stop
   question_image: 3069513fe238609d.png
   answer: O
   number: 191
-  difficulty: impossible
+  difficulty: hard
 - question: Vehicles on right must stop
   question_image: 3069513fe238609d.png
   answer: X
   number: 192
-  difficulty: impossible
+  difficulty: hard
 - question: Vehicles in the front and rear must stop; vehicles approaching from the
     right and left may pass through
   question_image: da7016d87f7695e9.png
   answer: O
   number: 193
-  difficulty: impossible
+  difficulty: hard
 - question: All vehicles must stop
   question_image: da7016d87f7695e9.png
   answer: X
   number: 194
-  difficulty: impossible
+  difficulty: hard
 - question: Vehicles on the right pass through quickly
   question_image: 8060ce7b447db079.png
   answer: O
   number: 195
-  difficulty: impossible
+  difficulty: hard
 - question: Vehicles on the left must pass through quickly
   question_image: 8060ce7b447db079.png
   answer: X
   number: 196
-  difficulty: impossible
+  difficulty: hard
 - question: Vehicles in front must stop
   question_image: 036ca309524252ff.png
   answer: O
   number: 197
-  difficulty: impossible
+  difficulty: hard
 - question: All vehicles must stop
   question_image: 036ca309524252ff.png
   answer: X
   number: 198
-  difficulty: impossible
+  difficulty: hard
 - question: Vehicles on the left must pass through quickly
   question_image: ed1543cbac221106.png
   answer: O
   number: 199
-  difficulty: impossible
+  difficulty: hard
 - question: Vehicles on the right must pass through quickly
   question_image: ed1543cbac221106.png
   answer: X
   number: 200
-  difficulty: impossible
+  difficulty: hard
 - question: 'Speed limit: 110 km/h'
   question_image: 417e4688c6952517.png
   answer: O
@@ -1020,7 +1020,7 @@
   question_image: b099581511ad99a6.png
   answer: O
   number: 204
-  difficulty: impossible
+  difficulty: hard
 - question: 'Two exits ahead: 5 km for Yangmei and 30 km for Hsinchu'
   question_image: 376eca37ffa720e6.png
   answer: O
@@ -1062,7 +1062,7 @@
   question_image: 2aa05f827d925c18.png
   answer: X
   number: 212
-  difficulty: impossible
+  difficulty: hard
 - question: This cone serves as an auxiliary barricade to block or separate traffic.
   question_image: 87b271d72c716cc3.png
   answer: O
@@ -1073,12 +1073,12 @@
   question_image: 7b5ae9f24a64ad16.png
   answer: X
   number: 214
-  difficulty: impossible
+  difficulty: hard
 - question: This sign indicates the route to a specific destination.
   question_image: 21478c2b6c56b20b.png
   answer: X
   number: 215
-  difficulty: impossible
+  difficulty: hard
 - question: This sign indicates it's 2,000 meters to the interchange exit.
   question_image: 6b1526a64a5cbef2.png
   answer: O
@@ -1088,12 +1088,12 @@
   question_image: 6e8a0f3a67b98e29.png
   answer: O
   number: 217
-  difficulty: impossible
+  difficulty: hard
 - question: ABS brake indicator
   question_image: 6e8a0f3a67b98e29.png
   answer: X
   number: 218
-  difficulty: impossible
+  difficulty: hard
 - question: Charging indicator
   question_image: 573270d06823122c.png
   answer: O
@@ -1158,12 +1158,12 @@
   question_image: ee3840804df6d29b.png
   answer: O
   number: 231
-  difficulty: impossible
+  difficulty: hard
 - question: Fog-lamp indicator
   question_image: ee3840804df6d29b.png
   answer: X
   number: 232
-  difficulty: impossible
+  difficulty: hard
 - question: Safety belt indicator
   question_image: 430f25596464441e.png
   answer: O

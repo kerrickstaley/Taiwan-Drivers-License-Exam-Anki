@@ -255,7 +255,7 @@ class DifficultyDict:
   """
   Maps from `question` instances to their associated difficulty.
 
-  The difficulty value may be "easy", "medium", "hard", or "impossible".
+  The difficulty value may be "easy", "medium", or "hard".
 
   TODO I think we can just get rid of this and use a regular dict.
   """
