@@ -2,7 +2,9 @@
 
 This repo contains code to generate an [Anki](https://apps.ankiweb.net/) flashcard deck which helps you study for the exams for Taiwan's scooter and car driver's licenses.
 
-It uses the [official question bank PDFs](https://www.thb.gov.tw/sites/ch/modules/download/download_list?node=d78b410f-a497-4cbe-83d9-b7e7ad7b052e&c=e94977a2-5a11-45ce-b530-5ca55d709ed3).
+You can [download the deck from AnkiWeb](https://ankiweb.net/shared/info/2139136408).
+
+It uses the [official question bank PDFs](https://www.thb.gov.tw/catalog?node=9ea3538d-e302-4c8c-a2f9-038ad2caf714).
 
 This repo borrows heavily from [robhawkins's drive-taiwan project](https://github.com/robhawkins/drive-taiwan); thanks to Rob for his work on this!
 
@@ -49,6 +51,12 @@ Don't bother with the easy questions; they aren't worth your time, I promise.
 ### Examples
 
 Questions with answers like 1, 2, or 3 years, or 100, 200, 300 meters, are all ranked hard.
+
+## Limitations
+
+This deck doesn't include questions for mechanical knowledge (which you don't need if you just want a regular motorcycle or car license), or for large/specialized vehicles.
+It also doesn't include "situational" questions (part of the motorcycle exam), which are all easy and probably not worth studying. If you want to see these questions, you can
+[download them here](https://www.thb.gov.tw/file.ashx?id=c57b175b-3f3e-4da4-827b-da51fef79a8a).
 
 ## Differences from `drive-taiwan`
 
